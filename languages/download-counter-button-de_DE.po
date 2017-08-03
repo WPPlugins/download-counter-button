@@ -1,0 +1,2111 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: MeliBu WP Download Counter Button\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-10-21 23:17+0200\n"
+"PO-Revision-Date: 2016-10-21 23:19+0200\n"
+"Last-Translator: Samo <2side@gmx.de>\n"
+"Language-Team: \n"
+"Language: de\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-KeywordsList: _:1;gettext:1;dgettext:2;ngettext:1,2;dngettext:2,3;"
+"__:1;_e:1;_c:1;_n:1,2;_n_noop:1,2;_nc:1,2;__ngettext:1,2;__ngettext_noop:1,2;"
+"_x:1,2c;_ex:1,2c;_nx:1,2,4c;_nx_noop:1,2,3c;_n_js:1,2;_nx_js:1,2,3c;"
+"esc_attr__:1;esc_html__:1;esc_attr_e:1;esc_html_e:1;esc_attr_x:1,2c;"
+"esc_html_x:1,2c;comments_number_link:2,3;t:1;st:1;trans:1;transChoice:1,2\n"
+"X-Loco-Target-Locale: de_DE\n"
+"X-Generator: Poedit 1.8.10\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../classes/class.MelibuBackend.php:184 ../html/download.php:64
+#: ../html/welcome.php:64
+msgid "Design"
+msgstr "Design"
+
+#: ../classes/class.MelibuBackend.php:196 ../html/modal.php:57
+#: ../html/welcome.php:70 ../html/welcome.php:140
+msgid "Modal"
+msgstr "Modal"
+
+#: ../classes/class.MelibuBackend.php:208 ../html/welcome.php:76
+msgid "Subscribes"
+msgstr "Abonnenten"
+
+#: ../classes/class.MelibuBackend.php:220
+#: ../classes/pager/class.Downloads.php:231 ../html/welcome.php:82
+#: ../html/welcome.php:167
+msgid "Downloads"
+msgstr "Heruntergeladen"
+
+#: ../classes/class.MelibuBackend.php:232 ../html/settings.php:54
+#: ../html/welcome.php:88 ../html/welcome.php:177
+msgid "Settings"
+msgstr "Einstellungen"
+
+#: ../classes/class.MelibuBackend.php:244
+msgid "Shortcode"
+msgstr "Kurzcode"
+
+#: ../classes/class.MelibuBackend.php:256
+msgid "About"
+msgstr "Über"
+
+#: ../classes/class.MelibuBackend.php:300
+#: ../classes/class.MelibuFrontend.php:122
+msgid "Insert MB Download short code"
+msgstr "Setzte MB Download kurz Code"
+
+#: ../classes/class.MelibuBackend.php:301
+#: ../classes/class.MelibuFrontend.php:123
+msgid "Get File URL"
+msgstr "Hole Datei URL"
+
+#: ../classes/class.MelibuDownloader.php:274
+msgid "No file found: Please select a file"
+msgstr "Keine Datei gefunden: Bitte wählen Sie eine Datei"
+
+#: ../classes/class.MelibuDownloader.php:289
+msgid "No URL found: "
+msgstr "Keine URL gefunden:"
+
+#: ../classes/class.MelibuFrontend.php:366
+msgid "Check if File deleted!"
+msgstr "Überprüfen Sie, ob Datei gelöscht!"
+
+#: ../classes/class.MelibuFrontend.php:367
+msgid "Selected Check whether file!"
+msgstr "Prüfen ob Datei gewählt"
+
+#: ../classes/class.MelibuFrontend.php:368
+msgid "Changed Check whether filename or path!"
+msgstr "Prüfen ob Dateiname oder Pfad geändert"
+
+#: ../classes/class.MelibuFrontend.php:369
+msgid "Choose the file again, or enter the path manually!"
+msgstr "Wähle erneut die Datei oder gib Manuel den Pfad ein"
+
+#: ../classes/class.MelibuFrontend.php:370
+msgid "Refresh the page!"
+msgstr "Lade die Seite neu!"
+
+#: ../classes/class.MelibuFrontend.php:379
+#: ../classes/class.MelibuWidget.php:220 ../classes/class.MelibuWidget.php:274
+#: ../html/dummy/dummy.php:65 ../tpl/modal.php:164
+msgid "Powerd by"
+msgstr "Unterstützt von"
+
+#: ../classes/class.MelibuValidate.php:79
+msgid "Please enter your Name"
+msgstr "Bitte geben Sie Ihren Namen ein"
+
+#: ../classes/class.MelibuValidate.php:82
+msgid "Please enter at least 3 Characters"
+msgstr "Bitte geben Sie mindestens 3 Zeichen ein"
+
+#: ../classes/class.MelibuValidate.php:95
+msgid "Please enter your E-Mail-Address"
+msgstr "Bitte geben Sie Ihre E-Mail-Adresse ein"
+
+#: ../classes/class.MelibuValidate.php:98
+#: ../classes/class.MelibuValidate.php:101
+msgid "Please enter a valid E-Mail-Address"
+msgstr "Bitte geben Sie eine gültige E-Mail-Adresse ein"
+
+#: ../classes/class.MelibuValidate.php:104
+msgid "Please enter an E-Mail-Address that exists in world wide web"
+msgstr ""
+"Bitte geben Sie eine E-Mail-Adresse ein die im World Wide Web existiert"
+
+#: ../classes/class.MelibuValidate.php:117
+msgid "Please enter the password"
+msgstr "Bitte geben Sie das Passwort ein"
+
+#: ../classes/class.MelibuValidate.php:120
+msgid "Please enter the correct password"
+msgstr "Bitte geben Sie das richtige Passwort ein"
+
+#: ../classes/class.MelibuValidate.php:133
+msgid "Please enter the captcha"
+msgstr "Bitte geben Sie den Sicherheitscode ein"
+
+#: ../classes/class.MelibuValidate.php:136
+msgid "Please enter the correct captcha"
+msgstr "Bitte geben Sie den gültigen Sicherheitscode ein"
+
+#: ../classes/class.MelibuWidget.php:40
+msgid "A MeliBu WordPress Widget by Professionals Developers."
+msgstr "Ein MeliBu Wordpress Widget von Professionellen Entwicklern."
+
+#: ../classes/class.MelibuWidget.php:204
+msgid "Can't open file informations"
+msgstr "Kann die Datei Informationen nicht öffnen"
+
+#: ../classes/class.MelibuWidget.php:214 ../classes/class.MelibuWidget.php:312
+msgid "At the moment no top downloads available"
+msgstr "Zur Zeit sind keine Top-Downloads verfügbar"
+
+#: ../classes/class.MelibuWidget.php:256
+#: ../html/download/modal_text_form.php:14
+msgid "Title"
+msgstr "Titel"
+
+#: ../classes/class.MelibuWidget.php:262
+msgid "Select:"
+msgstr "Wählen:"
+
+#: ../classes/class.MelibuWidget.php:265
+msgid "Without Top 5"
+msgstr "Ohne Top 5"
+
+#: ../classes/class.MelibuWidget.php:279
+msgid "Click to Edit and Double Click to copy."
+msgstr ""
+"Klicken Sie einmal um zu Bearbeiten und doppelklicken Sie um zu kopieren."
+
+#: ../classes/class.MelibuWidget.php:289
+msgid "Text & Short Code"
+msgstr "Text & Kurz Code"
+
+#: ../classes/pager/class.Downloads.php:105
+#: ../classes/pager/class.Subscriber.php:111
+msgid "First"
+msgstr "Erste"
+
+#: ../classes/pager/class.Downloads.php:114
+#: ../classes/pager/class.Subscriber.php:121
+msgid "Back"
+msgstr "Zurück"
+
+#: ../classes/pager/class.Downloads.php:141
+#: ../classes/pager/class.Subscriber.php:150
+msgid "Go"
+msgstr "Vor"
+
+#: ../classes/pager/class.Downloads.php:150
+#: ../classes/pager/class.Subscriber.php:159
+msgid "Last"
+msgstr "Letzte"
+
+#: ../classes/pager/class.Downloads.php:160
+msgid "Download Files"
+msgstr "Angebotene Dateien"
+
+#: ../classes/pager/class.Downloads.php:161
+msgid "Total Downloads"
+msgstr "Gesamt Downloads"
+
+#: ../classes/pager/class.Downloads.php:170
+#: ../classes/pager/class.Subscriber.php:181
+msgid "Refresh"
+msgstr "Aktualisieren"
+
+#: ../classes/pager/class.Downloads.php:179
+msgid "You have no downloads."
+msgstr "Sie haben keine Downloads"
+
+#: ../classes/pager/class.Downloads.php:211
+#: ../classes/pager/class.Subscriber.php:254
+msgid "Show per page"
+msgstr "Zeige per Seite"
+
+#: ../classes/pager/class.Downloads.php:220
+msgid "Instance"
+msgstr "Instanz"
+
+#: ../classes/pager/class.Downloads.php:221 ../html/download.php:76
+msgid "Preview"
+msgstr "Vorschau"
+
+#: ../classes/pager/class.Downloads.php:222
+#: ../classes/pager/class.Subscriber.php:274
+msgid "Name"
+msgstr "Name"
+
+#: ../classes/pager/class.Downloads.php:223
+msgid "URL"
+msgstr "URL"
+
+#: ../classes/pager/class.Downloads.php:224
+msgid "Type"
+msgstr "Typ"
+
+#: ../classes/pager/class.Downloads.php:225
+msgid "Size"
+msgstr "Größe"
+
+#: ../classes/pager/class.Downloads.php:240
+msgid "Last Download"
+msgstr "Letzter Download"
+
+#: ../classes/pager/class.Downloads.php:245
+#: ../classes/pager/class.Subscriber.php:284
+msgid "Edit"
+msgstr "Bearbeiten"
+
+#: ../classes/pager/class.Downloads.php:269 ../html/welcome.php:181
+msgid "Full file protection"
+msgstr "Vollschutz für Dateien"
+
+#: ../classes/pager/class.Downloads.php:271
+msgid "is active"
+msgstr "ist aktiv"
+
+#: ../classes/pager/class.Downloads.php:272
+msgid "This file can not be accessed in the browser"
+msgstr "Diese Datei kann nicht im Browser zugegriffen werden"
+
+#: ../classes/pager/class.Downloads.php:286
+#: ../classes/pager/class.Subscriber.php:320
+msgid "internally"
+msgstr "intern"
+
+#: ../classes/pager/class.Downloads.php:289
+#: ../classes/pager/class.Subscriber.php:323
+msgid "external"
+msgstr "extern"
+
+#: ../classes/pager/class.Downloads.php:356
+#: ../classes/pager/class.Subscriber.php:370
+msgid "Page"
+msgstr "Seite"
+
+#: ../classes/pager/class.Downloads.php:356
+#: ../classes/pager/class.Subscriber.php:370
+msgid "from"
+msgstr "von"
+
+#: ../classes/pager/class.Downloads.php:376
+#: ../classes/pager/class.Subscriber.php:390
+msgid "Entry successfully removed"
+msgstr "Eintrag erfolgreich entfernt"
+
+#: ../classes/pager/class.Subscriber.php:171
+msgid "Total"
+msgstr "Gesamt"
+
+#: ../classes/pager/class.Subscriber.php:172 ../html/welcome.php:152
+msgid "Subscribers"
+msgstr "Abonnenten"
+
+#: ../classes/pager/class.Subscriber.php:190
+msgid "You have no Subscribers."
+msgstr "Sie haben keine Abonnenten"
+
+#: ../classes/pager/class.Subscriber.php:212
+msgid "Edit Mail to defaults"
+msgstr "Bearbeite Mail an Standards"
+
+#: ../classes/pager/class.Subscriber.php:213
+msgid "Close Mail to defaults"
+msgstr "Schliesse Mail an Standards"
+
+#: ../classes/pager/class.Subscriber.php:221
+msgid "Subject"
+msgstr "Btreff"
+
+#: ../classes/pager/class.Subscriber.php:224
+msgid "Body"
+msgstr "Inhalt"
+
+#: ../classes/pager/class.Subscriber.php:226 ../html/download/font.php:29
+#: ../html/download/font.php:38 ../html/shortcode.php:143
+msgid "More information about"
+msgstr "Mehr Information über"
+
+#: ../classes/pager/class.Subscriber.php:228
+#: ../html/download/button_color_form.php:78
+#: ../html/download/button_icon_color_form.php:80
+#: ../html/download/button_logo_form.php:29 ../html/download/captcha.php:25
+#: ../html/download/copy_option_form.php:26 ../html/download/errors.php:29
+#: ../html/download/font.php:42 ../html/download/hidecount.php:25
+#: ../html/download/label_color_form.php:39
+#: ../html/download/label_option_form.php:25
+#: ../html/download/layout_form.php:63
+#: ../html/download/modal_option_form.php:25 ../html/download/protect.php:25
+#: ../html/download/subscribe.php:34 ../html/download/topfive.php:25
+#: ../html/modal.php:89 ../html/shortcode.php:157
+msgid "Save"
+msgstr "Speichern"
+
+#: ../classes/pager/class.Subscriber.php:234
+msgid "E-Mail default settings"
+msgstr "E-Mail Standardeinstellungen"
+
+#: ../classes/pager/class.Subscriber.php:235
+msgid ""
+"You can make email standard settings here, that means if you click in the "
+"list on an e-mail address below, your e-mail program on the computer called. "
+"The sender is automatically populated with the email address to which you "
+"have just clicked and these standard settings have typing."
+msgstr ""
+"Sie können Email standardeinstellungen hier vornehmen, das bedeutet wenn Sie "
+"unten in der Liste auf eine E-Mail-Adresse klicken, wird Ihr E-Mail programm "
+"auf dem Computer aufgerufen. Der Absender wird automatisch mit der E-Mail-"
+"Addresse gefüllt auf den Sie soeben geklickt haben und diesen "
+"standardeinstellungen die Sie eingeben haben."
+
+#: ../classes/pager/class.Subscriber.php:268
+msgid "Subscriber"
+msgstr "Abonnent"
+
+#: ../classes/pager/class.Subscriber.php:272
+msgid "E-Mail"
+msgstr "E-Mail"
+
+#: ../classes/pager/class.Subscriber.php:273
+msgid "Url"
+msgstr "Url"
+
+#: ../classes/pager/class.Subscriber.php:280
+msgid "Subscribed on"
+msgstr "Abonniert am"
+
+#: ../classes/pager/class.Subscriber.php:293
+msgid "No Name"
+msgstr "Kein Name"
+
+#: ../classes/pager/class.Subscriber.php:294
+msgid "Turn name Mandatory when download to, in the settings."
+msgstr "Schalten Sie Namenspflicht beim download ein, in den einstellungen."
+
+#: ../classes/pager/class.Subscriber.php:299
+msgid "Mail to"
+msgstr "Mail an"
+
+#: ../download-counter-button.php:90 ../html/about.php:126
+msgid "Options"
+msgstr "Optionen"
+
+#: ../html/abo-lister.php:22 ../html/down-lister.php:19 ../html/download.php:40
+#: ../html/modal.php:35 ../html/settings.php:31 ../html/shortcode.php:27
+#: ../html/welcome.php:24
+msgid "Professional Themes and Plugins for WordPress"
+msgstr "Professionelle Themes und Plugins für Wordpress"
+
+#: ../html/abo-lister.php:32 ../html/download.php:50 ../html/modal.php:43
+#: ../html/settings.php:41 ../html/shortcode.php:35
+msgid "Settings saved!"
+msgstr "Einstellungen gespeichert !"
+
+#: ../html/about.php:22
+msgid "Welcome to"
+msgstr "Willkommen bei"
+
+#: ../html/about.php:26 ../html/download.php:131 ../html/modal.php:103
+#: ../html/welcome.php:30
+msgid "Version"
+msgstr "Version"
+
+#: ../html/about.php:36
+msgid "Welcome"
+msgstr "Willkommen"
+
+#: ../html/about.php:42 ../html/about.php:93
+msgid "Functions"
+msgstr "Funktionen"
+
+#: ../html/about.php:48 ../html/about.php:167
+msgid "Support"
+msgstr "Unterstützung"
+
+#: ../html/about.php:54
+msgid "Development"
+msgstr "Entwicklung"
+
+#: ../html/about.php:60
+msgid "Translation"
+msgstr "Übersetzung"
+
+#: ../html/about.php:66 ../html/about.php:318
+msgid "Donate"
+msgstr "Spenden"
+
+#: ../html/about.php:82
+msgid "More Professional"
+msgstr "Mehr Professionelle"
+
+#: ../html/about.php:82
+msgid "Themes"
+msgstr "Themen"
+
+#: ../html/about.php:82
+msgid "and"
+msgstr "und"
+
+#: ../html/about.php:82
+msgid "Plugins"
+msgstr "Plug-Ins"
+
+#: ../html/about.php:98
+msgid "Functionality"
+msgstr "Funktionalität"
+
+#: ../html/about.php:100
+msgid "Counts your downloads/clicks"
+msgstr "Zählt Ihre downloads/klicks"
+
+#: ../html/about.php:101
+msgid "Returns the current number of downloads/clicks"
+msgstr "Gibt die aktuelle Zahl der Downloads/Klicks in dem Button wieder"
+
+#: ../html/about.php:102
+msgid "No page refresh required (JS)"
+msgstr "Es ist keine Seiten Aktualisierung erforderlich (JS & AJAX)"
+
+#: ../html/about.php:103
+msgid "Prevents double count"
+msgstr "Verhindert doppelt Zählungen"
+
+#: ../html/about.php:104
+msgid "Multiple placeble (duplicates and singles)"
+msgstr "Mehrmals Platzieren möglich (Duplikate und Einzelne)"
+
+#: ../html/about.php:105
+msgid "Works in any post, page and text widget (Sidebars)"
+msgstr "Arbeitet in Posts, Seiten und Text-Widgets (Sidebars)"
+
+#: ../html/about.php:106
+msgid "Can useable any File-Types (PDF, ZIP, MP3, MPEG...) or any URL"
+msgstr ""
+"Nutzbare können alle Dateitypen (PDF, ZIP, MP3, MPEG...) oder einer URL"
+
+#: ../html/about.php:107
+msgid "All downloads can be provided with a captcha"
+msgstr "Alle downloads können mit einem Captcha versehen werden"
+
+#: ../html/about.php:108
+msgid ""
+"All downloads can be provided with a subscription & subscription with name"
+msgstr ""
+"Alle Downloads können mit einem Abonnement & Abonnement mit Namen versehen "
+"werden"
+
+#: ../html/about.php:109
+msgid "Top 5 Widget"
+msgstr "Top 5 Widget"
+
+#: ../html/about.php:110
+msgid "Label with infos"
+msgstr "Beschriften Sie mit infos"
+
+#: ../html/about.php:111
+msgid "Full File Protection"
+msgstr "Vollen Dateischutz"
+
+#: ../html/about.php:112
+msgid "Protect the download with Password"
+msgstr "Schützen Sie den Download mit Passwort"
+
+#: ../html/about.php:113
+msgid "Place your ads in the window"
+msgstr "Legen Sie Ihre ADS ins Fenster"
+
+#: ../html/about.php:114
+msgid "Simple select file from Media library or upload new or give the url"
+msgstr ""
+"Wählen Sie eine Datei aus der Medienbibliothek oder laden Sie neue Datei hoch"
+
+#: ../html/about.php:115
+msgid "Download information overview with statistics of downloaded files"
+msgstr "Informationen Übersicht mit Statistiken der heruntergeladenen Dateien"
+
+#: ../html/about.php:116
+msgid "With Subscriber list with mailto function"
+msgstr "Teilnehmerliste mit mailto-Funktion"
+
+#: ../html/about.php:117
+msgid "Download and Subscriber Overview sort"
+msgstr "Übersicht sortieren"
+
+#: ../html/about.php:118
+msgid "SEO relevant rel tag"
+msgstr "SEO relevanter rel Tag"
+
+#: ../html/about.php:119
+msgid "Any document/file type, open the right window"
+msgstr "Jeder Dokument / Dateityp , öffnet immer das richtige Fenster"
+
+#: ../html/about.php:120
+msgid "Automaticly file permission change"
+msgstr "Automatische Datei Berechtigungsänderung "
+
+#: ../html/about.php:121
+msgid "Counts without JavaScript (AJAX)"
+msgstr "Zählt auch ohne JavaScript (AJAX)"
+
+#: ../html/about.php:122
+msgid "Supports http:// and https:// protocol"
+msgstr "Unterstützt http:// und https:// Protokoll"
+
+#: ../html/about.php:128
+msgid "Shortcode to select from the media library a file"
+msgstr "Kurzcode um aus der Medienbibliothek eine Datei auszuwählen"
+
+#: ../html/about.php:129
+msgid "Custom button layout"
+msgstr "Benutzerdefinierte Schaltfläche Layout"
+
+#: ../html/about.php:130
+msgid "Custom button name"
+msgstr "Benutzerdefinierte Schaltfläche Name"
+
+#: ../html/about.php:131
+msgid "Custom button label name"
+msgstr "Benutzerdefinierte Schaltflächen Label Name"
+
+#: ../html/about.php:132
+msgid "Custom button datetime"
+msgstr "Benutzerdefinierte Schaltfläche Datumzeit"
+
+#: ../html/about.php:133
+msgid "Custom button other"
+msgstr "Benutzerdefinierte Schaltfläche Andere"
+
+#: ../html/about.php:134
+msgid "Custom button color"
+msgstr "Benutzerdefinierte Schaltfläche Farbe"
+
+#: ../html/about.php:135
+msgid "Custom button icon color"
+msgstr "Benutzerdefinierte Schaltflächen Symbol Farbe"
+
+#: ../html/about.php:136
+msgid "Custom dashed pattern"
+msgstr "Benutzerdefinierte Schaltfläche Individuell gestricheltes Muster"
+
+#: ../html/about.php:137
+msgid "Custom label color"
+msgstr "Benutzerdefinierte Schaltflächen Label Farbe"
+
+#: ../html/about.php:138
+msgid "Custom info box image upload"
+msgstr "Benutzerdefinierte Info-Box Bild-Upload"
+
+#: ../html/about.php:139
+msgid "Custom thanks, subscriber and captcha Title & Description"
+msgstr "Benutzerdefinierte Dank, Teilnehmer und Captcha-Titel und Beschreibung"
+
+#: ../html/about.php:140
+msgid "Custom ADS (Publish)"
+msgstr "Benutzerdefinierte ADS"
+
+#: ../html/about.php:141
+msgid "Show/Hide additional info box"
+msgstr "Anzeigen/Ausblenden einer zusätzliche Info-Box"
+
+#: ../html/about.php:142
+msgid "Show/Hide additional count"
+msgstr "Anzeigen/Ausblenden der Zählung"
+
+#: ../html/about.php:143
+msgid "Show/Hide additional modal"
+msgstr "Anzeigen/Ausblenden des Modals"
+
+#: ../html/about.php:144
+msgid "Show/Hide additional FontAwesome CSS"
+msgstr "Anzeigen/Ausblenden FontAwesome CSS"
+
+#: ../html/about.php:145
+msgid "Activate/Deactivate additional subscription"
+msgstr "Aktivieren / Deaktivieren zusätzliches Abonnement"
+
+#: ../html/about.php:146
+msgid "Activate/Deactivate additional captcha"
+msgstr "Aktivieren / Deaktivieren zusätzliche Captcha"
+
+#: ../html/about.php:147
+msgid "Activate/Deactivate full file protection"
+msgstr "Aktivieren / Deaktivieren vollen Dateischutz"
+
+#: ../html/about.php:148
+msgid "Subscriber overview mailto default settings"
+msgstr "Teilnehmerübersicht mailto Standardeinstellungen "
+
+#: ../html/about.php:149
+msgid "Refresh on downloads overview"
+msgstr "Aktualisieren auf Downloads Übersicht"
+
+#: ../html/about.php:150
+msgid "Refresh on subscriber overview"
+msgstr "Aktualisieren auf Teilnehmerübersicht "
+
+#: ../html/about.php:154
+msgid "Extras"
+msgstr "Extras"
+
+#: ../html/about.php:156
+msgid "Hide Counts for User"
+msgstr "Verstecke Zähler für Nutzer"
+
+#: ../html/about.php:156 ../html/about.php:157 ../html/about.php:158
+msgid "Idea of"
+msgstr "Idee von"
+
+#: ../html/about.php:157
+msgid "External URLs can be used"
+msgstr "Externe URLs können verwendet werden"
+
+#: ../html/about.php:158
+msgid "Short code default settings"
+msgstr "Kurz Code Standardeinstellungen"
+
+#: ../html/about.php:171
+msgid "In like please give"
+msgstr "Bei gefallen bitte"
+
+#: ../html/about.php:174
+msgid "WordPress Rate"
+msgstr "WordPress Bewertung"
+
+#: ../html/about.php:185
+msgid ""
+"Feel free and post your question, suggestion, idea or criticism. We love it!"
+msgstr ""
+"Fühlen Sie sich frei und posten Sie Ihre Fragen, Anregungen, Ideen oder "
+"Kritik. Wir lieben es!"
+
+#: ../html/about.php:187
+msgid "For Plugin English Support"
+msgstr "Für Englischen Plug-in Support"
+
+#: ../html/about.php:188
+msgid "Support EN"
+msgstr "Unterstützung EN"
+
+#: ../html/about.php:190
+msgid "For Plugin German Support"
+msgstr "Für Deutschen Plug-in Support"
+
+#: ../html/about.php:191
+msgid "Support DE"
+msgstr "Unterstützung DE"
+
+#: ../html/about.php:193
+msgid "For Plugin Turkey Support"
+msgstr "Für Türkischen Plug-in Support"
+
+#: ../html/about.php:194
+msgid "Support TR"
+msgstr "Unterstützung TR"
+
+#: ../html/about.php:203
+msgid "Development "
+msgstr "Entwicklung"
+
+#: ../html/about.php:207
+msgid "Author"
+msgstr "Autor"
+
+#: ../html/about.php:212
+msgid "Founder and Project Manager"
+msgstr "Gründer und Projektleiter"
+
+#: ../html/about.php:218
+msgid "Contributors"
+msgstr "Mitwirkende"
+
+#: ../html/about.php:223
+msgid "Project manager"
+msgstr "Projektbegleiter"
+
+#: ../html/about.php:225
+msgid "Economic Computer Science"
+msgstr "Wirtschaftsinformatik"
+
+#: ../html/about.php:229
+msgid "Marketing"
+msgstr "Marketing"
+
+#: ../html/about.php:235 ../html/download/layout_form.php:29
+#: ../html/welcome.php:124
+msgid "Developer"
+msgstr "Entwickler"
+
+#: ../html/about.php:246
+msgid "Thanks all Translaters"
+msgstr "Dank alle Übersetzer"
+
+#: ../html/about.php:249
+msgid "Translate this Plugin"
+msgstr "Übersetzen Sie dieses Plugin"
+
+#: ../html/about.php:249
+msgid "Translate"
+msgstr "Übersetzen"
+
+#: ../html/about.php:320
+msgid "Development is fueled by your praise and feedback"
+msgstr "Die Entwicklung wird angetrieben durch Ihr Lob und Feedback"
+
+#: ../html/about.php:324
+msgid ""
+"In how you can support us so that we can further develop this plugin "
+"regularly, it may not always be financially, so you will give us feedback or "
+"recommend us, please give us a review, Liken our Facebook page or sponsor "
+"us, so that we further useful free plugins can develop."
+msgstr ""
+"In wie Sie uns unterstützen können, damit wir regelmäßig dieses Plugin "
+"weiterentwickeln können, es muss nicht immer finanziell sein, deshalb geben "
+"Sie uns Feedback oder empfehlen Sie uns, geben Sie uns eine Bewertung, Liken "
+"Sie unsere Facebook Seite oder Sponsoren Sie uns, damit wir weitere "
+"nützliche kostenlose Plugins entwickeln können."
+
+#: ../html/about.php:327
+msgid ""
+"You see, it is much more possible if you want to support something, thanks "
+"to all the Support Us."
+msgstr ""
+"Sie sehen, es ist viel mehr möglich, wenn Sie etwas unterstützen wollen, "
+"Dank an alle die uns Unterstützen."
+
+#: ../html/about.php:333
+msgid "Now simply, quickly and safely pay online - with PayPal."
+msgstr "Jetzt einfach, schnell und sicher Online bezahlen - mit PayPal."
+
+#: ../html/about.php:337
+msgid "LOOK FOR SPONSOR !!!"
+msgstr "SUCHEN SPONSOR !!!"
+
+#: ../html/about.php:340
+msgid "Your Melibu Team"
+msgstr "Ihr Melibu Team"
+
+#: ../html/download.php:71 ../html/download/modal_text_form.php:21
+#: ../html/modal.php:65 ../html/modal.php:77 ../html/settings.php:61
+#: ../html/settings.php:98 ../html/settings.php:136 ../html/settings.php:154
+#: ../html/settings.php:172 ../html/settings.php:185 ../html/shortcode.php:66
+msgid "Description"
+msgstr "Beschreibung"
+
+#: ../html/download.php:72 ../html/settings.php:62 ../html/settings.php:99
+#: ../html/settings.php:137 ../html/settings.php:155 ../html/settings.php:173
+#: ../html/settings.php:186 ../html/shortcode.php:67
+msgid "Basic"
+msgstr "Basis"
+
+#: ../html/download.php:77
+msgid "Here you have a preview non active, you can click it."
+msgstr ""
+"Hier haben Sie eine Vorschau die nicht aktiv ist, also klicken Sie ruhig."
+
+#: ../html/download.php:85
+msgid "Image & Layout"
+msgstr "Bild & Aussehen"
+
+#: ../html/download.php:87
+msgid "Here you can set the image and the layout."
+msgstr "Hier können Sie ein Bild und das Layout festlegen."
+
+#: ../html/download.php:102 ../html/welcome.php:129
+msgid "Colors"
+msgstr "Farben"
+
+#: ../html/download.php:104
+msgid "Here you have to set the colors."
+msgstr "Hier können Sie die Farben festlegen."
+
+#: ../html/download.php:128 ../html/modal.php:100
+msgid "Thank you for your confidence in"
+msgstr "Danke für Ihr vertrauen in"
+
+#: ../html/download.php:141
+msgid ""
+"With the MeliBu WP Sharing Social Safe, your content will be shared not only "
+"without a warning, but you will also receive statistics. You can also use "
+"Optional bitly shortened URLs so your pages and posts are bit-lined so you "
+"can track the back link behave. And much more..."
+msgstr ""
+"Mit dem MeliBu WP Sharing Social Safe werden Ihre Inhalte nicht nur ohne "
+"abmahnung geteilt sondern Sie erhalten auch Statistiken. Sie können auch "
+"Optional bitly verkürzte URLs nutzen so werden Ihre Seiten und Beiträge mit "
+"bitly links versehen so das Sie das Back link verhalten verfolgen können. "
+"Und vieles mehr..."
+
+#: ../html/download.php:144 ../html/modal.php:116
+msgid "More..."
+msgstr "Mehr…"
+
+#: ../html/download.php:153
+msgid ""
+"Our feedback Generate's position all possible forms to create in seconds. "
+"Thanks to the sophisticated Melibus Drag N Drop system with live preview you "
+"can also see immediately what you are doing. And much more..."
+msgstr ""
+"Unser Feedback Generate ist in der lage all mögliche formulare in sekunden "
+"zu erstellen. Dank des Melibus ausgeklügeltem Drag N Drop System mit live "
+"vorschau sehen Sie ebenfalls sofort was Sie tun. Und vieles mehr..."
+
+#: ../html/download/button_color_form.php:15
+msgid "Button colors"
+msgstr "Button Farben"
+
+#: ../html/download/button_color_form.php:20
+#: ../html/download/button_icon_color_form.php:21
+msgid "Red"
+msgstr "Rot"
+
+#: ../html/download/button_color_form.php:23
+#: ../html/download/button_icon_color_form.php:24
+msgid "Red Flat"
+msgstr "Rot Flach"
+
+#: ../html/download/button_color_form.php:26
+#: ../html/download/button_icon_color_form.php:27
+msgid "Orange"
+msgstr "Orange"
+
+#: ../html/download/button_color_form.php:29
+#: ../html/download/button_icon_color_form.php:30
+msgid "Orange Flat"
+msgstr "Orange Flach"
+
+#: ../html/download/button_color_form.php:32
+#: ../html/download/button_icon_color_form.php:34
+msgid "Yellow"
+msgstr "Gelb"
+
+#: ../html/download/button_color_form.php:35
+#: ../html/download/button_icon_color_form.php:37
+msgid "Yellow Flat"
+msgstr "Gelb Flach"
+
+#: ../html/download/button_color_form.php:38
+#: ../html/download/button_icon_color_form.php:40
+msgid "Green"
+msgstr "Grün"
+
+#: ../html/download/button_color_form.php:41
+#: ../html/download/button_icon_color_form.php:43
+msgid "Green Flat"
+msgstr "Grün Flach"
+
+#: ../html/download/button_color_form.php:44
+#: ../html/download/button_icon_color_form.php:46
+msgid "Blue"
+msgstr "Blau"
+
+#: ../html/download/button_color_form.php:47
+#: ../html/download/button_icon_color_form.php:49
+msgid "Dark Blue"
+msgstr "Dunkel Blau"
+
+#: ../html/download/button_color_form.php:50
+#: ../html/download/button_icon_color_form.php:52
+msgid "Blue Flat"
+msgstr "Blau Flach"
+
+#: ../html/download/button_color_form.php:53
+#: ../html/download/button_icon_color_form.php:55
+msgid "Purple"
+msgstr "Lila"
+
+#: ../html/download/button_color_form.php:56
+#: ../html/download/button_icon_color_form.php:58
+msgid "Purple Flat"
+msgstr "Lila Flach"
+
+#: ../html/download/button_color_form.php:59
+#: ../html/download/button_icon_color_form.php:61
+msgid "Black"
+msgstr "Schwarz"
+
+#: ../html/download/button_color_form.php:62
+#: ../html/download/button_icon_color_form.php:64
+msgid "Black Flat"
+msgstr "Schwarz Flach"
+
+#: ../html/download/button_color_form.php:65
+#: ../html/download/button_icon_color_form.php:67
+msgid "Grey"
+msgstr "Grau"
+
+#: ../html/download/button_color_form.php:68
+#: ../html/download/button_icon_color_form.php:70
+msgid "Grey Flat"
+msgstr "Grau Flach"
+
+#: ../html/download/button_icon_color_form.php:15
+msgid "Icon colors"
+msgstr "Symbol Farben"
+
+#: ../html/download/button_logo_form.php:21
+msgid "You can set here a image for your download button."
+msgstr "Hier können Sie ein Download Bild hinzufügen."
+
+#: ../html/download/button_logo_form.php:26
+msgid "You can delete the actually image, save without select a image."
+msgstr ""
+"Sie können das aktuelle Bild löschen in dem Sie einfach ohne ein Bild "
+"auszuwählen speichern."
+
+#: ../html/download/captcha.php:20 ../html/download/copy_option_form.php:22
+#: ../html/download/errors.php:25 ../html/download/font.php:20
+#: ../html/download/font.php:28 ../html/download/font.php:37
+#: ../html/download/hidecount.php:20 ../html/download/label_option_form.php:20
+#: ../html/download/modal_option_form.php:20 ../html/download/protect.php:20
+#: ../html/download/subscribe.php:20 ../html/download/topfive.php:20
+msgid "Turn"
+msgstr "Wende"
+
+#: ../html/download/font.php:13
+msgid "No Icon"
+msgstr "Kein Symbol"
+
+#: ../html/download/label_color_form.php:15
+msgid "Label colors"
+msgstr "Label Farben"
+
+#: ../html/download/label_color_form.php:20
+msgid "Light"
+msgstr "Licht"
+
+#: ../html/download/label_color_form.php:23
+msgid "Light Flat"
+msgstr "Licht Flach"
+
+#: ../html/download/label_color_form.php:26
+msgid "Dark"
+msgstr "Dunkel"
+
+#: ../html/download/label_color_form.php:29
+msgid "Dark Flat"
+msgstr "Dunkel Flach"
+
+#: ../html/download/label_color_form.php:32
+msgid "White"
+msgstr "Weiss"
+
+#: ../html/download/label_color_form.php:35
+msgid "White Flat"
+msgstr "Weiss Flach"
+
+#: ../html/download/layout_form.php:15
+msgid "Choose your Layout"
+msgstr "Wähle dein Layout"
+
+#: ../html/download/layout_form.php:21 ../html/welcome.php:122
+msgid "Normal"
+msgstr "Normal"
+
+#: ../html/download/layout_form.php:25 ../html/welcome.php:123
+msgid "User"
+msgstr "Nutzer"
+
+#: ../html/download/layout_form.php:33 ../html/download/layout_form.php:37
+#: ../html/download/layout_form.php:41 ../html/welcome.php:125
+#: ../html/welcome.php:126 ../html/welcome.php:127
+msgid "Organization"
+msgstr "Organisation"
+
+#: ../html/download/layout_form.php:51
+msgid "Dashed"
+msgstr "Gestrichelt"
+
+#: ../html/download/modal_ads_form.php:11 ../html/welcome.php:143
+msgid "ADS"
+msgstr "ADS"
+
+#: ../html/download/modal_ads_form.php:12
+msgid "For Publishers: ADS / Socials or other code"
+msgstr "Für Verleger: ADS / Soziales oder anderen Code"
+
+#: ../html/download/modal_ads_form.php:25
+msgid "For example"
+msgstr "Zum Beispiel"
+
+#: ../html/download/modal_text_form.php:11 ../html/welcome.php:141
+msgid "Thank, Subscribe and Captcha window"
+msgstr "Dank, Abo und Captcha Fenster"
+
+#: ../html/download/modal_text_form.php:12
+msgid ""
+"Here you can the Downloader say thank you, give information on the "
+"subscription, captcha or more."
+msgstr ""
+"Hier können Sie den Herunterladenden danke sagen, Auskunft über Abonnement "
+"geben, den Captcha oder auch mehr."
+
+#: ../html/download/subscribe.php:29
+msgid "Turn with Name"
+msgstr "Wählen Sie mit Namen"
+
+#: ../html/modal.php:66 ../html/modal.php:78 ../html/settings.php:63
+#: ../html/settings.php:100 ../html/settings.php:138 ../html/settings.php:156
+#: ../html/settings.php:174 ../html/shortcode.php:68
+msgid "Example"
+msgstr "Beispiel"
+
+#: ../html/modal.php:113
+msgid ""
+"Do you know, the MeliBu WP Syntax High Lighter. Turn your code into a "
+"highlight in seconds with short codes in WP Texteditor. And very much more..."
+msgstr ""
+"Kennen Sie, den MeliBu WP Syntax High Lichter. Verwandeln Sie Ihren Code in "
+"ein Highlight in Sekunden mit short Codes im WP Texteditor. Und noch viel "
+"mehr..."
+
+#: ../html/modal.php:125
+msgid ""
+"Get more statistics, with the Melibu WP hits. Learn how many clicks you on "
+"what download button get, in several graphic banner with detailed "
+"information. It supports various plugins Melibu. And very much more..."
+msgstr ""
+"Erhalte mehr Statistiken, mit dem Melibu WP Hits. Erfahre wieviele Klicks du "
+"auf welchem Download button bekommst, in mehreren Grafikbalken mit "
+"ausführlichen Informationen. Es unterstützt diverse Plugins von Melibu. Und "
+"sehr vieles mehr..."
+
+#: ../html/settings.php:67
+msgid "Label"
+msgstr "Infolabel"
+
+#: ../html/settings.php:69
+msgid "Here you have to set the possibility."
+msgstr "Hier können Sie die Sichtbarkeit des Labels einstellen."
+
+#: ../html/settings.php:77
+msgid "Hide Count"
+msgstr "Zähler Ausblenden"
+
+#: ../html/settings.php:79
+msgid "Here you can show/hide count for Users. (Only Admin see the counts)"
+msgstr ""
+"Hier können Sie den Zähler Anzeigen / Verbergen für Nutzer. (Nur Admin sieht "
+"die Zahlen)"
+
+#: ../html/settings.php:87
+msgid "Support us"
+msgstr "Unterstützen Sie uns"
+
+#: ../html/settings.php:88
+msgid "Here you can show/hide"
+msgstr "Hier können Sie ein-/ausblenden"
+
+#: ../html/settings.php:89
+msgid "Please activate this to help us, for share this plugin"
+msgstr "Bitte aktivieren Sie dies um uns zu helfen, das Plug-in zu verbreiten"
+
+#: ../html/settings.php:104
+msgid "Thank window"
+msgstr "Danke Fenster"
+
+#: ../html/settings.php:106
+msgid "You can, depending on the need, the Thank window on and off."
+msgstr "Sie können, je nach Bedarf, das Danke Fenster ein-/ausblenden."
+
+#: ../html/settings.php:114
+msgid "Subscription"
+msgstr "Abonnement"
+
+#: ../html/settings.php:116
+msgid ""
+"You can activate the subscription feature. Turn this feature on, the user "
+"must enter the file downloading an e-mail address."
+msgstr ""
+"Hier können Sie die Abonnement-Funktion aktivieren. Schalten Sie diese "
+"Funktion Ein, muss der Nutzer eine E-Mail-Adresse eingeben um die Datei "
+"herunterzuladen."
+
+#: ../html/settings.php:124
+msgid "Captcha"
+msgstr "Captcha"
+
+#: ../html/settings.php:126
+msgid "Click here for Malibu Captcha depending on needs on and off"
+msgstr "Hier können Sie den Melibu Captcha je nach bedarf an-/ausschalten"
+
+#: ../html/settings.php:144
+msgid "Here you can display and hide the information to download"
+msgstr "Hier können Sie die Information zum Download ein-/ausblenden."
+
+#: ../html/settings.php:160
+msgid "Protection"
+msgstr "Schutz"
+
+#: ../html/settings.php:162
+msgid ""
+"If you really want to protect a file so that no one can download it with "
+"other agents, you have to enable this function. When you do this will no "
+"longer be accessible to the entire web space / server this file and can be "
+"downloaded only with the WP MeliBu Download Counter button."
+msgstr ""
+"Wenn Sie eine Datei wirklich so schützen wollen das keiner es mit anderen "
+"Mitteln herunterladen kann, müssen Sie diese Funktion aktivieren. Wenn Sie "
+"dies tun wird auf dem ganzen Webspace / Server diese Datei nicht mehr "
+"aufrufbar sein und kann nur noch mit dem MeliBu WP Download Counter Button "
+"heruntergeladen werden."
+
+#: ../html/settings.php:177
+msgid "Font"
+msgstr "Schrift"
+
+#: ../html/settings.php:177
+msgid "You can according to your needs the Icons on and off."
+msgstr "Sie können je nach Bedürfniss die Icons Ein- und Ausschalten."
+
+#: ../html/settings.php:190
+msgid "Help us to improve the plugin"
+msgstr "Hilf uns das Plugin zu verbessern"
+
+#: ../html/settings.php:192
+msgid "Enable error notification report"
+msgstr "Aktivieren Sie die Fehlerbenachrichtigung"
+
+#: ../html/shortcode.php:48 ../html/shortcode.php:52 ../html/welcome.php:94
+#: ../html/welcome.php:192
+msgid "Short code"
+msgstr "Kurz Code"
+
+#: ../html/shortcode.php:53
+msgid "Set the short code defaults here"
+msgstr "Stellen Sie die kurz Code Standardwerte hier ein"
+
+#: ../html/shortcode.php:72
+msgid "Password"
+msgstr "Passwort"
+
+#: ../html/shortcode.php:73 ../html/shortcode.php:87 ../html/shortcode.php:142
+#: ../html/welcome.php:226 ../html/welcome.php:230 ../html/welcome.php:246
+msgid "new"
+msgstr "neu"
+
+#: ../html/shortcode.php:86
+msgid "Button name"
+msgstr "Button name"
+
+#: ../html/shortcode.php:100
+msgid "Label name"
+msgstr "Label name"
+
+#: ../html/shortcode.php:114
+msgid "Datetime"
+msgstr "Datum Zeit"
+
+#: ../html/shortcode.php:115
+msgid ""
+"The short code works with the date specified time that you can adjust at any "
+"time or have customized in your WP setting"
+msgstr ""
+"Der kurz Code arbeitet mit den Datumzeit angaben die Sie jederzeit anpassen "
+"können oder angepasst haben in Ihrer WP einstellung"
+
+#: ../html/shortcode.php:119
+msgid "Currently set"
+msgstr "Derzeit gesetzt"
+
+#: ../html/shortcode.php:121
+msgid "WP Dateime settings"
+msgstr "WP Datum Zeit Einstellungen"
+
+#: ../html/shortcode.php:127
+msgid "Other"
+msgstr "Andere"
+
+#: ../html/shortcode.php:141
+msgid "Seo"
+msgstr "Seo"
+
+#: ../html/shortcode.php:143
+msgid "This parameter is the rel tag the same"
+msgstr "Dieser Parameter ist dem rel-Tag gleich"
+
+#: ../html/welcome.php:46
+msgid "This documentation should help you."
+msgstr "Diese Dokumentation soll Ihnen weiterhelfen."
+
+#: ../html/welcome.php:58
+msgid "Start"
+msgstr "Beginn"
+
+#: ../html/welcome.php:109
+msgid "To use Melibu WP Donwload Counter Button properly"
+msgstr "Melibu WP Donwload Counter richtig nutzen"
+
+#: ../html/welcome.php:110
+msgid "Thank you that you use MeliBu WP Donwload Counter Button"
+msgstr "Vielen Dank das Sie MeliBu WP Download Counter Button nutzen"
+
+#: ../html/welcome.php:118
+msgid "Let's start now with the button"
+msgstr "Lassen Sie uns mit dem Button selbst starten"
+
+#: ../html/welcome.php:119
+msgid "Layout"
+msgstr "Layout"
+
+#: ../html/welcome.php:120
+msgid ""
+"First you have the opportunity to select a predefined template, in the free "
+"version are these"
+msgstr ""
+"Sie haben zunächst die Möglichkeit, eine vor definierte Vorlage auszuwählen, "
+"in der kostenlosen Version sind diese"
+
+#: ../html/welcome.php:130
+msgid "After the selection of a template you can now change the colors"
+msgstr "Nach der Auswahl einer Vorlage können Sie nun die Farben ändern"
+
+#: ../html/welcome.php:131
+msgid "Logo"
+msgstr "Logo"
+
+#: ../html/welcome.php:132
+msgid "Upload your logo to the downloads"
+msgstr "Laden Sie Ihr Logo zu den Downloads"
+
+#: ../html/welcome.php:132
+msgid "your logo with every download the label Show"
+msgstr "Ihr logo bei jedem download im Label anzeigen"
+
+#: ../html/welcome.php:133
+msgid "Select your download button"
+msgstr "Wählen Sie Ihren Download-Button"
+
+#: ../html/welcome.php:142
+msgid "Give your form an appropriate title and description"
+msgstr "Geben Sie Ihrem Formular einen entsprechenden Titel und Beschreibung"
+
+#: ../html/welcome.php:144
+msgid "Place your advertising or affiliate program banners"
+msgstr "Platzieren Sie Ihre Werbung oder Affiliate-Programm Banner"
+
+#: ../html/welcome.php:145 ../html/welcome.php:185
+msgid "Set it"
+msgstr "Stellen Sie es ein"
+
+#: ../html/welcome.php:153
+msgid "Download after enter E-Mail-Address"
+msgstr "Herunterladen nach Eingabe von E-Mail-Adresse"
+
+#: ../html/welcome.php:154
+msgid ""
+"Activate, Subscribe ask the function to the user when download the settings "
+"to enter your email address"
+msgstr ""
+"Aktivieren Sie in den Einstellungen die abonnier Funktion um die Nutzer beim "
+"download aufzufordern ihre Email Adresse einzugeben"
+
+#: ../html/welcome.php:155
+msgid "Download after enter E-Mail-Address and Name"
+msgstr "Herunterladen nach Eingabe von E-Mail-Adresse und Name"
+
+#: ../html/welcome.php:156
+msgid ""
+"In addition, to require you to enter the name you select this under the "
+"settings"
+msgstr ""
+"Um zusätzlich die Eingabe des Namens zu verlangen aktivieren Sie diese auch "
+"unter den Einstellungen"
+
+#: ../html/welcome.php:157
+msgid "Activate Subscribes"
+msgstr "Abonnement Aktivieren"
+
+#: ../html/welcome.php:158 ../html/welcome.php:168
+msgid "Overview"
+msgstr "Übersicht"
+
+#: ../html/welcome.php:159
+msgid "You get all subscribes in one list and may be consulted at any time"
+msgstr ""
+"Sie erhalten alle Teilnehmer in einer Liste und können jederzeit eingesehen "
+"werden"
+
+#: ../html/welcome.php:160
+msgid "Check Subscriber list"
+msgstr "Überprüfen Sie Ihre Teilnehmerliste "
+
+#: ../html/welcome.php:169
+msgid "You get all downloads in one list and may be consulted at any time"
+msgstr ""
+"Sie erhalten alle heruntergeladenen Dateien in einer Liste und können "
+"jederzeit eingesehen werden"
+
+#: ../html/welcome.php:170
+msgid "Check download list"
+msgstr "Prüfen Sie Ihre Download-Liste"
+
+#: ../html/welcome.php:178
+msgid "Download after enter Captcha"
+msgstr "Herunterladen nach Captcha Eingabe"
+
+#: ../html/welcome.php:179
+msgid "Activate a Captcha, which must then be entered for each download"
+msgstr ""
+"Aktivieren eines Captchas, die dann für jeden Download eingegeben werden muss"
+
+#: ../html/welcome.php:180
+msgid "Activate captcha"
+msgstr "Captcha aktivieren"
+
+#: ../html/welcome.php:182
+msgid "Activate a protect, which must then be entered for each download"
+msgstr ""
+"Aktivieren Sie ein Schutz, das dann für jeden Download eingegeben werden muss"
+
+#: ../html/welcome.php:183
+msgid "Activate protect"
+msgstr "Schutz aktivieren"
+
+#: ../html/welcome.php:184
+msgid "You can make and optimize with many various settings"
+msgstr "Sie können viele verschiedenen Einstellungen vornehmen und optimieren"
+
+#: ../html/welcome.php:193
+msgid ""
+"Use the short code in your WP Editor for set your downloads or copy, paste "
+"and set manually"
+msgstr ""
+"Verwenden Sie den kurz Code in Ihrem WP-Editor für Ihre Downloads oder "
+"Kopieren, Einfügen und manuell einstellen"
+
+#: ../html/welcome.php:196
+msgid "OLD"
+msgstr "ALT"
+
+#: ../html/welcome.php:205
+msgid "NEW"
+msgstr "NEU"
+
+#: ../html/welcome.php:219
+msgid ""
+"Without this shortcode does not download the old version should be replaced "
+"if possible by the latest. Both versions work but could be a fault occur "
+"when another plugin also the name download has a shortcode"
+msgstr ""
+"Ohne diesen kurz Code funktioniert kein download, die alte Version sollte "
+"falls möglich ersetzt werden durch die neueste. Beide Varianten "
+"funktionieren jedoch könnte ein Fehler auftreten wenn ein anderes Plug-in "
+"auch den Name download als kurz Code besitzt"
+
+#: ../html/welcome.php:223
+msgid ""
+"The instance that is controlled single and duplicates each download you must "
+"offer individually possess another instance, unless you want to use on a "
+"page more identical downloads, then you have the instance and the download "
+"URL be the same"
+msgstr ""
+"Die Instanz steuert einzelne und Duplikate d.h. jeder download den Sie "
+"einzeln anbieten muss eine andere Instanz besitzen, ausser Sie möchten auf "
+"einer Seite mehrere identische downloads verwenden, dann muss die Instanz "
+"und die Datei URL gleich sein"
+
+#: ../html/welcome.php:227
+msgid "You can add this parameter you download a password"
+msgstr ""
+"Sie können mit diesem Parameter Ihr download mit einem Passwort versehen"
+
+#: ../html/welcome.php:231
+msgid "You can choose the Download button name as example \"My Download\""
+msgstr "Sie können den Download Button Namen wie zB \"My Download\" wählen"
+
+#: ../html/welcome.php:235
+msgid "You can choose the Download label name as example \"My Download Label\""
+msgstr ""
+"Sie können den Download Label Namen wie z.B. \"My Download Label“ wählen"
+
+#: ../html/welcome.php:239
+msgid ""
+"This is generated automatically when you put the short code, this is the "
+"date when you submitted the file available or what you want"
+msgstr ""
+"Dies wird automatisch generiert, wenn Sie den kurz Code setzen, ist dies der "
+"Zeitpunkt, wann Sie die Datei zur Verfügung stellen"
+
+#: ../html/welcome.php:243
+msgid "This parameter can, for example, for the version or use something else"
+msgstr ""
+"Dieser Parameter kann zum Beispiel für die Version oder etwas anderes "
+"verwenden"
+
+#: ../html/welcome.php:247
+msgid ""
+"This parameter is the rel tag the same, you can see any information for rel "
+"tag by the"
+msgstr ""
+"Dieser Parameter ist dem rel-Tag gleich, Sie können alle Informationen fürs "
+"rel-Tag hier erhalten"
+
+#: ../html/welcome.php:254
+msgid ""
+"That is the short code. You can copy a short code and place on a page, post "
+"or in a widget. Or use the short code has been integrated into your editor, "
+"a click is enough and the part buttons after save visible"
+msgstr ""
+"Das ist der Kurzcode. Sie können einen Kurzcode auf einer Seite, ein Beitrag "
+"oder in einem widget platzieren. Oder Sie können den Kurzcode verwenden der "
+"in Ihrem Editor integriert ist, ein Klick genügt und der Kurzcode wird "
+"platziert."
+
+#: ../html/welcome.php:263
+msgid "Please take the short code double click to copy"
+msgstr "Bitte nehmen Sie die Abkürzung Doppelklick um zu kopieren"
+
+#: ../html/welcome.php:267
+msgid "You can set for the short code standard settings"
+msgstr "Sie können für den kurz Code Standardeinstellungen vornehmen"
+
+#: ../html/welcome.php:268
+msgid "Set it now"
+msgstr "Stellen Sie es jetzt ein"
+
+#: ../html/welcome.php:281
+msgid "Use Short code in WP Editor"
+msgstr "Verwenden Sie den kurz Code im WP-Editor"
+
+#: ../html/welcome.php:282
+msgid "Take your part to put the buttons shortcode in WP editor Melibu"
+msgstr "Setzen Sie den kurz Code in WP-Editor Melibu"
+
+#: ../html/welcome.php:288
+msgid "Use Top 5 Widget"
+msgstr "Nutze Top 5 Widget"
+
+#: ../html/welcome.php:289
+msgid "Use the Top 5 widget to your Top Downloads close attention"
+msgstr ""
+"Verwenden Sie das Top 5 Widget um auf Ihre Top-Downloads Aufmerksam zu machen"
+
+#: ../tpl/modal.php:40
+msgid "Download"
+msgstr "Download"
+
+#: ../tpl/modal.php:49
+msgid ""
+"Thank you for your download, we hope you are satisfied with our software."
+msgstr "Danke das Sie sich unser Produkt herunterladen."
+
+#: ../tpl/modal.php:95
+msgid "Enter your Name"
+msgstr "Geben Sie Ihren Namen ein"
+
+#: ../tpl/modal.php:101
+msgid "Enter your E-Mail"
+msgstr "Geben Sie Ihre E-Mail Adress ein"
+
+#: ../tpl/modal.php:113
+msgid "Enter your Password"
+msgstr "Geben Sie das Passwort ein"
+
+#: ../tpl/modal.php:154
+msgid "Enter Code"
+msgstr "Geben Sie den Code ein"
+
+#: ../tpl/modal.php:178
+msgid "Cancel"
+msgstr "Abbrechen"
+
+#: ../tpl/modal.php:183 ../tpl/modal.php:185 ../tpl/modal.php:189
+#: ../tpl/modal.php:191
+msgid "Click here to download"
+msgstr "Klick hier zum download"
+
+#~ msgid "Coming soon"
+#~ msgstr "Demnächst"
+
+#~ msgid "FontAwesome"
+#~ msgstr "FontAwesome"
+
+#~ msgid "You can according to your needs the FontAwesome CSS on and off."
+#~ msgstr "Hier können Sie je nach gebrauch FontAwesome an-/ausschalten"
+
+#~ msgid "Button Backgroundcolor"
+#~ msgstr "Button Hintergrundfarbe"
+
+#~ msgid "Icon Backgroundcolor"
+#~ msgstr "Symbol Hintergrundfarbe"
+
+#~ msgid "Label Backgroundcolor"
+#~ msgstr "Info Hintergrundfarbe"
+
+#~ msgid "Project companion"
+#~ msgstr "Projekt Begleiter"
+
+#~ msgid "The file does not exist or could not be found"
+#~ msgstr "Die Datei existiert nicht oder wurde nicht gefunden:"
+
+#~ msgid "Error: No URL found"
+#~ msgstr "Fehler: Keine Url gefunden"
+
+#~ msgid ""
+#~ "Please select a file, select a file or enter manually the URL of the "
+#~ "file, save and refresh the page!"
+#~ msgstr ""
+#~ "Bitte wählen Sie eine Datei, wählen Sie eine Datei oder geben Sie manuell "
+#~ "die URL der Datei ein, speichern und aktualisieren Sie die Seite!"
+
+#~ msgid "Can useable any File-Types (PDF, ZIP, MP3, MPEG...)"
+#~ msgstr "Beliebige Datei-Typen verwendbar (PDF, ZIP, MP3, MPEG ...)"
+
+#~ msgid "All downloads can be provided with a subscription"
+#~ msgstr "Alle downloads können mit einem Abonnement versehen werden"
+
+#~ msgid "Subscription with name"
+#~ msgstr "Abonnement mit Namen"
+
+#~ msgid "Simple select file from Media library or upload new"
+#~ msgstr ""
+#~ "Wählen Sie eine Datei aus der Medienbibliothek oder laden Sie neue Datei "
+#~ "hoch"
+
+#~ msgid "Are statistics of downloaded files"
+#~ msgstr "Statistiken von heruntergeladenen Dateien"
+
+#~ msgid "Overview sort"
+#~ msgstr "Übersicht sortieren"
+
+#~ msgid "Are Subscriber list"
+#~ msgstr "Teilnehmerliste"
+
+#~ msgid "Subscriber list with mailto function"
+#~ msgstr "Teilnehmerliste mit mailto-Funktion"
+
+#~ msgid "Custom thanks Title & Description"
+#~ msgstr "Individuelle Dank Titel & Beschreibung"
+
+#~ msgid "Turn Backend"
+#~ msgstr "Wende Backend"
+
+#~ msgid "Turn Frontend"
+#~ msgstr "Wende Frontend"
+
+#~ msgid "options"
+#~ msgstr "optionen"
+
+#~ msgid "Activate Captcha"
+#~ msgstr "Captcha Aktivieren"
+
+#~ msgid ""
+#~ "Custom button Name, Datetime and other Information (with shortcode in WP "
+#~ "Rich Text Editor)"
+#~ msgstr ""
+#~ "Individueller Button Name, Zeitpunkt und andere Informationen (mit "
+#~ "Shortcode im WP Editor) "
+
+#~ msgid "Custom button Color"
+#~ msgstr "Individuelle Button farbeinstellung"
+
+#~ msgid "Custom button Icon Color"
+#~ msgstr "Individuelle Button Symbol farbeinstellung"
+
+#~ msgid "File Protection"
+#~ msgstr "Dateischutz"
+
+#~ msgid "File Protection Guard"
+#~ msgstr "Dateischutz"
+
+#~ msgid "Protect"
+#~ msgstr "Schützen"
+
+#~ msgid "File not exists or not found: "
+#~ msgstr "Die Datei existiert nicht oder wurde nicht gefunden:"
+
+#~ msgid "File not exists: "
+#~ msgstr "Datei existiert nicht:"
+
+#~ msgid "Delete"
+#~ msgstr "Entfernen"
+
+#~ msgid "Mailto"
+#~ msgstr "Mailzu"
+
+#~ msgid "You can choose the Download label name as example \"My Download\""
+#~ msgstr ""
+#~ "Sie können den Download-Label-Namen wie z.B. \"My Download label“ wählen"
+
+#~ msgid ""
+#~ "You have first the possibility to select a predefined template, available "
+#~ "in the free version are these"
+#~ msgstr ""
+#~ "Sie haben zunächst die Möglichkeit, eine vor definierte Vorlage, in der "
+#~ "kostenlosen Version sind diese"
+
+#~ msgid ""
+#~ "Get more statistics, with the Melibu WP hits. Learn how many clicks you "
+#~ "on what download button get, in several graphic banner with detailed "
+#~ "information. And very much more. It supports various plugins Melibu"
+#~ msgstr ""
+#~ "Erhalte mehr Statistiken, mit dem Melibu WP Hits. Erfahre wieviele Klicks "
+#~ "du auf welchem Download button bekommst, in mehreren Grafikbalken mit "
+#~ "ausführlichen Informationen. Und sehr vieles mehr. Es unterstützt diverse "
+#~ "Plugins von Melibu"
+
+#~ msgid ""
+#~ "Get more statistics, with the Melibu WP hits. Learn how many clicks you "
+#~ "on what download button get, in several graphic banner with detailed "
+#~ "information. It supports various plugins Melibu"
+#~ msgstr ""
+#~ "Erhalte mehr Statistiken, mit dem Melibu WP Hits. Erfahre wieviele Klicks "
+#~ "du auf welchem Download button bekommst, in mehreren Grafikbalken mit "
+#~ "ausführlichen Informationen. Es unterstützt diverse Plugins von Melibu"
+
+#~ msgid ""
+#~ "Get more statistics, with the Melibu WP hits. Learn how many clicks you "
+#~ "on what download button you get, in several graphic banner with detailed "
+#~ "information. It supports various plugins Melibu"
+#~ msgstr ""
+#~ "Get more statistics, with the Melibu WP hits. Learn how many clicks you "
+#~ "on what download button get, in several graphic banner with detailed "
+#~ "information. It supports various plugins Melibu"
+
+#~ msgid ""
+#~ "Get more statistics, with Melibu WP hits. Learn which share button is "
+#~ "clicked the most."
+#~ msgstr ""
+#~ "Erhalte mehr Statistiken, mit dem Melibu WP Hits. Erfahre wieviele Klicks "
+#~ "du auf welchem Netzwerk button du bekommst."
+
+#~ msgid ""
+#~ "We try our plugins error indemnify available, but each system is "
+#~ "different placed and we can not guarantee that our plugins on any system "
+#~ "to work 100%. But with your help we can do this, where you allow us to "
+#~ "obtain the error messages, check for shipping the error messages."
+#~ msgstr ""
+#~ "Wir versuchen unsere Plugins fehlerfrei zur Verfügung zustellen, jedoch "
+#~ "ist jedes System anders aufgesetzt und wir können nicht garantieren das "
+#~ "unsere Plugins auf jedem System zu 100% funktionieren. Doch mit Ihrer "
+#~ "Hilfe können wir dies schaffen, in dem Sie uns ermöglichen die "
+#~ "Fehlermeldungen zu erhalten, aktivieren Sie dafür das versenden der "
+#~ "Fehlermeldungen."
+
+#~ msgid "This Sidebar helps you"
+#~ msgstr "Diese Seitenleiste hilft Ihn"
+
+#~ msgid "Form Settings"
+#~ msgstr "Formulareinstellungen "
+
+#~ msgid "Here you can make and optimize various settings"
+#~ msgstr "Hier können Sie verschiedene Einstellungen vornehmen und optimieren"
+
+#~ msgid ""
+#~ "Activate, Subscribe ask the function to the user when download the "
+#~ "settings to enter your email address. In addition, to require you to "
+#~ "enter the name you select this under the settings"
+#~ msgstr ""
+#~ "Aktivieren Sie in den Einstellungen die abonnier Funktion um die Nutzer "
+#~ "beim download aufzufordern ihre Email Adresse einzugeben. Um zusätzlich "
+#~ "die Eingabe des Namens zu verlangen aktivieren Sie diese auch unter den "
+#~ "Einstellungen."
+
+#~ msgid ""
+#~ "Activate, Subscribe function to the user the download prompt in the "
+#~ "settings enter your email address. In addition, to require the input of "
+#~ "the name you select this under the settings"
+#~ msgstr ""
+#~ "Aktivieren Sie in den Einstellungen die abonnier Funktion um die Nutzer "
+#~ "beim download aufzufordern ihre Email Adresse einzugeben. Um zusätzlich "
+#~ "die Eingabe des Namens zu verlangen aktivieren Sie diese auch unter den "
+#~ "Einstellungen."
+
+#~ msgid "File not Found"
+#~ msgstr "Datei nicht gefunden"
+
+#~ msgid "Automatically adjusts the file right to the download file to"
+#~ msgstr "Passt automatisch die dateirechte für die download Datei an"
+
+#~ msgid "Error: File not Found"
+#~ msgstr "Fehler: Datei nicht gefunden"
+
+#~ msgid "Powerd by &copy; "
+#~ msgstr "Unterstützt von &copy; "
+
+#~ msgid "Powerd by &copy;"
+#~ msgstr "Unterstützt von &copy; "
+
+#~ msgid "Choose"
+#~ msgstr "Wählen"
+
+#~ msgid "Your License Key is"
+#~ msgstr "Ihr Lizenschlüssel lautet"
+
+#~ msgid "we hope you have fun"
+#~ msgstr "wir hoffen Sie haben Spass"
+
+#~ msgid "License"
+#~ msgstr "Lizenz"
+
+#~ msgid "Activate"
+#~ msgstr "Aktivieren"
+
+#~ msgid "Deactivate"
+#~ msgstr "Deactivieren"
+
+#~ msgid "Check"
+#~ msgstr "Prüfen"
+
+#~ msgid "Save updated data"
+#~ msgstr "Einstellungen werden übrarbeitet"
+
+#~ msgid "Successfully updated"
+#~ msgstr "Einstellungen erfolgreich übernommen"
+
+#~ msgid "Downoads"
+#~ msgstr "Heruntergeladen"
+
+#~ msgid "Please enter your Name."
+#~ msgstr "Bitte geben Sie Ihren Namen ein"
+
+#~ msgid "Please enter at least 3 Characters."
+#~ msgstr "Bitte geben Sie mindestens 3 Zeichen ein"
+
+#~ msgid "Short code default setting"
+#~ msgstr "Kurz Code Standardeinstellungen"
+
+#~ msgid "Total Subscriber"
+#~ msgstr "Gesamt Abonnenten"
+
+#~ msgid "and "
+#~ msgstr "und"
+
+#~ msgid "Melibu Subscription donwload"
+#~ msgstr "Melibu Abonnement download"
+
+#~ msgid "Subscription Surface"
+#~ msgstr "Abonnement Oberfläche"
+
+#~ msgid "Subscriber E-Mail-Address"
+#~ msgstr "Abonnenten E-Mail-Adresse"
+
+#~ msgid "File Url"
+#~ msgstr "Datei Url"
+
+#~ msgid "File Name"
+#~ msgstr "Datei Name"
+
+#~ msgid "Subscribe On"
+#~ msgstr "Abonniert Am"
+
+#~ msgid "Your logo with every download the label Show"
+#~ msgstr "Ihr logo bei jedem download im Label anzeigen"
+
+#~ msgid ""
+#~ "Use the short code in your WP Editor for set your downloads or copy, "
+#~ "paste and set manuel"
+#~ msgstr ""
+#~ "Verwenden Sie den kurz Code in Ihrem WP-Editor und setzen Sie Ihre "
+#~ "Downloads oder Kopieren, Einfügen und setzen Handbuch"
+
+#~ msgid ""
+#~ "The instance that is controlled single and duplicates each download you "
+#~ "must offer individually possess another instance, unless you want to use "
+#~ "on a page more identical downloads, then you have the instance and the "
+#~ "download URL be the same."
+#~ msgstr ""
+#~ "Die Instanz steuert einzelne und Duplikate d.h. jeder download den Sie "
+#~ "einzeln anbieten muss eine andere Instanz besitzen, ausser Sie möchten "
+#~ "auf einer Seite mehrere gleiche downloads verwenden, dann muss die "
+#~ "Instanz und die download URL gleich sein."
+
+#~ msgid ""
+#~ "This parameter can, for example, for the version or use something else."
+#~ msgstr ""
+#~ "Dieser Parameter kann zum Beispiel für die Version oder etwas anderes "
+#~ "verwenden."
+
+#~ msgid ""
+#~ "That is the short code. You can copy a short code and place on a page, "
+#~ "post or in a widget. Or use the short code has been integrated into your "
+#~ "editor, a click is enough and the part buttons after save visible."
+#~ msgstr ""
+#~ "Das ist der Kurzcode. Sie können einen kurzen Code auf einer Seite, per "
+#~ "Post oder in einem Widget einsetzen. Oder der Sie können den Kurz Code in "
+#~ "Ihrem Editor verwenden, ein Klick genügt und der Kurz Code wird in Ihr "
+#~ "Textfeld eingefügt."
+
+#~ msgid "Here comes the selected URL"
+#~ msgstr "Hier kommt die ausgewählte URL"
+
+#~ msgid "You can choose the Download name as example \"My Download\"."
+#~ msgstr "Sie können den Download-Namen wie zB \"My Download\" wählen."
+
+#~ msgid ""
+#~ "Please select a file, select a file or enter manually the URL of the file "
+#~ "and refresh the page!"
+#~ msgstr ""
+#~ "Bitte wählen Sie eine Datei oder geben Sie manuell die URL der Datei ein "
+#~ "und aktualisieren Sie die Seite!"
+
+#~ msgid "No File Found"
+#~ msgstr "Keine Datei gefunden"
+
+#~ msgid ""
+#~ "This is generated automatically when you put the short code, this is the "
+#~ "date when you submitted the file available."
+#~ msgstr ""
+#~ "Dies wird automatisch generiert, wenn Sie den kurzen Code setzen, ist "
+#~ "dies der Zeitpunkt, wenn Sie die Datei zur Verfügung gestellt haben."
+
+#~ msgid "Please enter your E-Mail address"
+#~ msgstr "Bitte geben Sie Ihre E-Mail-Adresse ein"
+
+#~ msgid "Please enter a valid E-Mail address"
+#~ msgstr "Bitte geben Sie eine gültige E-Mail-Adresse ein"
+
+#~ msgid "Please enter an E-Mail address that exists in world wide web"
+#~ msgstr ""
+#~ "Bitte geben Sie eine E-Mail-Adresse an die im World Wide Web existiert"
+
+#~ msgid "Please enter the Captcha"
+#~ msgstr "Bitte geben Sie den Sicherheitscode ein"
+
+#~ msgid "Downloader &copy; by"
+#~ msgstr "Downloader &copy; von "
+
+#~ msgid "+ Premium"
+#~ msgstr "+ Premium"
+
+#~ msgid "Text & Shortcode"
+#~ msgstr "Text & Kurzcode"
+
+#~ msgid "More "
+#~ msgstr "Mehr"
+
+#~ msgid "Special Settings"
+#~ msgstr "Sonder Einstellungen"
+
+#~ msgid ""
+#~ "This is generated automatically when you put the shortcode, this is the "
+#~ "date when you submitted the file available."
+#~ msgstr ""
+#~ "Dies wird automatisch generiert, wenn Sie den Kurzcode setzen, ist dies "
+#~ "der Zeitpunkt, wenn Sie die Datei zur Verfügung gestellt."
+
+#~ msgid ""
+#~ "That is the shortcode. You can copy a shortcode and place on a page, post "
+#~ "or in a widget. Or use the shortcode has been integrated into your "
+#~ "editor, a click is enough and the part buttons after save visible."
+#~ msgstr ""
+#~ "Das ist die Kurzcode. Sie können ein Kurzcode auf einer Seite, per "
+#~ "Beitrag oder in einem Widget einsetzen. Oder nutzen Sie die Kurzcode der "
+#~ "in Ihrem Editor integriert ist, ein Klick genügt und der Kurzcode wird "
+#~ "sichtbar, nach dem Speicher auf der Seite zusehen."
+
+#~ msgid "Please take the shortcode double click to copy"
+#~ msgstr "Bitte nehmen Sie die Abkürzung Doppelklick um zu kopieren"
+
+#~ msgid "has been optimized and improved"
+#~ msgstr "wurde optimiert und verbessert"
+
+#~ msgid "Important Links"
+#~ msgstr "Wichtige Links"
+
+#~ msgid "In like please give MeliBu WP Download Counter Button"
+#~ msgstr "Bei gefallen bitte MeliBu WP Download Counter Button"
+
+#~ msgid "Development is fueled by your praise and feedback."
+#~ msgstr "Die Entwicklung wird durch Unterstützung, Lob und Feedback getankt."
+
+#~ msgid "Melibu WP Download Counter Button > Settings"
+#~ msgstr "Melibu WP Download Counter Button > Einstellungen"
+
+#~ msgid "Prevents without JavaScript (AJAX)"
+#~ msgstr "Verhindert, dass ohne JavaScript (AJAX)"
+
+#~ msgid "Welcome to Melibu"
+#~ msgstr "Willkommen zu Melibu"
+
+#~ msgid "A list overview with all downloaded files:"
+#~ msgstr "Eine listen Übersicht mit allen downloads"
+
+#~ msgid "File Type"
+#~ msgstr "Datei Typ"
+
+#~ msgid "File Size"
+#~ msgstr "Datei Größe"
+
+#~ msgid "File last Access"
+#~ msgstr "Letzter Datei Zugriff"
+
+#~ msgid "File url"
+#~ msgstr "Datei url"
+
+#~ msgid "File name"
+#~ msgstr "Datei name"
+
+#~ msgid "File type"
+#~ msgstr "Datei Type"
+
+#~ msgid "File size"
+#~ msgstr "Datei größe"
+
+#~ msgid "File last access"
+#~ msgstr "Letzter Datei zugriff"
+
+#~ msgid "Subscribe"
+#~ msgstr "Abonnement"
+
+#~ msgid "Thank and Subscriber window"
+#~ msgstr "Dank und Abonnenten-Fenster"
+
+#~ msgid ""
+#~ "Here you can the Downloader say thank you, give information on the "
+#~ "subscription or more."
+#~ msgstr ""
+#~ "Hier können Sie den Downloader danke sagen, Auskunft über das Abo geben "
+#~ "oder mehr."
+
+#~ msgid "Here you can send the Melibu Captcha Enable / Disable"
+#~ msgstr "Click here for Malibu Captcha depending on needs on and off"
+
+#~ msgid ""
+#~ "Here you can activate the subscription function. Turn to start this "
+#~ "function an entry to download e-mail addresses."
+#~ msgstr ""
+#~ "Hier können Sie die Abonnement-Funktion aktivieren. Schalten Sie diese "
+#~ "Funktion Ein, muss der Nutzer eine E-Mail-Adresse eingeben um die Datei "
+#~ "runterzuladen."
+
+#~ msgid "Thank window Modal"
+#~ msgstr "Danke fenster Modal"
+
+#~ msgid "Here you Thank you can say to the Downloader or more."
+#~ msgstr "Hier können Sie dem herunterladenden danke sagen."
+
+#~ msgid "You can , depending on the need , the Thank window on and off."
+#~ msgstr "Hier können Sie das danke Fenster, nach bedarf Ein- / Ausschalten."
+
+#~ msgid "Turn On"
+#~ msgstr "Einschalten"
+
+#~ msgid "Turn Off"
+#~ msgstr "Ausschalten"
+
+#~ msgid "Choose with or without info label"
+#~ msgstr "Wählen Sie mit oder ohne info label"
+
+#~ msgid "Info label On"
+#~ msgstr "Info label An"
+
+#~ msgid "Info label Off"
+#~ msgstr "Info label aus"
+
+#~ msgid "Turn on"
+#~ msgstr "Einschalten"
+
+#~ msgid "Turn off"
+#~ msgstr "Ausschalten"
+
+#~ msgid ""
+#~ "If you're wondering, have problems or suggestions, criticism please call "
+#~ "the Support."
+#~ msgstr ""
+#~ "Wenn Sie fragen, Probleme oder auch Anregung, Kritik haben wenden Sie "
+#~ "sich bitte an den Support"
+
+#~ msgid "SUPPORT"
+#~ msgstr "UNTERSTÜTZUNG"
+
+#~ msgid ""
+#~ "The instance is when individual always different and duplicate the same, "
+#~ "that is must if they offer a file with the same URL to download the "
+#~ "instance be the same."
+#~ msgstr ""
+#~ "Die Instanz steuert einzelne und Duplikate d.h. jeder download den Sie "
+#~ "einzeln anbieten muss eine andere Instanz besitzen, ausser Sie möchten "
+#~ "auf einer Seite mehrere gleiche downloads verwenden, dann muss die "
+#~ "Instanz und die download URL gleich sein."
+
+#~ msgid ""
+#~ "When issues, problems, or even encouraging and have criticism contact ish "
+#~ "to the Support."
+#~ msgstr ""
+#~ "Wenn Sie fragen, Probleme oder auch Anregung, Kritik haben wenden Sie "
+#~ "sich bitte an den Support."
+
+#~ msgid "file url"
+#~ msgstr "Datei url"
+
+#~ msgid "file name"
+#~ msgstr "Datei name"
+
+#~ msgid "file type"
+#~ msgstr "Datei typ"
+
+#~ msgid "file size"
+#~ msgstr "Datei größe"
+
+#~ msgid "file last access"
+#~ msgstr "Letzter Datei zugriff"
+
+#~ msgid "<strong>Label Backgroundcolor</strong>"
+#~ msgstr "<strong>Label Hintergrungfarbe</strong>"
+
+#~ msgid ""
+#~ "<small>You can delete the actually image, save without select a image.</"
+#~ "small>"
+#~ msgstr ""
+#~ "<small>Sie können das aktuelle Bild löschen, in dem Sie einfach ohne ein "
+#~ "Bild auszuwählen Speichern..</small>"
+
+#~ msgid "<strong>Choose your Layout</strong>"
+#~ msgstr "<strong>Wählen Sie Ihr Layout</strong>"
+
+#~ msgid "<strong>Choose with or without info label</strong>"
+#~ msgstr "<strong>Wählen Sie ob mit oder ohne label</strong>"
+
+#~ msgid "MeliBu Plugin -> Download Counter Button"
+#~ msgstr "MeliBu Plugin -> Donwload Counter Button"
+
+#~ msgid "<strong>Button Backgroundcolor</strong>"
+#~ msgstr "<strong>Schaltfläche hintergrundfarbe</strong>"
+
+#~ msgid "<strong>Icon Backgroundcolor</strong>"
+#~ msgstr "<strong>Symbol hintergrundfarbe</strong>"
+
+#~ msgid "Melibu Plugin"
+#~ msgstr "Melibu Plugin"
+
+#~ msgctxt "melibuPlugin_download"
+#~ msgid "First"
+#~ msgstr "Erste"
+
+#~ msgctxt "melibuPlugin_download"
+#~ msgid "Back"
+#~ msgstr "Zurück"
+
+#~ msgctxt "melibuPlugin_download"
+#~ msgid "Go"
+#~ msgstr "Vor"
+
+#~ msgctxt "melibuPlugin_download"
+#~ msgid "Last"
+#~ msgstr "Letzte"
+
+#~ msgid "Colors & Image"
+#~ msgstr "Farben & Bild"
+
+#~ msgid "Here you can set the colors and a download image."
+#~ msgstr "Hier können Sie die Farben und ein Bild festlegen."
+
+#~ msgid "Here you have to set the option, the possibility."
+#~ msgstr "Hier können Sie die Sichtbarkeit des Labels und Farbe einstellen."
+
+#~ msgid "Theme"
+#~ msgstr "Theme"
+
+#~ msgid "Plugin"
+#~ msgstr "Plugin"
+
+#~ msgid "Author:"
+#~ msgstr "Autor"
+
+#~ msgid "Marketing:"
+#~ msgstr "Marketing"
+
+#~ msgid "Developer:"
+#~ msgstr "Entwickler"
+
+#~ msgid "MeliBu WP Download Counter Button"
+#~ msgstr "MeliBu WP Downloads zähler"
+
+#~ msgid ""
+#~ "This Plugin help Developer or other to set a Download button for a file "
+#~ "with Counter and informations."
+#~ msgstr ""
+#~ "Dieses Plugin wurde entwickelt um entwicklern als auch anderen Benutzern "
+#~ "behilflich zu sein."

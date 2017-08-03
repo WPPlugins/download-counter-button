@@ -1,0 +1,1914 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: MeliBu WP Download Counter Button\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-10-21 23:19+0200\n"
+"PO-Revision-Date: 2016-10-21 23:20+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: tr_TR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-KeywordsList: _:1;gettext:1;dgettext:2;ngettext:1,2;dngettext:2,3;"
+"__:1;_e:1;_c:1;_n:1,2;_n_noop:1,2;_nc:1,2;__ngettext:1,2;__ngettext_noop:1,2;"
+"_x:1,2c;_ex:1,2c;_nx:1,2,4c;_nx_noop:1,2,3c;_n_js:1,2;_nx_js:1,2,3c;"
+"esc_attr__:1;esc_html__:1;esc_attr_e:1;esc_html_e:1;esc_attr_x:1,2c;"
+"esc_html_x:1,2c;comments_number_link:2,3;t:1;st:1;trans:1;transChoice:1,2\n"
+"X-Loco-Target-Locale: de_DE\n"
+"X-Generator: Poedit 1.8.10\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../classes/class.MelibuBackend.php:184 ../html/download.php:64
+#: ../html/welcome.php:64
+msgid "Design"
+msgstr "Dizayn"
+
+#: ../classes/class.MelibuBackend.php:196 ../html/modal.php:57
+#: ../html/welcome.php:70 ../html/welcome.php:140
+msgid "Modal"
+msgstr "Tipik"
+
+#: ../classes/class.MelibuBackend.php:208 ../html/welcome.php:76
+msgid "Subscribes"
+msgstr "Abone"
+
+#: ../classes/class.MelibuBackend.php:220
+#: ../classes/pager/class.Downloads.php:231 ../html/welcome.php:82
+#: ../html/welcome.php:167
+msgid "Downloads"
+msgstr "İndirme"
+
+#: ../classes/class.MelibuBackend.php:232 ../html/settings.php:54
+#: ../html/welcome.php:88 ../html/welcome.php:177
+msgid "Settings"
+msgstr "Ayarlar"
+
+#: ../classes/class.MelibuBackend.php:244
+msgid "Shortcode"
+msgstr "Kisacod"
+
+#: ../classes/class.MelibuBackend.php:256
+msgid "About"
+msgstr "Hakkında"
+
+#: ../classes/class.MelibuBackend.php:300
+#: ../classes/class.MelibuFrontend.php:122
+msgid "Insert MB Download short code"
+msgstr "MB Kısa kod ekle"
+
+#: ../classes/class.MelibuBackend.php:301
+#: ../classes/class.MelibuFrontend.php:123
+msgid "Get File URL"
+msgstr "Dosya URL alın"
+
+#: ../classes/class.MelibuDownloader.php:274
+msgid "No file found: Please select a file"
+msgstr "Dosya bulunamadı: bir dosya seçiniz"
+
+#: ../classes/class.MelibuDownloader.php:289
+msgid "No URL found: "
+msgstr "URL bulunamadi:"
+
+#: ../classes/class.MelibuFrontend.php:366
+msgid "Check if File deleted!"
+msgstr "Dosya silinmiş olup olmadığını kontrol edin!"
+
+#: ../classes/class.MelibuFrontend.php:367
+msgid "Selected Check whether file!"
+msgstr "Dosyanın olup olmadığını kontrol edin seçilen!"
+
+#: ../classes/class.MelibuFrontend.php:368
+msgid "Changed Check whether filename or path!"
+msgstr "Dosya veya yol olup olmadığını kontrol edin değiştirin!"
+
+#: ../classes/class.MelibuFrontend.php:369
+msgid "Choose the file again, or enter the path manually!"
+msgstr "Dosyayı tekrar seçin veya yolu elle girin!"
+
+#: ../classes/class.MelibuFrontend.php:370
+msgid "Refresh the page!"
+msgstr "Sayfayı yenile!"
+
+#: ../classes/class.MelibuFrontend.php:379
+#: ../classes/class.MelibuWidget.php:220 ../classes/class.MelibuWidget.php:274
+#: ../html/dummy/dummy.php:65 ../tpl/modal.php:164
+msgid "Powerd by"
+msgstr "Tarafından desteklenmektedir"
+
+#: ../classes/class.MelibuValidate.php:79
+msgid "Please enter your Name"
+msgstr "Lütfen adınızı giriniz"
+
+#: ../classes/class.MelibuValidate.php:82
+msgid "Please enter at least 3 Characters"
+msgstr "Lütfen en az 3 Karakterler girin"
+
+#: ../classes/class.MelibuValidate.php:95
+msgid "Please enter your E-Mail-Address"
+msgstr "Lütfen E-Posta adresinizi giriniz"
+
+#: ../classes/class.MelibuValidate.php:98
+#: ../classes/class.MelibuValidate.php:101
+msgid "Please enter a valid E-Mail-Address"
+msgstr "Lütfen Geçerli bir E-Posta adresinizi giriniz"
+
+#: ../classes/class.MelibuValidate.php:104
+msgid "Please enter an E-Mail-Address that exists in world wide web"
+msgstr "Lütfen world wide web varolan bir E-Posta adresi girin"
+
+#: ../classes/class.MelibuValidate.php:117
+msgid "Please enter the password"
+msgstr "Lütfen şifrenizi giriniz"
+
+#: ../classes/class.MelibuValidate.php:120
+msgid "Please enter the correct password"
+msgstr "Lütfen doğru şifreyi giriniz"
+
+#: ../classes/class.MelibuValidate.php:133
+msgid "Please enter the captcha"
+msgstr "Lütfen captcha'yı giriniz"
+
+#: ../classes/class.MelibuValidate.php:136
+msgid "Please enter the correct captcha"
+msgstr "Lütfen doğru güvenlik kodunu girin"
+
+#: ../classes/class.MelibuWidget.php:40
+msgid "A MeliBu WordPress Widget by Professionals Developers."
+msgstr "Uzmanları Geliştiriciler tarafından bir MeliBu WordPress Widget."
+
+#: ../classes/class.MelibuWidget.php:204
+msgid "Can't open file informations"
+msgstr "Dosya bilgileri açılamıyor"
+
+#: ../classes/class.MelibuWidget.php:214 ../classes/class.MelibuWidget.php:312
+msgid "At the moment no top downloads available"
+msgstr "Şu anda hiçbir üst indir mevcut"
+
+#: ../classes/class.MelibuWidget.php:256
+#: ../html/download/modal_text_form.php:14
+msgid "Title"
+msgstr "Başlık"
+
+#: ../classes/class.MelibuWidget.php:262
+msgid "Select:"
+msgstr "Seçin:"
+
+#: ../classes/class.MelibuWidget.php:265
+msgid "Without Top 5"
+msgstr "Top 5 olmadan"
+
+#: ../classes/class.MelibuWidget.php:279
+msgid "Click to Edit and Double Click to copy."
+msgstr "Düzenleyin ve çift kopyalamak için tıklayın için tıklayın."
+
+#: ../classes/class.MelibuWidget.php:289
+msgid "Text & Short Code"
+msgstr "Metin & Kısa kod"
+
+#: ../classes/pager/class.Downloads.php:105
+#: ../classes/pager/class.Subscriber.php:111
+msgid "First"
+msgstr "Ilk"
+
+#: ../classes/pager/class.Downloads.php:114
+#: ../classes/pager/class.Subscriber.php:121
+msgid "Back"
+msgstr "Geri"
+
+#: ../classes/pager/class.Downloads.php:141
+#: ../classes/pager/class.Subscriber.php:150
+msgid "Go"
+msgstr "Ileri"
+
+#: ../classes/pager/class.Downloads.php:150
+#: ../classes/pager/class.Subscriber.php:159
+msgid "Last"
+msgstr "Son"
+
+#: ../classes/pager/class.Downloads.php:160
+msgid "Download Files"
+msgstr "Indirim Dosyalarınız"
+
+#: ../classes/pager/class.Downloads.php:161
+msgid "Total Downloads"
+msgstr "Bütün Indirimler"
+
+#: ../classes/pager/class.Downloads.php:170
+#: ../classes/pager/class.Subscriber.php:181
+msgid "Refresh"
+msgstr "Yenile"
+
+#: ../classes/pager/class.Downloads.php:179
+msgid "You have no downloads."
+msgstr "Hiç indirme yok."
+
+#: ../classes/pager/class.Downloads.php:211
+#: ../classes/pager/class.Subscriber.php:254
+msgid "Show per page"
+msgstr "Sayfada göster"
+
+#: ../classes/pager/class.Downloads.php:220
+msgid "Instance"
+msgstr "Örnek"
+
+#: ../classes/pager/class.Downloads.php:221 ../html/download.php:76
+msgid "Preview"
+msgstr "Önizleme"
+
+#: ../classes/pager/class.Downloads.php:222
+#: ../classes/pager/class.Subscriber.php:274
+msgid "Name"
+msgstr "Isim"
+
+#: ../classes/pager/class.Downloads.php:223
+msgid "URL"
+msgstr "URL"
+
+#: ../classes/pager/class.Downloads.php:224
+msgid "Type"
+msgstr "Tip"
+
+#: ../classes/pager/class.Downloads.php:225
+msgid "Size"
+msgstr "Boyut"
+
+#: ../classes/pager/class.Downloads.php:240
+msgid "Last Download"
+msgstr "Son İndirme"
+
+#: ../classes/pager/class.Downloads.php:245
+#: ../classes/pager/class.Subscriber.php:284
+msgid "Edit"
+msgstr "Düzenleme"
+
+#: ../classes/pager/class.Downloads.php:269 ../html/welcome.php:181
+msgid "Full file protection"
+msgstr "Tam dosya koruması"
+
+#: ../classes/pager/class.Downloads.php:271
+msgid "is active"
+msgstr "aktif"
+
+#: ../classes/pager/class.Downloads.php:272
+msgid "This file can not be accessed in the browser"
+msgstr "Bu dosya tarayıcıda erişilemiyor"
+
+#: ../classes/pager/class.Downloads.php:286
+#: ../classes/pager/class.Subscriber.php:320
+msgid "internally"
+msgstr "içten"
+
+#: ../classes/pager/class.Downloads.php:289
+#: ../classes/pager/class.Subscriber.php:323
+msgid "external"
+msgstr "dışdan"
+
+#: ../classes/pager/class.Downloads.php:356
+#: ../classes/pager/class.Subscriber.php:370
+msgid "Page"
+msgstr "Site"
+
+#: ../classes/pager/class.Downloads.php:356
+#: ../classes/pager/class.Subscriber.php:370
+msgid "from"
+msgstr "itibaren"
+
+#: ../classes/pager/class.Downloads.php:376
+#: ../classes/pager/class.Subscriber.php:390
+msgid "Entry successfully removed"
+msgstr "Giriş başarıyla kaldırıldı"
+
+#: ../classes/pager/class.Subscriber.php:171
+msgid "Total"
+msgstr "Toplam"
+
+#: ../classes/pager/class.Subscriber.php:172 ../html/welcome.php:152
+msgid "Subscribers"
+msgstr "Aboneler"
+
+#: ../classes/pager/class.Subscriber.php:190
+msgid "You have no Subscribers."
+msgstr "Aboneler yok."
+
+#: ../classes/pager/class.Subscriber.php:212
+msgid "Edit Mail to defaults"
+msgstr "Düzenle Mail yaz varsayılan"
+
+#: ../classes/pager/class.Subscriber.php:213
+msgid "Close Mail to defaults"
+msgstr "Kapat Mail yaz varsayılan"
+
+#: ../classes/pager/class.Subscriber.php:221
+msgid "Subject"
+msgstr "Konu"
+
+#: ../classes/pager/class.Subscriber.php:224
+msgid "Body"
+msgstr "Içerik"
+
+#: ../classes/pager/class.Subscriber.php:226 ../html/download/font.php:29
+#: ../html/download/font.php:38 ../html/shortcode.php:143
+msgid "More information about"
+msgstr "Hakkında daha fazla bilgi"
+
+#: ../classes/pager/class.Subscriber.php:228
+#: ../html/download/button_color_form.php:78
+#: ../html/download/button_icon_color_form.php:80
+#: ../html/download/button_logo_form.php:29 ../html/download/captcha.php:25
+#: ../html/download/copy_option_form.php:26 ../html/download/errors.php:29
+#: ../html/download/font.php:42 ../html/download/hidecount.php:25
+#: ../html/download/label_color_form.php:39
+#: ../html/download/label_option_form.php:25
+#: ../html/download/layout_form.php:63
+#: ../html/download/modal_option_form.php:25 ../html/download/protect.php:25
+#: ../html/download/subscribe.php:34 ../html/download/topfive.php:25
+#: ../html/modal.php:89 ../html/shortcode.php:157
+msgid "Save"
+msgstr "Kaydet"
+
+#: ../classes/pager/class.Subscriber.php:234
+msgid "E-Mail default settings"
+msgstr "Email varsayılan ayarları"
+
+#: ../classes/pager/class.Subscriber.php:235
+msgid ""
+"You can make email standard settings here, that means if you click in the "
+"list on an e-mail address below, your e-mail program on the computer called. "
+"The sender is automatically populated with the email address to which you "
+"have just clicked and these standard settings have typing."
+msgstr ""
+"Sen denilen bilgisayarda, aşağıdaki e-posta adresine listesinde tıklarsanız "
+"anlamına gelir, burada e-posta programını e-posta standart ayarları "
+"yapabilirsiniz. Gönderen otomatik olarak sadece tıkladım ve bu standart "
+"ayarlar yazarak sahip olan e-posta adresi ile doldurulur."
+
+#: ../classes/pager/class.Subscriber.php:268
+msgid "Subscriber"
+msgstr "Abone"
+
+#: ../classes/pager/class.Subscriber.php:272
+msgid "E-Mail"
+msgstr "E-Posta"
+
+#: ../classes/pager/class.Subscriber.php:273
+msgid "Url"
+msgstr "Url"
+
+#: ../classes/pager/class.Subscriber.php:280
+msgid "Subscribed on"
+msgstr "Abone"
+
+#: ../classes/pager/class.Subscriber.php:293
+msgid "No Name"
+msgstr "İsimsiz"
+
+#: ../classes/pager/class.Subscriber.php:294
+msgid "Turn name Mandatory when download to, in the settings."
+msgstr "Dönüş adı Zorunlu zaman ayarları indirme."
+
+#: ../classes/pager/class.Subscriber.php:299
+msgid "Mail to"
+msgstr "Mail yaz"
+
+#: ../download-counter-button.php:90 ../html/about.php:126
+msgid "Options"
+msgstr "Seçenekler"
+
+#: ../html/abo-lister.php:22 ../html/down-lister.php:19 ../html/download.php:40
+#: ../html/modal.php:35 ../html/settings.php:31 ../html/shortcode.php:27
+#: ../html/welcome.php:24
+msgid "Professional Themes and Plugins for WordPress"
+msgstr "WordPress için profesyonel Temalar ve Eklentiler"
+
+#: ../html/abo-lister.php:32 ../html/download.php:50 ../html/modal.php:43
+#: ../html/settings.php:41 ../html/shortcode.php:35
+msgid "Settings saved!"
+msgstr "Ayarlar kaydedildi !"
+
+#: ../html/about.php:22
+msgid "Welcome to"
+msgstr "Hoşgeldiniz"
+
+#: ../html/about.php:26 ../html/download.php:131 ../html/modal.php:103
+#: ../html/welcome.php:30
+msgid "Version"
+msgstr "Versiyon"
+
+#: ../html/about.php:36
+msgid "Welcome"
+msgstr "Hoşgeldiniz"
+
+#: ../html/about.php:42 ../html/about.php:93
+msgid "Functions"
+msgstr "Fonksiyonlar"
+
+#: ../html/about.php:48 ../html/about.php:167
+msgid "Support"
+msgstr "Destek"
+
+#: ../html/about.php:54
+msgid "Development"
+msgstr "Gelişme"
+
+#: ../html/about.php:60
+msgid "Translation"
+msgstr "Çeviri"
+
+#: ../html/about.php:66 ../html/about.php:318
+msgid "Donate"
+msgstr "Bağışlamak"
+
+#: ../html/about.php:82
+msgid "More Professional"
+msgstr "Daha Profesyonel"
+
+#: ../html/about.php:82
+msgid "Themes"
+msgstr "Temalar"
+
+#: ../html/about.php:82
+msgid "and"
+msgstr "ve"
+
+#: ../html/about.php:82
+msgid "Plugins"
+msgstr "Eklentiler"
+
+#: ../html/about.php:98
+msgid "Functionality"
+msgstr "Işlevsellik"
+
+#: ../html/about.php:100
+msgid "Counts your downloads/clicks"
+msgstr "İndirme / Tıklama sayar"
+
+#: ../html/about.php:101
+msgid "Returns the current number of downloads/clicks"
+msgstr "İndirme / Tıklama mevcut sayısını döndürür"
+
+#: ../html/about.php:102
+msgid "No page refresh required (JS)"
+msgstr "Sayfa yenilemesi gerekli degildir (JS)"
+
+#: ../html/about.php:103
+msgid "Prevents double count"
+msgstr "Çift sayı önler"
+
+#: ../html/about.php:104
+msgid "Multiple placeble (duplicates and singles)"
+msgstr "Çoklu tanınabilir (çiftleri ve tekler)"
+
+#: ../html/about.php:105
+msgid "Works in any post, page and text widget (Sidebars)"
+msgstr "Herhangi bir mesaj, sayfa ve metin widget ile çalışır (Sidebars)"
+
+#: ../html/about.php:106
+msgid "Can useable any File-Types (PDF, ZIP, MP3, MPEG...) or any URL"
+msgstr ""
+"Herhangi bir Dosya Türleri (PDF, ZIP, MP3, MPEG ...) ya da herhangi bir URL "
+"kullanılabilir Can"
+
+#: ../html/about.php:107
+msgid "All downloads can be provided with a captcha"
+msgstr "Tüm dökümanlar bir Captcha ile sağlanabilir"
+
+#: ../html/about.php:108
+msgid ""
+"All downloads can be provided with a subscription & subscription with name"
+msgstr "Tüm indirme adıyla bir abonelik veya abonelik ile sağlanabilir"
+
+#: ../html/about.php:109
+msgid "Top 5 Widget"
+msgstr "Top 5 Widget"
+
+#: ../html/about.php:110
+msgid "Label with infos"
+msgstr "Infos etiket"
+
+#: ../html/about.php:111
+msgid "Full File Protection"
+msgstr "Tam Dosya Koruması"
+
+#: ../html/about.php:112
+msgid "Protect the download with Password"
+msgstr "Şifre ile korumak indir"
+
+#: ../html/about.php:113
+msgid "Place your ads in the window"
+msgstr "Penceresinde reklamlarınızı yerleştirin"
+
+#: ../html/about.php:114
+msgid "Simple select file from Media library or upload new or give the url"
+msgstr ""
+"Kütüphanemize gelen basit dosyayı seçin veya yeni yüklemek veya url vermek"
+
+#: ../html/about.php:115
+msgid "Download information overview with statistics of downloaded files"
+msgstr "Indirilen dosyaların istatistikleri ile bilgi genel indir"
+
+#: ../html/about.php:116
+msgid "With Subscriber list with mailto function"
+msgstr "Mailto fonksiyonu ile Abone listesi ile"
+
+#: ../html/about.php:117
+msgid "Download and Subscriber Overview sort"
+msgstr "İndirme ve Abone Bakış sıralama"
+
+#: ../html/about.php:118
+msgid "SEO relevant rel tag"
+msgstr "SEO ilgili rel etiketi"
+
+#: ../html/about.php:119
+msgid "Any document/file type, open the right window"
+msgstr "Herhangi bir belge / dosya türü, sağ doğru pencereyi açar"
+
+#: ../html/about.php:120
+msgid "Automaticly file permission change"
+msgstr "Otomatik olarak izin değişikliği dosya"
+
+#: ../html/about.php:121
+msgid "Counts without JavaScript (AJAX)"
+msgstr "JavaScript olmadan Sayımlar (AJAX)"
+
+#: ../html/about.php:122
+msgid "Supports http:// and https:// protocol"
+msgstr "http:// ve https:// protokolünü destekler"
+
+#: ../html/about.php:128
+msgid "Shortcode to select from the media library a file"
+msgstr "Kısa kod medya kütüphanesi bir dosya seçmek için"
+
+#: ../html/about.php:129
+msgid "Custom button layout"
+msgstr "Özel düğme düzeni"
+
+#: ../html/about.php:130
+msgid "Custom button name"
+msgstr "Özel düğme adı"
+
+#: ../html/about.php:131
+msgid "Custom button label name"
+msgstr "Özel düğme etiket adı"
+
+#: ../html/about.php:132
+msgid "Custom button datetime"
+msgstr "Özel düğme datetime"
+
+#: ../html/about.php:133
+msgid "Custom button other"
+msgstr "Özel düğme diğer"
+
+#: ../html/about.php:134
+msgid "Custom button color"
+msgstr "Özel düğme rengi"
+
+#: ../html/about.php:135
+msgid "Custom button icon color"
+msgstr "Özel düğme simgesi rengi"
+
+#: ../html/about.php:136
+msgid "Custom dashed pattern"
+msgstr "Özel kesik desen"
+
+#: ../html/about.php:137
+msgid "Custom label color"
+msgstr "Özel etiket rengi"
+
+#: ../html/about.php:138
+msgid "Custom info box image upload"
+msgstr "Özel bilgi kutusu resim upload"
+
+#: ../html/about.php:139
+msgid "Custom thanks, subscriber and captcha Title & Description"
+msgstr "Özel teşekkürler, abone ve kaptan Başlık ve Açıklama"
+
+#: ../html/about.php:140
+msgid "Custom ADS (Publish)"
+msgstr "Özel ADS (Yayınlama)"
+
+#: ../html/about.php:141
+msgid "Show/Hide additional info box"
+msgstr "Ihtiyacıiniza göre ek bilgi kutusu"
+
+#: ../html/about.php:142
+msgid "Show/Hide additional count"
+msgstr "Göster / Gizle ek sayım"
+
+#: ../html/about.php:143
+msgid "Show/Hide additional modal"
+msgstr "Göster / Gizle ek modal"
+
+#: ../html/about.php:144
+msgid "Show/Hide additional FontAwesome CSS"
+msgstr "Ihtiyacıiniza göre FontAwesome CSS"
+
+#: ../html/about.php:145
+msgid "Activate/Deactivate additional subscription"
+msgstr "Abonelik ekini Etkinleştir / devre dışı bırakın"
+
+#: ../html/about.php:146
+msgid "Activate/Deactivate additional captcha"
+msgstr "Captcha ekini Etkinleştir / devre dışı bırakın"
+
+#: ../html/about.php:147
+msgid "Activate/Deactivate full file protection"
+msgstr "Etkinleştirin veya tam dosya korumasını devre dışı bırakın"
+
+#: ../html/about.php:148
+msgid "Subscriber overview mailto default settings"
+msgstr "Abone genel bakış mailto varsayılan ayarları"
+
+#: ../html/about.php:149
+msgid "Refresh on downloads overview"
+msgstr "Yüklemelerine genel bakış üzerine Yenile"
+
+#: ../html/about.php:150
+msgid "Refresh on subscriber overview"
+msgstr "Abone genel bakış Yenile"
+
+#: ../html/about.php:154
+msgid "Extras"
+msgstr "Ekstralar"
+
+#: ../html/about.php:156
+msgid "Hide Counts for User"
+msgstr "Kullanıcı için Sayımlar gizle"
+
+#: ../html/about.php:156 ../html/about.php:157 ../html/about.php:158
+msgid "Idea of"
+msgstr "Fikri"
+
+#: ../html/about.php:157
+msgid "External URLs can be used"
+msgstr "Dış URL'ler kullanılabilir"
+
+#: ../html/about.php:158
+msgid "Short code default settings"
+msgstr "Kısa kod varsayılan ayarları"
+
+#: ../html/about.php:171
+msgid "In like please give"
+msgstr "Beğendiğnizde lütfen"
+
+#: ../html/about.php:174
+msgid "WordPress Rate"
+msgstr "WordPress Oran"
+
+#: ../html/about.php:185
+msgid ""
+"Feel free and post your question, suggestion, idea or criticism. We love it!"
+msgstr ""
+"Çekinmeyin ve Soru, Öneri, Fikir veya Eleştiri sonrası yazınız. Onu "
+"seviyoruz!"
+
+#: ../html/about.php:187
+msgid "For Plugin English Support"
+msgstr "Eklenti İngilizce Desteği"
+
+#: ../html/about.php:188
+msgid "Support EN"
+msgstr "Destek EN"
+
+#: ../html/about.php:190
+msgid "For Plugin German Support"
+msgstr "Eklenti Alman Desteği "
+
+#: ../html/about.php:191
+msgid "Support DE"
+msgstr "Destek DE"
+
+#: ../html/about.php:193
+msgid "For Plugin Turkey Support"
+msgstr "Eklenti Türkçe Desteği "
+
+#: ../html/about.php:194
+msgid "Support TR"
+msgstr "Destek TR"
+
+#: ../html/about.php:203
+msgid "Development "
+msgstr "Gelişme"
+
+#: ../html/about.php:207
+msgid "Author"
+msgstr "Yazar"
+
+#: ../html/about.php:212
+msgid "Founder and Project Manager"
+msgstr "Kurucu ve Proje Yöneticisi"
+
+#: ../html/about.php:218
+msgid "Contributors"
+msgstr "Katkıda"
+
+#: ../html/about.php:223
+msgid "Project manager"
+msgstr "Proje Müdürü"
+
+#: ../html/about.php:225
+msgid "Economic Computer Science"
+msgstr "Ekonomik Bilgisayar Bilimleri"
+
+#: ../html/about.php:229
+msgid "Marketing"
+msgstr "Pazarlama"
+
+#: ../html/about.php:235 ../html/download/layout_form.php:29
+#: ../html/welcome.php:124
+msgid "Developer"
+msgstr "Geliştirici"
+
+#: ../html/about.php:246
+msgid "Thanks all Translaters"
+msgstr "Teşekkürler tüm Çevirmenlere"
+
+#: ../html/about.php:249
+msgid "Translate this Plugin"
+msgstr "Bu Plugini Çevir"
+
+#: ../html/about.php:249
+msgid "Translate"
+msgstr "Çevirmek"
+
+#: ../html/about.php:320
+msgid "Development is fueled by your praise and feedback"
+msgstr "Kalkınma için övgü ve geribildirim tarafından yakıt"
+
+#: ../html/about.php:324
+msgid ""
+"In how you can support us so that we can further develop this plugin "
+"regularly, it may not always be financially, so you will give us feedback or "
+"recommend us, please give us a review, Liken our Facebook page or sponsor "
+"us, so that we further useful free plugins can develop."
+msgstr ""
+"Biz daha fazla düzenli olarak bu eklentiyi geliştirebilmek için ve böylece "
+"bize destek nasıl olabilirsiniz, her zaman, maddi olmayabilir, bize geri "
+"bildirimde ya da bizi tavsiyede, bize bir daha gözden geçirme Facebook "
+"sayfamızı benzetmek veya bizimle sponsor olmak yardımçı olabilirsiniz, bizde "
+"daha yararlı ücretsiz eklentileri gelişebilelim."
+
+#: ../html/about.php:327
+msgid ""
+"You see, it is much more possible if you want to support something, thanks "
+"to all the Support Us."
+msgstr ""
+"Gördüğnüz gibi daha fazlasi mümkün, birseyi desteklemek istediğiniz zaman, "
+"tüm destekleyenlere Teşekkürler"
+
+#: ../html/about.php:333
+msgid "Now simply, quickly and safely pay online - with PayPal."
+msgstr ""
+"PayPal ile - Şimdi basit, hızlı ve güvenli bir şekilde internet üzerinden "
+"öderler."
+
+#: ../html/about.php:337
+msgid "LOOK FOR SPONSOR !!!"
+msgstr "SPONSOR ARANIYOR !!!"
+
+#: ../html/about.php:340
+msgid "Your Melibu Team"
+msgstr "Sizin Melibu Takımınız"
+
+#: ../html/download.php:71 ../html/download/modal_text_form.php:21
+#: ../html/modal.php:65 ../html/modal.php:77 ../html/settings.php:61
+#: ../html/settings.php:98 ../html/settings.php:136 ../html/settings.php:154
+#: ../html/settings.php:172 ../html/settings.php:185 ../html/shortcode.php:66
+msgid "Description"
+msgstr "Tanım"
+
+#: ../html/download.php:72 ../html/settings.php:62 ../html/settings.php:99
+#: ../html/settings.php:137 ../html/settings.php:155 ../html/settings.php:173
+#: ../html/settings.php:186 ../html/shortcode.php:67
+msgid "Basic"
+msgstr "Temel"
+
+#: ../html/download.php:77
+msgid "Here you have a preview non active, you can click it."
+msgstr "Bu bir önizleme devre dışı kalır, bunu tıklayabilirsiniz."
+
+#: ../html/download.php:85
+msgid "Image & Layout"
+msgstr "Resim & Görüntü"
+
+#: ../html/download.php:87
+msgid "Here you can set the image and the layout."
+msgstr "Burada Resim ile Görüntü ayarliyabilirsiniz."
+
+#: ../html/download.php:102 ../html/welcome.php:129
+msgid "Colors"
+msgstr "Renkler"
+
+#: ../html/download.php:104
+msgid "Here you have to set the colors."
+msgstr "Burada renkleri ayarliyabilirsiniz."
+
+#: ../html/download.php:128 ../html/modal.php:100
+msgid "Thank you for your confidence in"
+msgstr "Olan güveniniz için teşekkür ederiz"
+
+#: ../html/download.php:141
+msgid ""
+"With the MeliBu WP Sharing Social Safe, your content will be shared not only "
+"without a warning, but you will also receive statistics. You can also use "
+"Optional bitly shortened URLs so your pages and posts are bit-lined so you "
+"can track the back link behave. And much more..."
+msgstr ""
+"MeliBu WP Sharing Social Safe sayesinde, içerik değil, sadece bir uyarı "
+"olmadan, ama aynı zamanda istatistiklerini alacaksınız paylaşılacaktır. "
+"Ayrıca arka bağlantı davranmaya izleyebilirsiniz öylesine sayfalarınızı ve "
+"mesaj bit kaplı isteğe bağlı bitly kısaltılmış URL'ler kullanabilirsiniz. Ve "
+"daha fazlası..."
+
+#: ../html/download.php:144 ../html/modal.php:116
+msgid "More..."
+msgstr "Daha..."
+
+#: ../html/download.php:153
+msgid ""
+"Our feedback Generate's position all possible forms to create in seconds. "
+"Thanks to the sophisticated Melibus Drag N Drop system with live preview you "
+"can also see immediately what you are doing. And much more..."
+msgstr ""
+"Feedback saniye içinde yaratmak için mümkün olan tüm formları konumunu "
+"oluşturun. Ayrıca hemen ne yaptığınızı görebilirsiniz canlı önizleme ile "
+"gelişmiş Melibus Drag N Drop sistemi sayesinde. Ve çok daha fazlası ..."
+
+#: ../html/download/button_color_form.php:15
+msgid "Button colors"
+msgstr "Düğme renkleri"
+
+#: ../html/download/button_color_form.php:20
+#: ../html/download/button_icon_color_form.php:21
+msgid "Red"
+msgstr "Kırmızı"
+
+#: ../html/download/button_color_form.php:23
+#: ../html/download/button_icon_color_form.php:24
+msgid "Red Flat"
+msgstr "Kırmızı Düz"
+
+#: ../html/download/button_color_form.php:26
+#: ../html/download/button_icon_color_form.php:27
+msgid "Orange"
+msgstr "Portakal"
+
+#: ../html/download/button_color_form.php:29
+#: ../html/download/button_icon_color_form.php:30
+msgid "Orange Flat"
+msgstr "Portakal Düz"
+
+#: ../html/download/button_color_form.php:32
+#: ../html/download/button_icon_color_form.php:34
+msgid "Yellow"
+msgstr "Sarı"
+
+#: ../html/download/button_color_form.php:35
+#: ../html/download/button_icon_color_form.php:37
+msgid "Yellow Flat"
+msgstr "Sarı Düz"
+
+#: ../html/download/button_color_form.php:38
+#: ../html/download/button_icon_color_form.php:40
+msgid "Green"
+msgstr "Yeşil"
+
+#: ../html/download/button_color_form.php:41
+#: ../html/download/button_icon_color_form.php:43
+msgid "Green Flat"
+msgstr "Yeşil Düz"
+
+#: ../html/download/button_color_form.php:44
+#: ../html/download/button_icon_color_form.php:46
+msgid "Blue"
+msgstr "Mavi"
+
+#: ../html/download/button_color_form.php:47
+#: ../html/download/button_icon_color_form.php:49
+msgid "Dark Blue"
+msgstr "Koyu mavi"
+
+#: ../html/download/button_color_form.php:50
+#: ../html/download/button_icon_color_form.php:52
+msgid "Blue Flat"
+msgstr "Mavi Düz"
+
+#: ../html/download/button_color_form.php:53
+#: ../html/download/button_icon_color_form.php:55
+msgid "Purple"
+msgstr "Mor"
+
+#: ../html/download/button_color_form.php:56
+#: ../html/download/button_icon_color_form.php:58
+msgid "Purple Flat"
+msgstr "Mor Düz"
+
+#: ../html/download/button_color_form.php:59
+#: ../html/download/button_icon_color_form.php:61
+msgid "Black"
+msgstr "Siyah"
+
+#: ../html/download/button_color_form.php:62
+#: ../html/download/button_icon_color_form.php:64
+msgid "Black Flat"
+msgstr "Siyah Düz"
+
+#: ../html/download/button_color_form.php:65
+#: ../html/download/button_icon_color_form.php:67
+msgid "Grey"
+msgstr "Gri"
+
+#: ../html/download/button_color_form.php:68
+#: ../html/download/button_icon_color_form.php:70
+msgid "Grey Flat"
+msgstr "Gri Düz"
+
+#: ../html/download/button_icon_color_form.php:15
+msgid "Icon colors"
+msgstr "Simge renkleri"
+
+#: ../html/download/button_logo_form.php:21
+msgid "You can set here a image for your download button."
+msgstr "Indirme düğmesi için burada görüntü oturabilir."
+
+#: ../html/download/button_logo_form.php:26
+msgid "You can delete the actually image, save without select a image."
+msgstr "Resim yüklemeden kaydetedersiniz, şimdiki resim silinir."
+
+#: ../html/download/captcha.php:20 ../html/download/copy_option_form.php:22
+#: ../html/download/errors.php:25 ../html/download/font.php:20
+#: ../html/download/font.php:28 ../html/download/font.php:37
+#: ../html/download/hidecount.php:20 ../html/download/label_option_form.php:20
+#: ../html/download/modal_option_form.php:20 ../html/download/protect.php:20
+#: ../html/download/subscribe.php:20 ../html/download/topfive.php:20
+msgid "Turn"
+msgstr "Dönüş"
+
+#: ../html/download/font.php:13
+msgid "No Icon"
+msgstr "Hiçbir Simge"
+
+#: ../html/download/label_color_form.php:15
+msgid "Label colors"
+msgstr "Etiket renkleri"
+
+#: ../html/download/label_color_form.php:20
+msgid "Light"
+msgstr "Işık"
+
+#: ../html/download/label_color_form.php:23
+msgid "Light Flat"
+msgstr "Işık Düz"
+
+#: ../html/download/label_color_form.php:26
+msgid "Dark"
+msgstr "karanlık"
+
+#: ../html/download/label_color_form.php:29
+msgid "Dark Flat"
+msgstr "karanlık Düz"
+
+#: ../html/download/label_color_form.php:32
+msgid "White"
+msgstr "Beyaz"
+
+#: ../html/download/label_color_form.php:35
+msgid "White Flat"
+msgstr "Beyaz Düz"
+
+#: ../html/download/layout_form.php:15
+msgid "Choose your Layout"
+msgstr "Düzeni Seçin"
+
+#: ../html/download/layout_form.php:21 ../html/welcome.php:122
+msgid "Normal"
+msgstr "Normal"
+
+#: ../html/download/layout_form.php:25 ../html/welcome.php:123
+msgid "User"
+msgstr "Kullanıcı"
+
+#: ../html/download/layout_form.php:33 ../html/download/layout_form.php:37
+#: ../html/download/layout_form.php:41 ../html/welcome.php:125
+#: ../html/welcome.php:126 ../html/welcome.php:127
+msgid "Organization"
+msgstr "Organizasyon"
+
+#: ../html/download/layout_form.php:51
+msgid "Dashed"
+msgstr "Kesik"
+
+#: ../html/download/modal_ads_form.php:11 ../html/welcome.php:143
+msgid "ADS"
+msgstr "ADS"
+
+#: ../html/download/modal_ads_form.php:12
+msgid "For Publishers: ADS / Socials or other code"
+msgstr "Yayıncılar için: ADS / Socials veya diğer kod"
+
+#: ../html/download/modal_ads_form.php:25
+msgid "For example"
+msgstr "Örneğin"
+
+#: ../html/download/modal_text_form.php:11 ../html/welcome.php:141
+msgid "Thank, Subscribe and Captcha window"
+msgstr "Teşekkürler, Abone ve Captcha penceresi"
+
+#: ../html/download/modal_text_form.php:12
+msgid ""
+"Here you can the Downloader say thank you, give information on the "
+"subscription, captcha or more."
+msgstr "Burada Kullanci, Abonelik veya Captcha bilgisi verebilirsiniz."
+
+#: ../html/download/subscribe.php:29
+msgid "Turn with Name"
+msgstr "Adı dönün"
+
+#: ../html/modal.php:66 ../html/modal.php:78 ../html/settings.php:63
+#: ../html/settings.php:100 ../html/settings.php:138 ../html/settings.php:156
+#: ../html/settings.php:174 ../html/shortcode.php:68
+msgid "Example"
+msgstr "Örnek"
+
+#: ../html/modal.php:113
+msgid ""
+"Do you know, the MeliBu WP Syntax High Lighter. Turn your code into a "
+"highlight in seconds with short codes in WP Texteditor. And very much more..."
+msgstr ""
+"Melibu WP Syntax High Lighter biliyor musunuz. WP Metin Düzenleyicisi'nde "
+"kısa kodları ile saniyeler içinde bir vurgulamak içine kodunuzu açın. Ve çok "
+"daha fazlası ..."
+
+#: ../html/modal.php:125
+msgid ""
+"Get more statistics, with the Melibu WP hits. Learn how many clicks you on "
+"what download button get, in several graphic banner with detailed "
+"information. It supports various plugins Melibu. And very much more..."
+msgstr ""
+"Melibu WP hit, daha istatistikleri almak. Ne indirme düğmesi hakkında "
+"ayrıntılı bilgi ile birkaç grafik afiş, kaç tıklama aldığını öğrenin. "
+"Çeşitli eklentileri Melibu destekler. Ve çok daha fazlası..."
+
+#: ../html/settings.php:67
+msgid "Label"
+msgstr "Etiket"
+
+#: ../html/settings.php:69
+msgid "Here you have to set the possibility."
+msgstr "Burada etiketi, ya gösterir veya göstermiyebilirsiniz."
+
+#: ../html/settings.php:77
+msgid "Hide Count"
+msgstr "Gizle Sayısı"
+
+#: ../html/settings.php:79
+msgid "Here you can show/hide count for Users. (Only Admin see the counts)"
+msgstr ""
+"Burada Kullanıcılar için saymayı saklıyabilirsiniz / gösterebilirsiniz. "
+"(Sadece Yönetici sayıları görür)"
+
+#: ../html/settings.php:87
+msgid "Support us"
+msgstr "Bizi destekle"
+
+#: ../html/settings.php:88
+msgid "Here you can show/hide"
+msgstr "Burada gösterebilir/gizliyebilirsin"
+
+#: ../html/settings.php:89
+msgid "Please activate this to help us, for share this plugin"
+msgstr "Hisse bu eklenti için, bu bize yardımcı olmak için aktive edin"
+
+#: ../html/settings.php:104
+msgid "Thank window"
+msgstr "Teşekkürler penceresi"
+
+#: ../html/settings.php:106
+msgid "You can, depending on the need, the Thank window on and off."
+msgstr ""
+"Ihtiyacınıza göre, Teşekkürler penceresini kapalı veay açık "
+"kullanabilirsiniz."
+
+#: ../html/settings.php:114
+msgid "Subscription"
+msgstr "Abone"
+
+#: ../html/settings.php:116
+msgid ""
+"You can activate the subscription feature. Turn this feature on, the user "
+"must enter the file downloading an e-mail address."
+msgstr ""
+"Abonelik özelliğini etkinleştirebilirsiniz. Kullanıcı dosya indirirken bir e-"
+"posta adresi girmelidir, bu özelliği açtıgnızda."
+
+#: ../html/settings.php:124
+msgid "Captcha"
+msgstr "Captcha"
+
+#: ../html/settings.php:126
+msgid "Click here for Malibu Captcha depending on needs on and off"
+msgstr "Melibu Captcha açık veya kapalı ihtiyaça bağlı"
+
+#: ../html/settings.php:144
+msgid "Here you can display and hide the information to download"
+msgstr "Burada indirmek için bilgileri gizleyebilirsiniz"
+
+#: ../html/settings.php:160
+msgid "Protection"
+msgstr "Koruma"
+
+#: ../html/settings.php:162
+msgid ""
+"If you really want to protect a file so that no one can download it with "
+"other agents, you have to enable this function. When you do this will no "
+"longer be accessible to the entire web space / server this file and can be "
+"downloaded only with the WP MeliBu Download Counter button."
+msgstr ""
+"Eğer gerçekten kimsenin diğer ajanlarla indirebilirsiniz böylece dosyayı "
+"korumak istiyorsanız, bu işlevi etkinleştirmek gerekiyor. Bu artık tüm web "
+"alanı / sunucuya bu dosya erişilebilir olacak yapmak ve sadece WP MeliBu "
+"İndir Sayaç tuşu ile indirilebilir zaman."
+
+#: ../html/settings.php:177
+msgid "Font"
+msgstr "Yazı tipi"
+
+#: ../html/settings.php:177
+msgid "You can according to your needs the Icons on and off."
+msgstr "Sizin ihtiyaçlarınıza Simgeler ve kapalı göre can."
+
+#: ../html/settings.php:190
+msgid "Help us to improve the plugin"
+msgstr "Eklenti geliştirmek için bize yardımcı olun"
+
+#: ../html/settings.php:192
+msgid "Enable error notification report"
+msgstr "Hata bildirim raporunu etkinleştir"
+
+#: ../html/shortcode.php:48 ../html/shortcode.php:52 ../html/welcome.php:94
+#: ../html/welcome.php:192
+msgid "Short code"
+msgstr "Kisa Cod"
+
+#: ../html/shortcode.php:53
+msgid "Set the short code defaults here"
+msgstr "Burada kisa cod varsayılan ayarla"
+
+#: ../html/shortcode.php:72
+msgid "Password"
+msgstr "Parola"
+
+#: ../html/shortcode.php:73 ../html/shortcode.php:87 ../html/shortcode.php:142
+#: ../html/welcome.php:226 ../html/welcome.php:230 ../html/welcome.php:246
+msgid "new"
+msgstr "yeni"
+
+#: ../html/shortcode.php:86
+msgid "Button name"
+msgstr "Düğme adı"
+
+#: ../html/shortcode.php:100
+msgid "Label name"
+msgstr "Etiket adı"
+
+#: ../html/shortcode.php:114
+msgid "Datetime"
+msgstr "Tarih Saat"
+
+#: ../html/shortcode.php:115
+msgid ""
+"The short code works with the date specified time that you can adjust at any "
+"time or have customized in your WP setting"
+msgstr ""
+"Kısa kod istediğiniz zaman ayarlayabilirsiniz veya WP ortamda "
+"özelleştirilmiş olan tarih belirtilen süre ile çalışır"
+
+#: ../html/shortcode.php:119
+msgid "Currently set"
+msgstr "Şu anda set"
+
+#: ../html/shortcode.php:121
+msgid "WP Dateime settings"
+msgstr "WP Tarih Saat ayarları"
+
+#: ../html/shortcode.php:127
+msgid "Other"
+msgstr "Diğer"
+
+#: ../html/shortcode.php:141
+msgid "Seo"
+msgstr "Seo"
+
+#: ../html/shortcode.php:143
+msgid "This parameter is the rel tag the same"
+msgstr "Bu parametre aynı rel etiketi"
+
+#: ../html/welcome.php:46
+msgid "This documentation should help you."
+msgstr "Bu belge size yardımcı olacaktır."
+
+#: ../html/welcome.php:58
+msgid "Start"
+msgstr "Başlama"
+
+#: ../html/welcome.php:109
+msgid "To use Melibu WP Donwload Counter Button properly"
+msgstr "Düzgün Melibu WP Donwload Sayaç Düğmesi kullanmak için"
+
+#: ../html/welcome.php:110
+msgid "Thank you that you use MeliBu WP Donwload Counter Button"
+msgstr "MeliBu WP Donwload Sayaç Düğmesi kullandiğiniz için teşekkür ederiz"
+
+#: ../html/welcome.php:118
+msgid "Let's start now with the button"
+msgstr "En butonu ile şimdi başlayalım"
+
+#: ../html/welcome.php:119
+msgid "Layout"
+msgstr "Düzen"
+
+#: ../html/welcome.php:120
+msgid ""
+"First you have the opportunity to select a predefined template, in the free "
+"version are these"
+msgstr ""
+"Önce önceden tanımlanmış bir şablonu seçmek için fırsat var, ücretsiz sürümü "
+"bunlar"
+
+#: ../html/welcome.php:130
+msgid "After the selection of a template you can now change the colors"
+msgstr "Bir şablon seçimden sonra artık renkleri değiştirebilirsiniz"
+
+#: ../html/welcome.php:131
+msgid "Logo"
+msgstr "Logo"
+
+#: ../html/welcome.php:132
+msgid "Upload your logo to the downloads"
+msgstr "Yüklemeler için logo yükleyin"
+
+#: ../html/welcome.php:132
+msgid "your logo with every download the label Show"
+msgstr "her indirme ile etikete logo göster"
+
+#: ../html/welcome.php:133
+msgid "Select your download button"
+msgstr "İndirme düğmesini seçin"
+
+#: ../html/welcome.php:142
+msgid "Give your form an appropriate title and description"
+msgstr "Forma uygun bir başlık ve açıklama verin"
+
+#: ../html/welcome.php:144
+msgid "Place your advertising or affiliate program banners"
+msgstr "Reklam veya ortaklık programı afiş yerleştirin"
+
+#: ../html/welcome.php:145 ../html/welcome.php:185
+msgid "Set it"
+msgstr "Ayarla"
+
+#: ../html/welcome.php:153
+msgid "Download after enter E-Mail-Address"
+msgstr "E-posta adresi girdikten sonra indir"
+
+#: ../html/welcome.php:154
+msgid ""
+"Activate, Subscribe ask the function to the user when download the settings "
+"to enter your email address"
+msgstr ""
+"Indirme ayarları, e-posta adresini girmek için kullanıcıya işlevi sormak "
+"abone etkinleştirin"
+
+#: ../html/welcome.php:155
+msgid "Download after enter E-Mail-Address and Name"
+msgstr "E-posta adresi ve adı girdikten sonra indir"
+
+#: ../html/welcome.php:156
+msgid ""
+"In addition, to require you to enter the name you select this under the "
+"settings"
+msgstr ""
+"Buna ek olarak, siz ayarları altında bu seçmek adı girmenizi gerektirecek"
+
+#: ../html/welcome.php:157
+msgid "Activate Subscribes"
+msgstr "Aboneler etkinleştirin"
+
+#: ../html/welcome.php:158 ../html/welcome.php:168
+msgid "Overview"
+msgstr "Genel bakış"
+
+#: ../html/welcome.php:159
+msgid "You get all subscribes in one list and may be consulted at any time"
+msgstr ""
+"Bir listesindeki tüm aboneler almak ve herhangi bir zamanda konsülte "
+"edilebilir"
+
+#: ../html/welcome.php:160
+msgid "Check Subscriber list"
+msgstr "Abone kontrol listesi"
+
+#: ../html/welcome.php:169
+msgid "You get all downloads in one list and may be consulted at any time"
+msgstr ""
+"Bir listedeki tüm siteleri almak ve herhangi bir zamanda konsülte edilebilir"
+
+#: ../html/welcome.php:170
+msgid "Check download list"
+msgstr "Indir listesini kontrol edin"
+
+#: ../html/welcome.php:178
+msgid "Download after enter Captcha"
+msgstr "Captcha gir sonra İndir"
+
+#: ../html/welcome.php:179
+msgid "Activate a Captcha, which must then be entered for each download"
+msgstr "Sonra her indirme için girilmesi gereken bir Captcha, etkinleştirme"
+
+#: ../html/welcome.php:180
+msgid "Activate captcha"
+msgstr "Captcha'yı etkinleştirin"
+
+#: ../html/welcome.php:182
+msgid "Activate a protect, which must then be entered for each download"
+msgstr "Her indirme için girilmesi gereken bir ürün etkinleştir"
+
+#: ../html/welcome.php:183
+msgid "Activate protect"
+msgstr "Koruma etkinleştirin"
+
+#: ../html/welcome.php:184
+msgid "You can make and optimize with many various settings"
+msgstr ""
+"Daha fazla yapabilirsiniz ve birçok çeşitli ayarlar ile optimize "
+"edebilirsiniz"
+
+#: ../html/welcome.php:193
+msgid ""
+"Use the short code in your WP Editor for set your downloads or copy, paste "
+"and set manually"
+msgstr ""
+"İndirmelerinizi veya kopyalama, yapıştırma ayarlamak ve el set için WP "
+"Editör kısa kodu kullanın"
+
+#: ../html/welcome.php:196
+msgid "OLD"
+msgstr "ESKI"
+
+#: ../html/welcome.php:205
+msgid "NEW"
+msgstr "YENI"
+
+#: ../html/welcome.php:219
+msgid ""
+"Without this shortcode does not download the old version should be replaced "
+"if possible by the latest. Both versions work but could be a fault occur "
+"when another plugin also the name download has a shortcode"
+msgstr ""
+"Eski sürümünü indirmek değil, bu SHORTCODE olmadan en geç mümkünse "
+"değiştirilmesi gerekir. Her iki versiyon da çalışır ancak başka eklenti aynı "
+"zamanda isim indirme Kısa kod olduğunda bir arıza meydana olabilir"
+
+#: ../html/welcome.php:223
+msgid ""
+"The instance that is controlled single and duplicates each download you must "
+"offer individually possess another instance, unless you want to use on a "
+"page more identical downloads, then you have the instance and the download "
+"URL be the same"
+msgstr ""
+"Tek kontrollü ve bir sayfa daha fazla aynı yüklemeler kullanmak istediğiniz "
+"sürece her ardından örneği ve indir URL aynı olmak var, tek tek teklif başka "
+"bir örneğini sahip olmalıdır indir çoğaltır bir örneği"
+
+#: ../html/welcome.php:227
+msgid "You can add this parameter you download a password"
+msgstr "Eğer bir şifre indir Bu parametre ekleyebilirsiniz"
+
+#: ../html/welcome.php:231
+msgid "You can choose the Download button name as example \"My Download\""
+msgstr "\"My İndir\" örnek olarak İndir düğmesi adını seçebilirsiniz"
+
+#: ../html/welcome.php:235
+msgid "You can choose the Download label name as example \"My Download Label\""
+msgstr "\"My İndirme Label\" örnek olarak indir etiket adını seçebilirsiniz"
+
+#: ../html/welcome.php:239
+msgid ""
+"This is generated automatically when you put the short code, this is the "
+"date when you submitted the file available or what you want"
+msgstr ""
+"Eğer kısa bir kod koyduğunuzda bu otomatik olarak oluşturulur, bu dosyayı "
+"teslim tarihi mevcut ya da ne istediğinizi"
+
+#: ../html/welcome.php:243
+msgid "This parameter can, for example, for the version or use something else"
+msgstr "Bu parametre, örneğin, sürümü için ya da başka bir şey kullanabilir"
+
+#: ../html/welcome.php:247
+msgid ""
+"This parameter is the rel tag the same, you can see any information for rel "
+"tag by the"
+msgstr ""
+"Bu parametre aynı rel etiketi, sen tarafından rel etiketi için her türlü "
+"bilgiyi görebilirsiniz"
+
+#: ../html/welcome.php:254
+msgid ""
+"That is the short code. You can copy a short code and place on a page, post "
+"or in a widget. Or use the short code has been integrated into your editor, "
+"a click is enough and the part buttons after save visible"
+msgstr ""
+"Bu kısa bir koddur. Kısa bir kodu kopyalayın ve bir sayfa, yazı veya bir "
+"widget yerleştirebilirsiniz. Ya da editör entegre edilmiştir kısa kodu "
+"kullanabilirsiniz, bir tık yeterli ve parça düğmeleri sonra görünür kurtarmak"
+
+#: ../html/welcome.php:263
+msgid "Please take the short code double click to copy"
+msgstr "Kopyalamak için kısayol çift tıklayarak alınız"
+
+#: ../html/welcome.php:267
+msgid "You can set for the short code standard settings"
+msgstr "Sen kısa kod standart ayarları için ayarlayabilirsiniz"
+
+#: ../html/welcome.php:268
+msgid "Set it now"
+msgstr "Şimdi ayarla"
+
+#: ../html/welcome.php:281
+msgid "Use Short code in WP Editor"
+msgstr "WP Düzenleyicisi'nde Kısa kod kullanın"
+
+#: ../html/welcome.php:282
+msgid "Take your part to put the buttons shortcode in WP editor Melibu"
+msgstr "WP editörü Melibu düğmeler Kısa kod koymak için katılmak"
+
+#: ../html/welcome.php:288
+msgid "Use Top 5 Widget"
+msgstr "En Top 5 Widget kullanın"
+
+#: ../html/welcome.php:289
+msgid "Use the Top 5 widget to your Top Downloads close attention"
+msgstr "En Çok İndirilen yakın ilgi Top 5 widget kullanın"
+
+#: ../tpl/modal.php:40
+msgid "Download"
+msgstr "Download"
+
+#: ../tpl/modal.php:49
+msgid ""
+"Thank you for your download, we hope you are satisfied with our software."
+msgstr ""
+"Indirmeniz için teşekkür ederiz, biz bizim yazılımı ile memnun olacağını "
+"umuyorum."
+
+#: ../tpl/modal.php:95
+msgid "Enter your Name"
+msgstr "Adınızı giriniz"
+
+#: ../tpl/modal.php:101
+msgid "Enter your E-Mail"
+msgstr "E-postanızı giriniz"
+
+#: ../tpl/modal.php:113
+msgid "Enter your Password"
+msgstr "Şifrenizi girin"
+
+#: ../tpl/modal.php:154
+msgid "Enter Code"
+msgstr "Kodu girin"
+
+#: ../tpl/modal.php:178
+msgid "Cancel"
+msgstr "İptal"
+
+#: ../tpl/modal.php:183 ../tpl/modal.php:185 ../tpl/modal.php:189
+#: ../tpl/modal.php:191
+msgid "Click here to download"
+msgstr "İndirmek için buraya tıkla"
+
+#~ msgid "Coming soon"
+#~ msgstr "Pek yakında"
+
+#~ msgid "The file does not exist or could not be found"
+#~ msgstr "Dosya mevcut değil veya bulunamadı:"
+
+#~ msgid "Error: No URL found"
+#~ msgstr "Hata: URL bulunamadı"
+
+#~ msgid ""
+#~ "Please select a file, select a file or enter manually the URL of the "
+#~ "file, save and refresh the page!"
+#~ msgstr ""
+#~ "Bir dosyayı seçiniz, bir dosya seçin veya manuel dosyanın URL'sini girin, "
+#~ "kaydetmek ve sayfayı yenileyin!"
+
+#~ msgid "Can useable any File-Types (PDF, ZIP, MP3, MPEG...)"
+#~ msgstr "Herhangi bir Dosya Türleri kullanılabilir (PDF, ZIP, MP3, MPEG ...)"
+
+#~ msgid "All downloads can be provided with a subscription"
+#~ msgstr "Tüm dökümanlar bir abonelik ile temin edilebilir"
+
+#~ msgid "Subscription with name"
+#~ msgstr "Adı ile Abonelik"
+
+#~ msgid "Simple select file from Media library or upload new"
+#~ msgstr "Kütüphanemize gelen basit dosyayı seçin veya yeni yükleme"
+
+#~ msgid "Are statistics of downloaded files"
+#~ msgstr "Indirilen dosyaların istatistikler"
+
+#~ msgid "Overview sort"
+#~ msgstr "Genel sıralama"
+
+#~ msgid "Are Subscriber list"
+#~ msgstr "Abone listesi vardır"
+
+#~ msgid "Subscriber list with mailto function"
+#~ msgstr "Mailto fonksiyonu ile abone listesi"
+
+#~ msgid "Custom thanks Title & Description"
+#~ msgstr "Özel teşekkür Başlık ve Açıklama"
+
+#~ msgid "Button Backgroundcolor"
+#~ msgstr "Düğme arka plan rengi"
+
+#~ msgid "Icon Backgroundcolor"
+#~ msgstr "Simge arka plan rengi"
+
+#~ msgid "Turn Backend"
+#~ msgstr "Dönüş Backend"
+
+#~ msgid "Turn Frontend"
+#~ msgstr "Dönüş Frontend"
+
+#~ msgid "Label Backgroundcolor"
+#~ msgstr "Etiket arka plan rengi"
+
+#~ msgid "FontAwesome"
+#~ msgstr "FontAwesome"
+
+#~ msgid "You can according to your needs the FontAwesome CSS on and off."
+#~ msgstr ""
+#~ "Ihtiyaçlarınıza göre FontAwesomeı kapalı veya acık kullanabilirsiniz."
+
+#~ msgid ""
+#~ "Custom button Name, Datetime and other Information (with shortcode in WP "
+#~ "Rich Text Editor)"
+#~ msgstr ""
+#~ "Özel düğme İsim, Tarih Saat ve (WP Zengin Metin Düzenleyicisi'nde "
+#~ "SHORTCODE) ile diğer bilgiler"
+
+#~ msgid "Custom button Color"
+#~ msgstr "Özel düğme Rengi"
+
+#~ msgid "Custom button Icon Color"
+#~ msgstr "Özel düğme ikon Rengi"
+
+#~ msgid "options"
+#~ msgstr "seçenekleri"
+
+#~ msgid "Activate Captcha"
+#~ msgstr "Captcha etkinleştirin"
+
+#~ msgid "File not exists: "
+#~ msgstr "Dosya yok:"
+
+#~ msgid "Delete"
+#~ msgstr "Sil"
+
+#~ msgid "You can choose the Download label name as example \"My Download\""
+#~ msgstr "\"My İndir\" örnek olarak indir etiket adını seçebilirsiniz"
+
+#~ msgid ""
+#~ "You have first the possibility to select a predefined template, available "
+#~ "in the free version are these"
+#~ msgstr ""
+#~ "Bu serbest sürümünde kullanılabilir önceden tanımlanmış şablonu seçmek "
+#~ "için ilk imkanı var"
+
+#~ msgid ""
+#~ "Get more statistics, with the Melibu WP hits. Learn how many clicks you "
+#~ "on what download button get, in several graphic banner with detailed "
+#~ "information. And very much more. It supports various plugins Melibu"
+#~ msgstr ""
+#~ "Melibu WP hit, daha istatistikleri almak. Ne indirme düğmesi hakkında "
+#~ "ayrıntılı bilgi ile birkaç grafik afiş, kaç tıklama aldığını öğrenin. Ve "
+#~ "çok daha fazlası. Çeşitli eklentileri Melibu destekler"
+
+#~ msgid ""
+#~ "Get more statistics, with the Melibu WP hits. Learn how many clicks you "
+#~ "on what download button get, in several graphic banner with detailed "
+#~ "information. It supports various plugins Melibu"
+#~ msgstr ""
+#~ "Melibu WP hit, daha istatistikleri almak. Ne indirme düğmesi hakkında "
+#~ "ayrıntılı bilgi ile birkaç grafik afiş, kaç tıklama aldığını öğrenin. "
+#~ "Çeşitli eklentileri Melibu destekler"
+
+#~ msgid ""
+#~ "Get more statistics, with the Melibu WP hits. Learn how many clicks you "
+#~ "on what download button you get, in several graphic banner with detailed "
+#~ "information. It supports various plugins Melibu"
+#~ msgstr ""
+#~ "Melibu WP hit, daha istatistikleri almak. Ne indirme düğmesi hakkında "
+#~ "ayrıntılı bilgi ile birkaç grafik afiş, kaç tıklama aldığını öğrenin. "
+#~ "Çeşitli eklentileri Melibu destekler"
+
+#~ msgid ""
+#~ "Get more statistics, with Melibu WP hits. Learn which share button is "
+#~ "clicked the most."
+#~ msgstr ""
+#~ "Melibu WP hit ile daha fazla istatistik, olsun. en çok tıklanan hangi "
+#~ "paylaş düğmesi öğrenin."
+
+#~ msgid ""
+#~ "We try our plugins error indemnify available, but each system is "
+#~ "different placed and we can not guarantee that our plugins on any system "
+#~ "to work 100%. But with your help we can do this, where you allow us to "
+#~ "obtain the error messages, check for shipping the error messages."
+#~ msgstr ""
+#~ "Biz eklentileri hata nedeniyle doğabilecek mevcut deneyin, ama her sistem "
+#~ "yerleştirilmiş farklı ve herhangi bir sistem üzerinde bizim eklentileri% "
+#~ "100 işe garanti edemeyiz. Ama sizlerinde yardımıyla bize hata iletileri "
+#~ "elde etmek için izin nerede, yapabiliriz, hata iletileri nakliye için "
+#~ "kontrol edin."
+
+#~ msgid "This Sidebar helps you"
+#~ msgstr "Bu Kenar çubuğu size yardımcı olur"
+
+#~ msgid "Form Settings"
+#~ msgstr "Form Ayarları"
+
+#~ msgid "Here you can make and optimize various settings"
+#~ msgstr "Burada yapmanızı ve çeşitli ayarları optimize edebilirsiniz"
+
+#~ msgid ""
+#~ "Activate, Subscribe ask the function to the user when download the "
+#~ "settings to enter your email address. In addition, to require you to "
+#~ "enter the name you select this under the settings"
+#~ msgstr ""
+#~ "Indirme ayarları, e-posta adresini girmek için kullanıcıya işlevi sormak "
+#~ "abone etkinleştirin. Buna ek olarak, siz ayarları altında bu seçmek adı "
+#~ "girmenizi gerektirecek."
+
+#~ msgid "File not Found"
+#~ msgstr "Dosya bulunamadı"
+
+#~ msgid "Automatically adjusts the file right to the download file to"
+#~ msgstr "Otomatik olarak dosya indirme dosya hakkı ayarlar"
+
+#~ msgid "Error: File not Found"
+#~ msgstr "Hata: Dosya Bulunamadı"
+
+#~ msgid "Powerd by &copy;"
+#~ msgstr "Tarafından desteklenmektedir &copy; "
+
+#~ msgid "Powerd by &copy; "
+#~ msgstr "Tarafından desteklenmektedir &copy; "
+
+#~ msgid "Choose"
+#~ msgstr "Seçenek"
+
+#~ msgid "Text & Shortcode"
+#~ msgstr "Metin ve Kısa kod"
+
+#~ msgid "Total Subscriber"
+#~ msgstr "Toplam Abone"
+
+#~ msgid "More "
+#~ msgstr "Daha fazla"
+
+#~ msgid "Special Settings"
+#~ msgstr "Özel Ayarlar"
+
+#~ msgid "Melibu Subscription donwload"
+#~ msgstr "Melibu Abonelik indir"
+
+#~ msgid "Subscription Surface"
+#~ msgstr "Abonelik Yüzey"
+
+#~ msgid "Subscriber E-Mail-Address"
+#~ msgstr "Abone EMail-Adresi"
+
+#~ msgid "File Url"
+#~ msgstr "Dosya URL"
+
+#~ msgid "File Name"
+#~ msgstr "Dosya Adı"
+
+#~ msgid "Subscribe On"
+#~ msgstr "Açık Abone"
+
+#~ msgid "+ Premium"
+#~ msgstr "+ Premium"
+
+#~ msgid "Downloader &copy; by"
+#~ msgstr "Downloader &copy; tarafından "
+
+#~ msgid ""
+#~ "The instance that is controlled single and duplicates each download you "
+#~ "must offer individually possess another instance, unless you want to use "
+#~ "on a page more identical downloads, then you have the instance and the "
+#~ "download URL be the same."
+#~ msgstr ""
+#~ "Bu örnek tekleri ve çiftleri kontroll eder, bir sayfada Indirme saymi "
+#~ "yapmak icin teklerde bu numara herzaman degisik olmalidir eger daha fazla "
+#~ "aynı yüklemeler kullanmak istediğiniz sürecde örnek numara ve indirme URL "
+#~ "ayni olmalidir."
+
+#~ msgid "You can choose the Download name as example \"My Download\"."
+#~ msgstr "\"My İndir\" örnek olarak indir adını seçebilirsiniz."
+
+#~ msgid ""
+#~ "This is generated automatically when you put the shortcode, this is the "
+#~ "date when you submitted the file available."
+#~ msgstr ""
+#~ "Bu otomatik olarak oluşturulur size Kısa kod koyduğunuzda, bu dosya "
+#~ "mevcut gönderilen tarihtir."
+
+#~ msgid ""
+#~ "This parameter can, for example, for the version or use something else."
+#~ msgstr ""
+#~ "Bu parametre, örneğin, sürümü için ya da başka bir şey kullanabilirsiniz."
+
+#~ msgid ""
+#~ "That is the shortcode. You can copy a shortcode and place on a page, post "
+#~ "or in a widget. Or use the shortcode has been integrated into your "
+#~ "editor, a click is enough and the part buttons after save visible."
+#~ msgstr ""
+#~ "Bu shortcode. Bir sayfa, yazı veya bir widget icinde kullanabilirsiniz. "
+#~ "Yada shortcode’tu editör isinde kullanabilirsiniz, bir tık yeterli ve "
+#~ "kayddan sonra parça düğmeleri görünür."
+
+#~ msgid "Please take the shortcode double click to copy"
+#~ msgstr "Kopyalamak için kısayol çift tıklayarak alınız"
+
+#~ msgid "has been optimized and improved"
+#~ msgstr "optimize edilmiş ve geliştirilmiş"
+
+#~ msgid "Important Links"
+#~ msgstr "Önemli Bağlantılar"
+
+#~ msgid "In like please give MeliBu WP Download Counter Button"
+#~ msgstr "Beyendiyseniz MeliBu WP Download Counter Button destek verin "
+
+#~ msgid "Development is fueled by your praise and feedback."
+#~ msgstr "Kalkınma için övgü ve geribildirim ile körüklenmektedir."
+
+#~ msgid "Melibu WP Download Counter Button > Settings"
+#~ msgstr "Melibu WP Download Counter Button > Ayarlar"
+
+#~ msgid "Welcome to Melibu"
+#~ msgstr "Melibuya Hoşgeldiniz"
+
+#~ msgid "A list overview with all downloaded files:"
+#~ msgstr "İndirilen tüm dosyalar içeren bir liste genel bakış:"
+
+#~ msgid "File Type"
+#~ msgstr "Dosya Tipi"
+
+#~ msgid "File Size"
+#~ msgstr "Dosya Büyüklüğü"
+
+#~ msgid "File last Access"
+#~ msgstr "Dosya son Erişim"
+
+#~ msgid "File url"
+#~ msgstr "Dosya url"
+
+#~ msgid "File name"
+#~ msgstr "Dosya adı"
+
+#~ msgid "File type"
+#~ msgstr "Dosya tipi"
+
+#~ msgid "File size"
+#~ msgstr "Dosya büyüklüğü"
+
+#~ msgid "File last access"
+#~ msgstr "Dosya ya son erişim"
+
+#~ msgid "Thank and Subscriber window"
+#~ msgstr "Teşekkürler ve Abone penceresi"
+
+#~ msgid ""
+#~ "Here you can the Downloader say thank you, give information on the "
+#~ "subscription or more."
+#~ msgstr ""
+#~ "Burada Kullanıcı veya Abonelik bilgisi verebilirsiniz yada daha fazlası."
+
+#~ msgid "Thank window Modal"
+#~ msgstr "Teşekkür Penceresi Modal"
+
+#~ msgid "Here you Thank you can say to the Downloader or more."
+#~ msgstr "Burada indiren kisiye teşekkür veya daha fazla diyebilirsiniz."
+
+#~ msgid "You can , depending on the need , the Thank window on and off."
+#~ msgstr ""
+#~ "Ihtiyacıiniza göre, teşekkür penceresiniz veya penceresiz "
+#~ "kullanabilirsiniz."
+
+#~ msgid "Turn On"
+#~ msgstr "Aç"
+
+#~ msgid "Turn Off"
+#~ msgstr "Kapat"
+
+#~ msgid "Choose with or without info label"
+#~ msgstr "Etiketli veya Etiketsiz olmadan seçin"
+
+#~ msgid "Info label On"
+#~ msgstr "Bilgi etiketini Aç"
+
+#~ msgid "Info label Off"
+#~ msgstr "Bilgi etiketini Kapat"
+
+#~ msgid "Turn on"
+#~ msgstr "Aç"
+
+#~ msgid "Turn off"
+#~ msgstr "Kapat"
+
+#~ msgid ""
+#~ "If you're wondering, have problems or suggestions, criticism please call "
+#~ "the Support."
+#~ msgstr ""
+#~ "Eğer merak ediyorsanız, problem ya da önerileriniz varsa, eleştiri "
+#~ "Desteği arayın"
+
+#~ msgid "SUPPORT"
+#~ msgstr "DESTEK"
+
+#~ msgid "file url"
+#~ msgstr "Dosya url"
+
+#~ msgid "file name"
+#~ msgstr "Dosya adı"
+
+#~ msgid "file type"
+#~ msgstr "Dosya tipi"
+
+#~ msgid "file size"
+#~ msgstr "Dosya büyüklüğü"
+
+#~ msgid "file last access"
+#~ msgstr "Dosya son erişim"
+
+#~ msgid "MeliBu Plugin -> Download Counter Button"
+#~ msgstr "MeliBu Plugin -> İndir Sayaç Düğme"
+
+#~ msgid "<strong>Button Backgroundcolor</strong>"
+#~ msgstr "<strong>Arkaplan Renk</strong>"
+
+#~ msgid "<strong>Icon Backgroundcolor</strong>"
+#~ msgstr "<strong>Simge Arka Plan Rengi</strong>"
+
+#~ msgid ""
+#~ "<small>You can delete the actually image, save without select a image.</"
+#~ "small>"
+#~ msgstr ""
+#~ "<small>Görüntü seçmeden kaydetmekle, gerçek görüntüyü silebilirsiniz.</"
+#~ "small>"
+
+#~ msgid "<strong>Label Backgroundcolor</strong>"
+#~ msgstr "<strong>Etiket Arka Plan Rengi</strong>"
+
+#~ msgid "<strong>Choose with or without info label</strong>"
+#~ msgstr "<strong>Veya bilgi etiketi olmadan seçin</strong>"
+
+#~ msgid "<strong>Choose your Layout</strong>"
+#~ msgstr "<Strong> Düzeni seçin </ strong>"
+
+#~ msgid "Colors & Image"
+#~ msgstr "Renkler ve Görüntü"
+
+#~ msgid "Here you have to set the option, the possibility."
+#~ msgstr "Burada seçeneğin ayari var."
+
+#~ msgid "Theme"
+#~ msgstr "Theme"
+
+#~ msgid "Plugin"
+#~ msgstr "Plugin"
+
+#~ msgid "Author:"
+#~ msgstr "Yazar:"
+
+#~ msgid "Marketing:"
+#~ msgstr "Pazarlama:"
+
+#~ msgid "Developer:"
+#~ msgstr "Geliştirici:"
+
+#~ msgid "MeliBu WP Download Counter Button"
+#~ msgstr "MeliBu WP Download Counter Button"
+
+#~ msgid ""
+#~ "This Plugin help Developer or other to set a Download button for a file "
+#~ "with Counter and informations."
+#~ msgstr ""
+#~ "Bu eklenti Geliştirici veya diğer Insanlara yardımı olmak için "
+#~ "Geliştirildi,  Sayıcı ve bilgiler ile bir dosya için Yükle düğmesini "
+#~ "ayarlayın."

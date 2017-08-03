@@ -1,0 +1,1322 @@
+# Translation of Development (trunk) in Punjabi
+# This file is distributed under the same license as the Development (trunk) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2016-06-10 15:50:34+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.1.0-alpha\n"
+"Project-Id-Version: Development (trunk)\n"
+
+#: html/about.php:133
+msgid "Custom button other"
+msgstr ""
+
+#: html/shortcode.php:141
+msgid "Seo"
+msgstr ""
+
+#: html/shortcode.php:143
+msgid "This parameter is the rel tag the same"
+msgstr ""
+
+#: html/welcome.php:125
+msgid "Logo"
+msgstr ""
+
+#: html/welcome.php:138
+msgid "Place your advertising or affiliate program banners"
+msgstr ""
+
+#: html/welcome.php:147
+msgid "Download after enter E-Mail-Address"
+msgstr ""
+
+#: html/welcome.php:149
+msgid "Download after enter E-Mail-Address and Name"
+msgstr ""
+
+#: html/welcome.php:152 html/welcome.php:162
+msgid "Overview"
+msgstr ""
+
+#: html/welcome.php:172
+msgid "Download after enter Captcha"
+msgstr ""
+
+#: html/welcome.php:176
+msgid "Activate a protect, which must then be entered for each download"
+msgstr ""
+
+#: html/welcome.php:177
+msgid "Activate protect"
+msgstr ""
+
+#: html/welcome.php:223
+msgid "You can add this parameter you download a password"
+msgstr ""
+
+#: html/welcome.php:243
+msgid "This parameter is the rel tag the same, you can see any information for rel tag by the"
+msgstr ""
+
+#: tpl/modal.php:107
+msgid "Enter your Password"
+msgstr ""
+
+#: classes/class.MelibuDownloaderHandler.php:269
+msgid "No file found: Please select a file"
+msgstr ""
+
+#: classes/class.MelibuDownloaderHandler.php:280
+msgid "The file does not exist or could not be found"
+msgstr ""
+
+#: classes/class.MelibuValidate.php:117
+msgid "Please enter the password"
+msgstr ""
+
+#: classes/class.MelibuValidate.php:120
+msgid "Please enter the correct password"
+msgstr ""
+
+#: classes/pager/class.Downloads.php:279 html/welcome.php:175
+msgid "Full file protection"
+msgstr ""
+
+#: classes/pager/class.Downloads.php:281
+msgid "is active"
+msgstr ""
+
+#: classes/pager/class.Downloads.php:282
+msgid "This file can not be accessed in the browser"
+msgstr ""
+
+#: classes/pager/class.Subscriber.php:211
+msgid "Edit Mail to defaults"
+msgstr ""
+
+#: classes/pager/class.Subscriber.php:212
+msgid "Close Mail to defaults"
+msgstr ""
+
+#: classes/pager/class.Subscriber.php:234
+msgid "You can make email standard settings here, that means if you click in the list on an e-mail address below, your e-mail program on the computer called. The sender is automatically populated with the email address to which you have just clicked and these standard settings have typing."
+msgstr ""
+
+#: html/about.php:111
+msgid "Full File Protection"
+msgstr ""
+
+#: html/about.php:112
+msgid "Protect the download with Password"
+msgstr ""
+
+#: html/about.php:113
+msgid "Place your ads in the window"
+msgstr ""
+
+#: html/about.php:116
+msgid "Overview sort"
+msgstr ""
+
+#: html/about.php:118
+msgid "Subscriber list with mailto function"
+msgstr ""
+
+#: html/about.php:119
+msgid "SEO relevant rel tag"
+msgstr ""
+
+#: html/about.php:129
+msgid "Custom button layout"
+msgstr ""
+
+#: html/about.php:130
+msgid "Custom button name"
+msgstr ""
+
+#: html/about.php:131
+msgid "Custom button label name"
+msgstr ""
+
+#: html/about.php:132
+msgid "Custom button datetime"
+msgstr ""
+
+#: html/about.php:137
+msgid "Custom label color"
+msgstr ""
+
+#: html/about.php:144
+msgid "Activate/Deactivate full file protection"
+msgstr ""
+
+#: html/download/modal_ads_form.php:11 html/welcome.php:137
+msgid "ADS"
+msgstr ""
+
+#: html/download/modal_ads_form.php:12
+msgid "For Publishers: ADS / Socials or other code"
+msgstr ""
+
+#: html/settings.php:160
+msgid "Protection"
+msgstr ""
+
+#: html/settings.php:162
+msgid "If you really want to protect a file so that no one can download it with other agents, you have to enable this function. When you do this will no longer be accessible to the entire web space / server this file and can be downloaded only with the WP MeliBu Download Counter button."
+msgstr ""
+
+#: html/shortcode.php:72
+msgid "Password"
+msgstr ""
+
+#: classes/pager/class.Subscriber.php:233
+msgid "E-Mail default settings"
+msgstr ""
+
+#: classes/pager/class.Subscriber.php:220
+msgid "Subject"
+msgstr ""
+
+#: classes/pager/class.Subscriber.php:223
+msgid "Body"
+msgstr ""
+
+#: classes/pager/class.Subscriber.php:297
+msgid "Mail to"
+msgstr ""
+
+#: html/welcome.php:263
+msgid "You can set for the short code standard settings"
+msgstr ""
+
+#: html/welcome.php:264
+msgid "Set it now"
+msgstr ""
+
+#: html/welcome.php:136
+msgid "Give your form an appropriate title and description"
+msgstr ""
+
+#: html/welcome.php:139 html/welcome.php:179
+msgid "Set it"
+msgstr ""
+
+#: html/welcome.php:148
+msgid "Activate, Subscribe ask the function to the user when download the settings to enter your email address"
+msgstr ""
+
+#: html/welcome.php:150
+msgid "In addition, to require you to enter the name you select this under the settings"
+msgstr ""
+
+#: html/welcome.php:151
+msgid "Activate Subscribes"
+msgstr ""
+
+#: html/welcome.php:153
+msgid "You get all subscribes in one list and may be consulted at any time"
+msgstr ""
+
+#: html/welcome.php:154
+msgid "Check Subscriber list"
+msgstr ""
+
+#: html/welcome.php:163
+msgid "You get all downloads in one list and may be consulted at any time"
+msgstr ""
+
+#: html/welcome.php:164
+msgid "Check download list"
+msgstr ""
+
+#: html/download/modal_ads_form.php:25
+msgid "For example"
+msgstr ""
+
+#: html/welcome.php:173
+msgid "Activate a Captcha, which must then be entered for each download"
+msgstr ""
+
+#: html/welcome.php:174
+msgid "Activate captcha"
+msgstr ""
+
+#: html/welcome.php:178
+msgid "You can make and optimize with many various settings"
+msgstr ""
+
+#: html/welcome.php:187
+msgid "Use the short code in your WP Editor for set your downloads or copy, paste and set manually"
+msgstr ""
+
+#: html/welcome.php:190
+msgid "OLD"
+msgstr ""
+
+#: html/welcome.php:200
+msgid "NEW"
+msgstr ""
+
+#: html/welcome.php:215
+msgid "Without this shortcode does not download the old version should be replaced if possible by the latest. Both versions work but could be a fault occur when another plugin also the name download has a shortcode"
+msgstr ""
+
+#: html/welcome.php:231
+msgid "You can choose the Download label name as example \"My Download Label\""
+msgstr ""
+
+#: classes/class.MelibuBackend.php:167 html/welcome.php:70
+msgid "Subscribes"
+msgstr ""
+
+#: classes/class.MelibuBackend.php:203
+msgid "Shortcode"
+msgstr ""
+
+#: classes/class.MelibuBackend.php:263 classes/class.MelibuFrontend.php:112
+msgid "Insert MB Download short code"
+msgstr ""
+
+#: classes/class.MelibuBackend.php:264 classes/class.MelibuFrontend.php:113
+msgid "Get File URL"
+msgstr ""
+
+#: classes/class.MelibuDownloaderHandler.php:283
+msgid "No URL found: "
+msgstr ""
+
+#: classes/class.MelibuFrontend.php:356 classes/class.MelibuWidget.php:208
+#: classes/class.MelibuWidget.php:262 html/dummy/dummy.php:57 tpl/modal.php:146
+msgid "Powerd by"
+msgstr ""
+
+#: classes/class.MelibuWidget.php:192
+msgid "Can't open file informations"
+msgstr ""
+
+#: classes/pager/class.Downloads.php:221
+msgid "Instance"
+msgstr ""
+
+#: classes/pager/class.Downloads.php:372 classes/pager/class.Subscriber.php:384
+msgid "Entry successfully removed"
+msgstr ""
+
+#: classes/pager/class.Subscriber.php:171
+msgid "Total"
+msgstr ""
+
+#: html/about.php:82
+msgid "and"
+msgstr ""
+
+#: html/about.php:122
+msgid "Supports http:// and https:// protocol"
+msgstr ""
+
+#: html/about.php:136
+msgid "Custom dashed pattern"
+msgstr ""
+
+#: html/about.php:155
+msgid "Short code default settings"
+msgstr ""
+
+#: html/download/button_color_form.php:47
+#: html/download/button_icon_color_form.php:49
+msgid "Dark Blue"
+msgstr ""
+
+#: html/download/layout_form.php:21 html/welcome.php:116
+msgid "Normal"
+msgstr ""
+
+#: html/download/layout_form.php:25 html/welcome.php:117
+msgid "User"
+msgstr ""
+
+#: html/download/layout_form.php:33 html/download/layout_form.php:37
+#: html/download/layout_form.php:41 html/welcome.php:119 html/welcome.php:120
+#: html/welcome.php:121
+msgid "Organization"
+msgstr ""
+
+#: html/download/layout_form.php:51
+msgid "Dashed"
+msgstr ""
+
+#: html/modal.php:113
+msgid "Get more statistics, with the Melibu WP hits. Learn how many clicks you on what download button get, in several graphic banner with detailed information. It supports various plugins Melibu. And very much more..."
+msgstr ""
+
+#: html/download.php:141
+msgid "Our feedback Generate's position all possible forms to create in seconds. Thanks to the sophisticated Melibus Drag N Drop system with live preview you can also see immediately what you are doing. And much more..."
+msgstr ""
+
+#: html/modal.php:66 html/modal.php:78 html/settings.php:63
+#: html/settings.php:100 html/settings.php:138 html/settings.php:156
+#: html/settings.php:174 html/shortcode.php:68
+msgid "Example"
+msgstr ""
+
+#: html/shortcode.php:48 html/shortcode.php:52 html/welcome.php:88
+#: html/welcome.php:186
+msgid "Short code"
+msgstr ""
+
+#: html/shortcode.php:53
+msgid "Set the short code defaults here"
+msgstr ""
+
+#: html/shortcode.php:86
+msgid "Button name"
+msgstr ""
+
+#: html/shortcode.php:73 html/shortcode.php:87 html/shortcode.php:142
+#: html/welcome.php:222 html/welcome.php:226 html/welcome.php:242
+msgid "new"
+msgstr ""
+
+#: html/shortcode.php:100
+msgid "Label name"
+msgstr ""
+
+#: html/shortcode.php:114
+msgid "Datetime"
+msgstr ""
+
+#: html/shortcode.php:115
+msgid "The short code works with the date specified time that you can adjust at any time or have customized in your WP setting"
+msgstr ""
+
+#: html/shortcode.php:119
+msgid "Currently set"
+msgstr ""
+
+#: html/shortcode.php:121
+msgid "WP Dateime settings"
+msgstr ""
+
+#: html/shortcode.php:127
+msgid "Other"
+msgstr ""
+
+#: html/welcome.php:52
+msgid "Start"
+msgstr ""
+
+#: html/welcome.php:103
+msgid "To use Melibu WP Donwload Counter Button properly"
+msgstr ""
+
+#: html/welcome.php:104
+msgid "Thank you that you use MeliBu WP Donwload Counter Button"
+msgstr ""
+
+#: html/welcome.php:112
+msgid "Let's start now with the button"
+msgstr ""
+
+#: html/welcome.php:114
+msgid "First you have the opportunity to select a predefined template, in the free version are these"
+msgstr ""
+
+#: html/welcome.php:124
+msgid "After the selection of a template you can now change the colors"
+msgstr ""
+
+#: html/welcome.php:126
+msgid "Upload your logo to the downloads"
+msgstr ""
+
+#: html/welcome.php:126
+msgid "your logo with every download the label Show"
+msgstr ""
+
+#: html/welcome.php:127
+msgid "Select your download button"
+msgstr ""
+
+#: html/download.php:144 html/modal.php:116
+msgid "Coming soon"
+msgstr ""
+
+#: html/settings.php:87
+msgid "Support us"
+msgstr ""
+
+#: html/settings.php:88
+msgid "Here you can show/hide"
+msgstr ""
+
+#: html/settings.php:89
+msgid "Please activate this to help us, for share this plugin"
+msgstr ""
+
+#: html/welcome.php:277
+msgid "Use Short code in WP Editor"
+msgstr ""
+
+#: html/welcome.php:278
+msgid "Take your part to put the buttons shortcode in WP editor Melibu"
+msgstr ""
+
+#: html/welcome.php:284
+msgid "Use Top 5 Widget"
+msgstr ""
+
+#: html/welcome.php:285
+msgid "Use the Top 5 widget to your Top Downloads close attention"
+msgstr ""
+
+#: classes/class.MelibuFrontend.php:343
+msgid "Check if File deleted!"
+msgstr ""
+
+#: classes/class.MelibuFrontend.php:344
+msgid "Selected Check whether file!"
+msgstr ""
+
+#: classes/class.MelibuFrontend.php:345
+msgid "Changed Check whether filename or path!"
+msgstr ""
+
+#: classes/class.MelibuFrontend.php:346
+msgid "Choose the file again, or enter the path manually!"
+msgstr ""
+
+#: classes/class.MelibuFrontend.php:347
+msgid "Refresh the page!"
+msgstr ""
+
+#: classes/class.MelibuValidate.php:79
+msgid "Please enter your Name"
+msgstr ""
+
+#: classes/class.MelibuValidate.php:82
+msgid "Please enter at least 3 Characters"
+msgstr ""
+
+#: classes/class.MelibuValidate.php:95
+msgid "Please enter your E-Mail-Address"
+msgstr ""
+
+#: classes/class.MelibuValidate.php:98 classes/class.MelibuValidate.php:101
+msgid "Please enter a valid E-Mail-Address"
+msgstr ""
+
+#: classes/class.MelibuValidate.php:104
+msgid "Please enter an E-Mail-Address that exists in world wide web"
+msgstr ""
+
+#: classes/class.MelibuValidate.php:133
+msgid "Please enter the captcha"
+msgstr ""
+
+#: classes/class.MelibuValidate.php:136
+msgid "Please enter the correct captcha"
+msgstr ""
+
+#: classes/class.MelibuWidget.php:40
+msgid "A MeliBu WordPress Widget by Professionals Developers."
+msgstr ""
+
+#: classes/pager/class.Subscriber.php:267
+msgid "Subscriber"
+msgstr ""
+
+#: classes/pager/class.Subscriber.php:291
+msgid "No Name"
+msgstr ""
+
+#: classes/pager/class.Subscriber.php:293
+msgid "Turn name Mandatory when download to, in the settings."
+msgstr ""
+
+#: html/about.php:82
+msgid "More Professional"
+msgstr ""
+
+#: html/about.php:107
+msgid "All downloads can be provided with a captcha"
+msgstr ""
+
+#: html/about.php:108
+msgid "All downloads can be provided with a subscription"
+msgstr ""
+
+#: html/about.php:109
+msgid "Subscription with name"
+msgstr ""
+
+#: html/about.php:110
+msgid "Top 5 Widget"
+msgstr "ਸਰਵੋਤਮ 5 ਵਿਜਟ"
+
+#: html/about.php:152
+msgid "Extras"
+msgstr ""
+
+#: html/download/subscribe.php:29
+msgid "Turn with Name"
+msgstr ""
+
+#: html/abo-lister.php:22 html/down-lister.php:19 html/download.php:40
+#: html/modal.php:35 html/settings.php:31 html/shortcode.php:27
+#: html/welcome.php:24
+msgid "Professional Themes and Plugins for WordPress"
+msgstr ""
+
+#: html/settings.php:196
+msgid "Help us to improve the plugin"
+msgstr ""
+
+#: html/settings.php:198
+msgid "Enable error notification report"
+msgstr ""
+
+#: tpl/modal.php:89
+msgid "Enter your Name"
+msgstr "ਆਪਣਾ ਨਾਂ ਭਰੋ"
+
+#: tpl/modal.php:95
+msgid "Enter your E-Mail"
+msgstr ""
+
+#: tpl/modal.php:136
+msgid "Enter Code"
+msgstr "ਕੋਡ ਭਰੋ"
+
+#: html/about.php:168
+msgid "In like please give"
+msgstr ""
+
+#: html/about.php:200
+msgid "Development "
+msgstr "ਵਿਕਾਸ"
+
+#: html/about.php:209
+msgid "Founder and Project Manager"
+msgstr ""
+
+#: html/about.php:215
+msgid "Contributors"
+msgstr "ਯੋਗਦਾਨੀ"
+
+#: html/about.php:220
+msgid "Economic Computer Science"
+msgstr ""
+
+#: html/about.php:114
+msgid "Simple select file from Media library or upload new"
+msgstr ""
+
+#: html/about.php:115
+msgid "Are statistics of downloaded files"
+msgstr ""
+
+#: html/about.php:117
+msgid "Are Subscriber list"
+msgstr ""
+
+#: html/about.php:120
+msgid "Any document/file type, open the right window"
+msgstr ""
+
+#: html/about.php:121
+msgid "Counts without JavaScript (AJAX)"
+msgstr ""
+
+#: html/about.php:128
+msgid "Shortcode to select from the media library a file"
+msgstr ""
+
+#: html/about.php:138
+msgid "Custom info box image upload"
+msgstr ""
+
+#: html/about.php:139
+msgid "Custom thanks, subscriber and captcha Title & Description"
+msgstr ""
+
+#: html/about.php:141
+msgid "Show/Hide additional count"
+msgstr ""
+
+#: html/about.php:142
+msgid "Activate/Deactivate additional subscription"
+msgstr ""
+
+#: html/about.php:143
+msgid "Activate/Deactivate additional captcha"
+msgstr ""
+
+#: html/about.php:147
+msgid "Refresh on downloads overview"
+msgstr ""
+
+#: html/about.php:148
+msgid "Refresh on subscriber overview"
+msgstr ""
+
+#: html/about.php:154 html/about.php:155
+msgid "Idea of"
+msgstr ""
+
+#: html/about.php:245
+msgid "Translate"
+msgstr "ਅਨੁਵਾਦ ਕਰੋ"
+
+#: html/settings.php:144
+msgid "Here you can display and hide the information to download"
+msgstr ""
+
+#: classes/class.MelibuBackend.php:227
+msgid "About"
+msgstr "ਇਸ ਬਾਰੇ"
+
+#: html/about.php:22
+msgid "Welcome to"
+msgstr ""
+
+#: html/about.php:36
+msgid "Welcome"
+msgstr ""
+
+#: html/about.php:42 html/about.php:93
+msgid "Functions"
+msgstr ""
+
+#: html/about.php:48 html/about.php:164
+msgid "Support"
+msgstr "ਸਹਿਯੋਗ"
+
+#: html/about.php:54
+msgid "Development"
+msgstr "ਵਿਕਾਸ"
+
+#: html/about.php:60
+msgid "Translation"
+msgstr "ਅਨੁਵਾਦ"
+
+#: html/about.php:104
+msgid "Multiple placeble (duplicates and singles)"
+msgstr ""
+
+#: html/about.php:105
+msgid "Works in any post, page and text widget (Sidebars)"
+msgstr ""
+
+#: html/about.php:106
+msgid "Can useable any File-Types (PDF, ZIP, MP3, MPEG...)"
+msgstr ""
+
+#: classes/class.MelibuWidget.php:202 classes/class.MelibuWidget.php:300
+msgid "At the moment no top downloads available"
+msgstr ""
+
+#: classes/class.MelibuWidget.php:250
+msgid "Select:"
+msgstr "ਚੁਣੋ:"
+
+#: classes/class.MelibuWidget.php:253
+msgid "Without Top 5"
+msgstr ""
+
+#: classes/class.MelibuWidget.php:267
+msgid "Click to Edit and Double Click to copy."
+msgstr ""
+
+#: classes/class.MelibuWidget.php:277
+msgid "Text & Short Code"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "This plugin was developed to him to be serve your <strong>DOWNLOADS</strong>. We hope that it would be purposeful fulfilled and fun turn have so offer your downloads. On a successful download. Rate this plugin <a href=\"https://wordpress.org/support/view/plugin-reviews/download-counter-button\">MeliBu WP Download Counter Button</a> we welcome any support. Your Melibu Team"
+msgstr ""
+
+#: html/welcome.php:235
+msgid "This is generated automatically when you put the short code, this is the date when you submitted the file available or what you want"
+msgstr ""
+
+#: html/welcome.php:239
+msgid "This parameter can, for example, for the version or use something else"
+msgstr ""
+
+#: html/welcome.php:250
+msgid "That is the short code. You can copy a short code and place on a page, post or in a widget. Or use the short code has been integrated into your editor, a click is enough and the part buttons after save visible"
+msgstr ""
+
+#: html/welcome.php:259
+msgid "Please take the short code double click to copy"
+msgstr ""
+
+#: html/about.php:98
+msgid "Functionality"
+msgstr ""
+
+#: html/about.php:100
+msgid "Counts your downloads/clicks"
+msgstr ""
+
+#: html/about.php:101
+msgid "Returns the current number of downloads/clicks"
+msgstr ""
+
+#: html/about.php:102
+msgid "No page refresh required (JS)"
+msgstr ""
+
+#: html/about.php:103
+msgid "Prevents double count"
+msgstr ""
+
+#: html/about.php:134
+msgid "Custom button color"
+msgstr ""
+
+#: html/about.php:135
+msgid "Custom button icon color"
+msgstr ""
+
+#: html/about.php:140
+msgid "Show/Hide additional info box"
+msgstr ""
+
+#: html/about.php:145
+msgid "Custom thanks Title & Description"
+msgstr ""
+
+#: html/about.php:146
+msgid "Show/Hide additional FontAwesome CSS"
+msgstr ""
+
+#: html/about.php:154
+msgid "Hide Counts for User"
+msgstr ""
+
+#: html/about.php:171
+msgid "WordPress Rate"
+msgstr ""
+
+#: html/about.php:182
+msgid "Feel free and post your question, suggestion, idea or criticism. We love it!"
+msgstr ""
+
+#: html/about.php:184
+msgid "For Plugin English Support"
+msgstr ""
+
+#: html/about.php:185
+msgid "Support EN"
+msgstr ""
+
+#: html/about.php:187
+msgid "For Plugin German Support"
+msgstr ""
+
+#: html/about.php:188
+msgid "Support DE"
+msgstr ""
+
+#: html/about.php:190
+msgid "For Plugin Turkey Support"
+msgstr ""
+
+#: html/about.php:191
+msgid "Support TR"
+msgstr ""
+
+#: html/about.php:242
+msgid "Thanks all Translaters"
+msgstr ""
+
+#: html/about.php:245
+msgid "Translate this Plugin"
+msgstr ""
+
+#: html/about.php:333
+msgid "LOOK FOR SPONSOR !!!"
+msgstr ""
+
+#: html/about.php:204
+msgid "Author"
+msgstr "ਲੇਖਕ"
+
+#: html/about.php:231 html/download/layout_form.php:29 html/welcome.php:118
+msgid "Developer"
+msgstr "ਵਿਕਾਸਕਾਰ"
+
+#: html/about.php:316
+msgid "Development is fueled by your praise and feedback"
+msgstr ""
+
+#: html/about.php:320
+msgid "In how you can support us so that we can further develop this plugin regularly, it may not always be financially, so you will give us feedback or recommend us, please give us a review, Liken our Facebook page or sponsor us, so that we further useful free plugins can develop."
+msgstr ""
+
+#: html/about.php:323
+msgid "You see, it is much more possible if you want to support something, thanks to all the Support Us."
+msgstr ""
+
+#: html/about.php:66 html/about.php:314
+msgid "Donate"
+msgstr "ਦਾਨ ਕਰੋ"
+
+#: html/about.php:329
+msgid "Now simply, quickly and safely pay online - with PayPal."
+msgstr ""
+
+#: classes/pager/class.Downloads.php:105 classes/pager/class.Subscriber.php:111
+msgid "First"
+msgstr "ਪਹਿਲਾ"
+
+#: classes/pager/class.Downloads.php:114 classes/pager/class.Subscriber.php:121
+msgid "Back"
+msgstr ""
+
+#: classes/pager/class.Downloads.php:141 classes/pager/class.Subscriber.php:150
+msgid "Go"
+msgstr ""
+
+#: classes/pager/class.Downloads.php:150 classes/pager/class.Subscriber.php:159
+msgid "Last"
+msgstr ""
+
+#: classes/pager/class.Downloads.php:160
+msgid "Download Files"
+msgstr ""
+
+#: classes/pager/class.Downloads.php:161
+msgid "Total Downloads"
+msgstr ""
+
+#: classes/pager/class.Downloads.php:179
+msgid "You have no downloads."
+msgstr ""
+
+#: classes/pager/class.Downloads.php:170 classes/pager/class.Subscriber.php:181
+msgid "Refresh"
+msgstr ""
+
+#: classes/pager/class.Downloads.php:211 classes/pager/class.Subscriber.php:253
+msgid "Show per page"
+msgstr ""
+
+#: classes/pager/class.Downloads.php:227 classes/pager/class.Subscriber.php:273
+msgid "Name"
+msgstr "ਨਾਂ"
+
+#: classes/pager/class.Downloads.php:230
+msgid "URL"
+msgstr "URL"
+
+#: classes/pager/class.Downloads.php:233
+msgid "Type"
+msgstr "ਕਿਸਮ"
+
+#: classes/pager/class.Downloads.php:236
+msgid "Size"
+msgstr "ਆਕਾਰ"
+
+#: classes/class.MelibuBackend.php:179 classes/pager/class.Downloads.php:243
+#: html/welcome.php:76 html/welcome.php:161
+msgid "Downloads"
+msgstr ""
+
+#: classes/pager/class.Downloads.php:252
+msgid "Last Download"
+msgstr "ਆਖਰੀ ਡਾਊਨਲੋਡ"
+
+#: classes/pager/class.Downloads.php:257 classes/pager/class.Subscriber.php:283
+msgid "Edit"
+msgstr "ਸੋਧੋ"
+
+#: classes/pager/class.Downloads.php:352 classes/pager/class.Subscriber.php:364
+msgid "Page"
+msgstr ""
+
+#: classes/pager/class.Downloads.php:352 classes/pager/class.Subscriber.php:364
+msgid "from"
+msgstr ""
+
+#: classes/pager/class.Subscriber.php:190
+msgid "You have no Subscribers."
+msgstr ""
+
+#: classes/pager/class.Subscriber.php:271
+msgid "E-Mail"
+msgstr ""
+
+#: classes/pager/class.Subscriber.php:272
+msgid "Url"
+msgstr "Url"
+
+#: classes/pager/class.Subscriber.php:279
+msgid "Subscribed on"
+msgstr ""
+
+#: classes/class.MelibuBackend.php:155 download-counter-button.php:87
+#: html/about.php:126
+msgid "Options"
+msgstr ""
+
+#: tpl/modal.php:36
+msgid "Download"
+msgstr "ਡਾਊਨਲੋਡ"
+
+#: tpl/modal.php:45
+msgid "Thank you for your download, we hope you are satisfied with our software."
+msgstr ""
+
+#: tpl/modal.php:165 tpl/modal.php:167 tpl/modal.php:171 tpl/modal.php:173
+msgid "Click here to download"
+msgstr ""
+
+#: tpl/modal.php:160
+msgid "Cancel"
+msgstr "ਰੱਦ ਕਰੋ"
+
+#: html/download/button_color_form.php:15
+msgid "Button Backgroundcolor"
+msgstr ""
+
+#: html/download/button_color_form.php:20
+#: html/download/button_icon_color_form.php:21
+msgid "Red"
+msgstr ""
+
+#: html/download/button_color_form.php:23
+#: html/download/button_icon_color_form.php:24
+msgid "Red Flat"
+msgstr ""
+
+#: html/download/button_color_form.php:26
+#: html/download/button_icon_color_form.php:27
+msgid "Orange"
+msgstr ""
+
+#: html/download/button_color_form.php:29
+#: html/download/button_icon_color_form.php:30
+msgid "Orange Flat"
+msgstr ""
+
+#: html/download/button_color_form.php:32
+#: html/download/button_icon_color_form.php:34
+msgid "Yellow"
+msgstr "ਪੀਲਾ"
+
+#: html/download/button_color_form.php:35
+#: html/download/button_icon_color_form.php:37
+msgid "Yellow Flat"
+msgstr ""
+
+#: html/download/button_color_form.php:38
+#: html/download/button_icon_color_form.php:40
+msgid "Green"
+msgstr "ਹਰਾ"
+
+#: html/download/button_color_form.php:41
+#: html/download/button_icon_color_form.php:43
+msgid "Green Flat"
+msgstr ""
+
+#: html/download/button_color_form.php:44
+#: html/download/button_icon_color_form.php:46
+msgid "Blue"
+msgstr "ਨੀਲਾ"
+
+#: html/download/button_color_form.php:50
+#: html/download/button_icon_color_form.php:52
+msgid "Blue Flat"
+msgstr ""
+
+#: html/download/button_color_form.php:53
+#: html/download/button_icon_color_form.php:55
+msgid "Purple"
+msgstr ""
+
+#: html/download/button_color_form.php:56
+#: html/download/button_icon_color_form.php:58
+msgid "Purple Flat"
+msgstr ""
+
+#: html/download/button_color_form.php:59
+#: html/download/button_icon_color_form.php:61
+msgid "Black"
+msgstr "ਕਾਲਾ"
+
+#: html/download/button_color_form.php:62
+#: html/download/button_icon_color_form.php:64
+msgid "Black Flat"
+msgstr ""
+
+#: html/download/button_color_form.php:65
+#: html/download/button_icon_color_form.php:67
+msgid "Grey"
+msgstr "ਗਰੇ"
+
+#: html/download/button_color_form.php:68
+#: html/download/button_icon_color_form.php:70
+msgid "Grey Flat"
+msgstr ""
+
+#: classes/pager/class.Subscriber.php:227
+#: html/download/button_color_form.php:72
+#: html/download/button_icon_color_form.php:74
+#: html/download/button_logo_form.php:29 html/download/captcha.php:25
+#: html/download/copy_option_form.php:26 html/download/errors.php:29
+#: html/download/fontawesome.php:43 html/download/hidecount.php:25
+#: html/download/label_color_form.php:39 html/download/label_option_form.php:25
+#: html/download/layout_form.php:54 html/download/modal_option_form.php:25
+#: html/download/protect.php:25 html/download/subscribe.php:34
+#: html/download/topfive.php:25 html/modal.php:89 html/shortcode.php:157
+msgid "Save"
+msgstr "ਸਾਂਭੋ"
+
+#: html/download/button_icon_color_form.php:15
+msgid "Icon Backgroundcolor"
+msgstr ""
+
+#: html/download/button_logo_form.php:21
+msgid "You can set here a image for your download button."
+msgstr ""
+
+#: html/download/button_logo_form.php:26
+msgid "You can delete the actually image, save without select a image."
+msgstr ""
+
+#: html/download/captcha.php:20 html/download/copy_option_form.php:22
+#: html/download/errors.php:25 html/download/hidecount.php:20
+#: html/download/label_option_form.php:20
+#: html/download/modal_option_form.php:20 html/download/protect.php:20
+#: html/download/subscribe.php:20 html/download/topfive.php:20
+msgid "Turn"
+msgstr "ਮੁੜੋ"
+
+#: html/download/fontawesome.php:29
+msgid "Turn Backend"
+msgstr ""
+
+#: html/download/fontawesome.php:38
+msgid "Turn Frontend"
+msgstr ""
+
+#: html/download/label_color_form.php:15
+msgid "Label Backgroundcolor"
+msgstr ""
+
+#: html/download/label_color_form.php:20
+msgid "Light"
+msgstr "ਪ੍ਰਕਾਸ਼"
+
+#: html/download/label_color_form.php:23
+msgid "Light Flat"
+msgstr ""
+
+#: html/download/label_color_form.php:26
+msgid "Dark"
+msgstr ""
+
+#: html/download/label_color_form.php:29
+msgid "Dark Flat"
+msgstr ""
+
+#: html/download/label_color_form.php:32
+msgid "White"
+msgstr "ਚਿੱਟਾ"
+
+#: html/download/label_color_form.php:35
+msgid "White Flat"
+msgstr ""
+
+#: html/download/layout_form.php:15
+msgid "Choose your Layout"
+msgstr ""
+
+#: classes/class.MelibuWidget.php:244 html/download/modal_text_form.php:14
+msgid "Title"
+msgstr "ਸਿਰਲੇਖ"
+
+#: html/download/modal_text_form.php:21 html/download.php:71 html/modal.php:65
+#: html/modal.php:77 html/settings.php:61 html/settings.php:98
+#: html/settings.php:136 html/settings.php:154 html/settings.php:172
+#: html/settings.php:191 html/shortcode.php:66
+msgid "Description"
+msgstr ""
+
+#: html/abo-lister.php:32 html/download.php:50 html/modal.php:43
+#: html/settings.php:41 html/shortcode.php:35
+msgid "Settings saved!"
+msgstr ""
+
+#: classes/pager/class.Subscriber.php:172 html/welcome.php:146
+msgid "Subscribers"
+msgstr ""
+
+#: classes/class.MelibuBackend.php:191 html/settings.php:54 html/welcome.php:82
+#: html/welcome.php:171
+msgid "Settings"
+msgstr ""
+
+#: classes/pager/class.Downloads.php:224 html/download.php:76
+msgid "Preview"
+msgstr ""
+
+#: html/download.php:77
+msgid "Here you have a preview non active, you can click it."
+msgstr ""
+
+#: html/download.php:85
+msgid "Image & Layout"
+msgstr ""
+
+#: html/download.php:87
+msgid "Here you can set the image and the layout."
+msgstr ""
+
+#: html/download.php:104
+msgid "Here you have to set the colors."
+msgstr ""
+
+#: html/download/modal_text_form.php:11 html/welcome.php:135
+msgid "Thank, Subscribe and Captcha window"
+msgstr ""
+
+#: html/download/modal_text_form.php:12
+msgid "Here you can the Downloader say thank you, give information on the subscription, captcha or more."
+msgstr ""
+
+#: html/settings.php:69
+msgid "Here you have to set the possibility."
+msgstr ""
+
+#: html/settings.php:178
+msgid "FontAwesome"
+msgstr ""
+
+#: html/settings.php:180
+msgid "You can according to your needs the FontAwesome CSS on and off."
+msgstr ""
+
+#: classes/pager/class.Subscriber.php:225 html/settings.php:182
+#: html/shortcode.php:143
+msgid "More information about"
+msgstr ""
+
+#: html/settings.php:77
+msgid "Hide Count"
+msgstr ""
+
+#: html/settings.php:79
+msgid "Here you can show/hide count for Users. (Only Admin see the counts)"
+msgstr ""
+
+#: html/settings.php:104
+msgid "Thank window"
+msgstr ""
+
+#: html/settings.php:106
+msgid "You can, depending on the need, the Thank window on and off."
+msgstr ""
+
+#: html/settings.php:114
+msgid "Subscription"
+msgstr ""
+
+#: html/settings.php:116
+msgid "You can activate the subscription feature. Turn this feature on, the user must enter the file downloading an e-mail address."
+msgstr ""
+
+#: html/settings.php:124
+msgid "Captcha"
+msgstr ""
+
+#: html/settings.php:126
+msgid "Click here for Malibu Captcha depending on needs on and off"
+msgstr ""
+
+#: html/download.php:128 html/modal.php:100
+msgid "Thank you for your confidence in"
+msgstr ""
+
+#: html/welcome.php:40
+msgid "This documentation should help you."
+msgstr ""
+
+#: html/welcome.php:219
+msgid "The instance that is controlled single and duplicates each download you must offer individually possess another instance, unless you want to use on a page more identical downloads, then you have the instance and the download URL be the same"
+msgstr ""
+
+#: html/welcome.php:227
+msgid "You can choose the Download button name as example \"My Download\""
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "MeliBu WP Download Counter Button"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "http://samet-tarim.de/wordpress/melibu-plugins/download-counter-button"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Samet Tarim"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://samet-tarim.de/"
+msgstr "http://samet-tarim.de/"
+
+#: html/about.php:225
+msgid "Marketing"
+msgstr "ਬਜ਼ਾਰੀਕਰਨ"
+
+#: html/welcome.php:113
+msgid "Layout"
+msgstr "ਲੇਆਊਟ"
+
+#: html/about.php:82
+msgid "Plugins"
+msgstr "ਪਲੱਗਇੱਨਾਂ"
+
+#: html/about.php:336
+msgid "Your Melibu Team"
+msgstr "ਤੁਹਾਡੀ ਮੇਲੀਬੂ ਟੀਮ"
+
+#: html/about.php:82
+msgid "Themes"
+msgstr ""
+
+#: classes/class.MelibuBackend.php:215 html/modal.php:57 html/welcome.php:64
+#: html/welcome.php:134
+msgid "Modal"
+msgstr ""
+
+#: html/about.php:26 html/download.php:131 html/modal.php:103
+#: html/welcome.php:30
+msgid "Version"
+msgstr "ਸੰਸਕਰਣ"
+
+#: html/settings.php:67
+msgid "Label"
+msgstr "ਲੇਬਲ"
+
+#: html/download.php:64 html/welcome.php:58
+msgid "Design"
+msgstr ""
+
+#: html/download.php:72 html/settings.php:62 html/settings.php:99
+#: html/settings.php:137 html/settings.php:155 html/settings.php:173
+#: html/settings.php:192 html/shortcode.php:67
+msgid "Basic"
+msgstr ""
+
+#: html/download.php:102 html/welcome.php:123
+msgid "Colors"
+msgstr "ਰੰਗ"

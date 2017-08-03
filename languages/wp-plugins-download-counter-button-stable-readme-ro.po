@@ -1,0 +1,668 @@
+# Translation of Stable Readme (latest release) in Romanian
+# This file is distributed under the same license as the Stable Readme (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2016-03-03 05:53:50+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : (n==0 || (n%100 > 0 && n%100 < 20)) ? 1 : 2);\n"
+"X-Generator: GlotPress/2.1.0-alpha\n"
+"Project-Id-Version: Stable Readme (latest release)\n"
+
+#. Short description.
+msgid "Counting your downloads the simple way"
+msgstr ""
+
+#. Name.
+msgid "MeliBu WP Download Counter Button"
+msgstr ""
+
+#. Found in description paragraph.
+msgid "Team Melibu"
+msgstr ""
+
+#. Found in description paragraph.
+msgid "<strong>At the moment on</strong>"
+msgstr ""
+
+#. Found in installation list item.
+msgid "Go to Plugins &gt; Add New &gt; Upload Plugin"
+msgstr ""
+
+#. Found in installation list item.
+msgid "Upload the Melibu WP Download Counter Button zip file"
+msgstr ""
+
+#. Found in installation list item.
+msgid "Use your FTP clienten to the counter upload"
+msgstr ""
+
+#. Found in installation paragraph.
+msgid "<strong>Automatically (WP Admin Backend) Plugin Directory</strong>"
+msgstr ""
+
+#. Found in installation paragraph.
+msgid "or by uploading the files manually to Plugin Directory:"
+msgstr ""
+
+#. Found in installation paragraph.
+msgid "<strong>Manually (FTP)</strong>"
+msgstr ""
+
+#. Found in faq header.
+msgid "Can I add a custom download icon image?"
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "Yes, you can select a image to upload a download icon on your download or your logo."
+msgstr ""
+
+#. Found in description paragraph.
+msgid "<strong>TESTED</strong>"
+msgstr ""
+
+#. Found in description paragraph.
+msgid "<strong>Successfully works with all Major Browsers</strong>"
+msgstr ""
+
+#. Found in description paragraph.
+msgid "<strong>NOTE</strong>"
+msgstr ""
+
+#. Found in description list item.
+msgid "English"
+msgstr ""
+
+#. Found in description list item.
+msgid "Are statistics of downloaded files"
+msgstr ""
+
+#. Found in description list item.
+msgid "Any document/file type, open the right window"
+msgstr ""
+
+#. Found in description list item.
+msgid "Simple select file from Media library or upload new"
+msgstr ""
+
+#. Found in description list item.
+msgid "Shortcode to select from the media library a file"
+msgstr ""
+
+#. Found in description list item.
+msgid "Custom button Name, Datetime and other Information"
+msgstr ""
+
+#. Found in description list item.
+msgid "Custom info box image upload"
+msgstr ""
+
+#. Found in description list item.
+msgid "Show/Hide additional thanks"
+msgstr ""
+
+#. Found in description list item.
+msgid "Twenty Ten"
+msgstr ""
+
+#. Found in description list item.
+msgid "Twenty Eleven"
+msgstr ""
+
+#. Found in description list item.
+msgid "Twenty Twelve"
+msgstr ""
+
+#. Found in description list item.
+msgid "Twenty Thirteen"
+msgstr ""
+
+#. Found in description list item.
+msgid "Twenty Fourteen"
+msgstr ""
+
+#. Found in description list item.
+msgid "Twenty Fifteen"
+msgstr ""
+
+#. Found in description list item.
+msgid "Twenty Sixteen"
+msgstr ""
+
+#. Found in description paragraph.
+msgid "<strong>FREE</strong>"
+msgstr ""
+
+#. Found in description paragraph.
+msgid "<strong>Successfully works with this Themes:</strong>"
+msgstr ""
+
+#. Screenshot description.
+msgid "Any document/file Type,this downloader open the right window (here image PNG)"
+msgstr ""
+
+#. Screenshot description.
+msgid "Or here with MP3 file"
+msgstr ""
+
+#. Screenshot description.
+msgid "And another file with PDF file type"
+msgstr ""
+
+#. Found in description list item.
+msgid "Can useable any File-Types (PDF, ZIP, MP3, MPEG...)"
+msgstr ""
+
+#. Found in description paragraph.
+msgid ""
+"In like please support us so that we can continue to develop this plugin regularly, it must nich always be financially even if we grade this helps most, but requests such as feedback or recommend us, or to engage with it as a sponsor, we develop more useful free plugins can. \n"
+"You see it is much more possible if you want to support something, thanks to all of us support."
+msgstr ""
+
+#. Found in description list item.
+msgid "Multiple placeble (duplicates and singles) "
+msgstr ""
+
+#. Found in description list item.
+msgid "Works in any post, page and text widget (Sidebars)"
+msgstr ""
+
+#. Found in description list item.
+msgid "No page refresh required (duplicate downloads and singles)"
+msgstr ""
+
+#. Found in description list item.
+msgid "Prevents double count (duplicate downloads and singles)"
+msgstr ""
+
+#. Found in description list item.
+msgid "Download information overview"
+msgstr ""
+
+#. Found in description list item.
+msgid "Custom button icon Color"
+msgstr ""
+
+#. Found in description list item.
+msgid "Refresh on downloads overview"
+msgstr ""
+
+#. Screenshot description.
+msgid "A small overview"
+msgstr ""
+
+#. Screenshot description.
+msgid "Single"
+msgstr ""
+
+#. Screenshot description.
+msgid "Single and Single"
+msgstr ""
+
+#. Screenshot description.
+msgid "Duplicate and Single"
+msgstr ""
+
+#. Screenshot description.
+msgid "Place the Shortcode on any text widget"
+msgstr ""
+
+#. Found in description list item.
+msgid "Mozilla Firefox"
+msgstr ""
+
+#. Found in description list item.
+msgid "Google Chrome"
+msgstr ""
+
+#. Found in description list item.
+msgid "Opera"
+msgstr "Opera"
+
+#. Found in description list item.
+msgid "Safari"
+msgstr "Safari"
+
+#. Found in description list item.
+msgid "Internet Explorer"
+msgstr "Internet Explorer"
+
+#. Found in description paragraph.
+msgid "<strong>Melibu WP Download Counter Button</strong>"
+msgstr ""
+
+#. Found in description paragraph.
+msgid ""
+"It counts the number of downloads and displays it on the button, while it offers any file type for download.\n"
+"It gives you an overview of your downloads, so you are always up to date As for what your downloads.\n"
+"And many more... Check it out !"
+msgstr ""
+
+#. Found in description paragraph.
+msgid ""
+"The Melibu WP Download Counter Button is designed as an assisting WordPress user plugin. \n"
+"This Melibu WP Download Counter button makes your users secure attention to your downloads."
+msgstr ""
+
+#. Found in installation paragraph.
+msgid "<strong>Manually (WP Admin-Backend)</strong>"
+msgstr ""
+
+#. Screenshot description.
+msgid "They have optional settings to turn on or off"
+msgstr ""
+
+#. Screenshot description.
+msgid "Check in the Overview your downloads"
+msgstr ""
+
+#. Found in description paragraph.
+msgid "<strong>Functionality</strong>"
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "Yes, you can FontAwesome depending on need to disable or enable."
+msgstr ""
+
+#. Found in faq header.
+msgid "The plugin binds fontawesome, do that many plugins, often are then integrated up to 6 times ... there is the option that you can turn and use of elsewhere ?"
+msgstr ""
+
+#. Found in description list item.
+msgid "Custom thanks Title &amp; Description"
+msgstr ""
+
+#. Found in description list item.
+msgid "Show/Hide additional FontAwesome CSS"
+msgstr ""
+
+#. Screenshot description.
+msgid "You can adjust the settings easily so it fits your needs"
+msgstr ""
+
+#. Screenshot description.
+msgid "Say Thank You! The Thanks Window shows a Modal with your custom text after clicking the download button"
+msgstr ""
+
+#. Screenshot description.
+msgid "Place the Shortcode on any page or post"
+msgstr ""
+
+#. Found in installation paragraph.
+msgid "Install Melibu WP Download Counter Button via the plugin directory:"
+msgstr ""
+
+#. Found in description list item.
+msgid "Development is fueled by your praise and feedback."
+msgstr ""
+
+#. Found in installation paragraph.
+msgid "or by uploading the files manually to your server:"
+msgstr ""
+
+#. Found in installation list item.
+msgid "Download the Melibu WP Download Counter Button"
+msgstr ""
+
+#. Found in installation list item.
+msgid "Upload the Melibu WP Download Counter Button directory to the /wp-content/plugins/ directory"
+msgstr ""
+
+#. Found in installation list item.
+msgid "Activate the plugin through the Plugins menu"
+msgstr ""
+
+#. Found in installation list item.
+msgid "Go to Plugins &gt; Add New &gt; search for download counter button"
+msgstr ""
+
+#. Found in installation list item.
+msgid "Press Install Now for the download counter button plugin"
+msgstr ""
+
+#. Found in installation list item.
+msgid "Press Activate Plugin"
+msgstr ""
+
+#. Found in description list item.
+msgid "Custom button Color"
+msgstr ""
+
+#. Found in description list item.
+msgid "Show/Hide additional info box"
+msgstr ""
+
+#. Found in description list item.
+msgid "Choose your Layout"
+msgstr ""
+
+#. Found in description list item.
+msgid "Counts your downloads/clicks"
+msgstr ""
+
+#. Found in description list item.
+msgid "Returns the current number of downloads/clicks"
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "Yes, you can Choose between different layouts."
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "Yes, you can change the button background color, icon background and the label background color."
+msgstr ""
+
+#. Found in faq header.
+msgid "Can I change colors?"
+msgstr ""
+
+#. Found in faq header.
+msgid "Can I change the layout?"
+msgstr ""
+
+#. Found in changelog paragraph.
+msgid "<strong>Can be placeble multiple</strong>"
+msgstr ""
+
+#. Found in changelog paragraph.
+msgid "<strong>Can be placeble duplicate</strong>"
+msgstr ""
+
+#. Found in changelog paragraph.
+msgid "<strong>Can be placeble in a any text widget</strong>"
+msgstr ""
+
+#. Found in changelog paragraph.
+msgid "<strong>Download Overview</strong>"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Statistics"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Refresh function"
+msgstr ""
+
+#. Found in description paragraph.
+msgid "<strong>LANGUAGES</strong>"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "The shortcode accesses now directly the media library for select of the download file"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Responsive layout fixed"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Download Button layout fixed"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Flat colors now without border-radius for real flatness"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Image in download info box fixed"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Duplicate instance crash, fixed"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Javascript fixed"
+msgstr ""
+
+#. Found in changelog paragraph.
+msgid "<strong>Shortcode otpion</strong>"
+msgstr ""
+
+#. Found in changelog paragraph.
+msgid "<strong>Updates:</strong>"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "FontAwesome 4.6.1"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Basic Admin Panel"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Now support all File Types"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Downloads have Page-Navigation"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Downloads set Setting per Page"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Wp Editor Shortcode not filled with instance, now fixed."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Melibu Grid-System fixed for other Theme and Plugin grids."
+msgstr ""
+
+#. Found in changelog paragraph.
+msgid "<strong>Responsive Design</strong>"
+msgstr ""
+
+#. Found in changelog paragraph.
+msgid "<strong>Supports</strong>"
+msgstr ""
+
+#. Found in changelog paragraph.
+msgid "<strong>Languages</strong>"
+msgstr ""
+
+#. Found in changelog paragraph.
+msgid "<strong>Other</strong>"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Flat-Colors for more Design combination."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Can be placeble a image in the infobox."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "[download instance=\"1\"... ]...URL-1...[/download]"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "[download instance=\"2\"... ]...URL-2...[/download]"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "[download instance=\"3\"... ]...URL-3...[/download]"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "[download instance=\"4\"... ]...URL-4...[/download]"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "[download instance=\"1\" name=\"Name in the Label\" datetime=\"14.1.2016 04:07\" other=\"v.0.9\"]...URL...[/download]"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Organisation II"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Organisation III"
+msgstr ""
+
+#. Found in description list item, changelog list item.
+msgid "German"
+msgstr "Germană"
+
+#. Found in description list item, changelog list item.
+msgid "Turkey"
+msgstr "Turkey"
+
+#. Found in changelog list item.
+msgid "Clicking on the count in the Downloads led not as desired for goal but gave an error has been fixed (\"Download --&gt;(34)&lt;--\")"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Bownload-n, Cancel- and Goto Download-Button text-decoration was removed."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Organisation designs, fixed."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "The latest version has not held the last time without JS, was fixed."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "jQuery was removed and written only required pure Javascript Code (&amp; AJAX) * FULL PERFORMENCE *"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Change the button icon color different"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "On Downlods tab downloads badge width corrected"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "CSS design corrected"
+msgstr ""
+
+#. Found in changelog paragraph.
+msgid "<strong>Button Icon color</strong>"
+msgstr ""
+
+#. Found in changelog paragraph.
+msgid "<strong>2 Layouts</strong>"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "File url"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "File name"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "File type"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "File size"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "File download counts"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "File last access"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "On Update process produce duplicate id, was resolved"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Change main language in english for other translations"
+msgstr ""
+
+#. Found in changelog paragraph.
+msgid ""
+"The old version included 1.0 files in where previously downloaded number will be replaced, in which you read out and store it in the database,\n"
+"save after the file automatically removed."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Cancel oppurtunity in the thanks window"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "File information in the label is supplemented with the type"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Right-click didn't counted the downloads,  even prevented"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "If JavaScript was turned off the download wasn't count, corrected now."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Few times the button hasn't a hover and an active effect, also corrected."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Uninstall didn't removed all register, was resolved"
+msgstr ""
+
+#. Found in changelog paragraph.
+msgid "File counter was disabled and is completely removed after v.1.5"
+msgstr ""
+
+#. Found in changelog paragraph.
+msgid "First Release"
+msgstr "Prima Versiune"
+
+#. Found in changelog paragraph.
+msgid "<strong>Various bugs have been fixed:</strong>"
+msgstr ""
+
+#. Found in changelog paragraph.
+msgid "<strong>Adding new:</strong>"
+msgstr ""
+
+#. Found in description paragraph, changelog paragraph.
+msgid "<strong>Options</strong>"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Add optional modal"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Updated plugin hasn't been completed (If you have not installed version 1.0, even disable the plugin and re-enable it already, you can update the plugin)"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "The thanks window was a title field in the backend edit enabled, now you can type your own title."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Security fix is the count of downloads."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "In the window thanks x to close was removed."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Plain counting text has been removed."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Color selection has not held the color in the select field to pick, also fixed."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "FontAwesome option introduced. You can decide whether you use MB Download Counter button with or without FontAwesome now."
+msgstr ""

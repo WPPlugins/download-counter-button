@@ -1,0 +1,177 @@
+# Translation of Development (trunk) in Portuguese (Portugal)
+# This file is distributed under the same license as the Development (trunk) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2016-02-20 08:59:49+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/1.1.0-alpha\n"
+"Project-Id-Version: Development (trunk)\n"
+
+#: html/melibu_welcome_page.php:50
+msgid "Diverse Layouts für den Downloader."
+msgstr ""
+
+#: html/melibu_welcome_page.php:80
+msgid "WP Backend"
+msgstr ""
+
+#: html/melibu_welcome_page.php:81
+msgid "Sie können den Button beliebig im Editor platzieren und Ihren Download anbieten. Desweiteren können Sie Das Layout eintsllen die Farben und weiteres."
+msgstr ""
+
+#: html/melibu_welcome_page.php:98
+msgid "Das Danke Fenster Modal"
+msgstr ""
+
+#: html/melibu_welcome_page.php:99
+msgid "Sie können einen Danke fenster mit Ihrem induviduellen Text einschalten."
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "MeliBu WP Download Counter Button"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "http://samet-tarim.de/wp/melibu-plugins/download-counter-button"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "This Plugin help Developer or other to set a Download button for a file with Counter and informations."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Samet Tarim"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://samet-tarim.de/"
+msgstr ""
+
+#: html/melibu_welcome_page.php:30
+msgid "Autoren:"
+msgstr ""
+
+#: html/melibu_welcome_page.php:31
+msgid "Marketing:"
+msgstr ""
+
+#: html/melibu_welcome_page.php:32
+msgid "Entwickler:"
+msgstr ""
+
+#: html/melibu_welcome_page.php:49
+msgid "Layout"
+msgstr "Layout"
+
+#: html/melibu_welcome_page.php:29
+msgid "Plugin"
+msgstr "Plugin"
+
+#: html/melibu_welcome_page.php:3
+msgid "Melibu Plugin"
+msgstr ""
+
+#: html/melibu_welcome_page.php:6
+msgid "Willkommen zu Melibu"
+msgstr ""
+
+#: html/melibu_welcome_page.php:8
+msgid "Diese Dokumentation soll Ihnen weiterhelfen."
+msgstr ""
+
+#: html/melibu_welcome_page.php:14
+msgid "Was bietet Melibu Download Button"
+msgstr ""
+
+#: html/melibu_welcome_page.php:17 html/melibu_welcome_page.php:23
+msgid "Nächste Schritte"
+msgstr ""
+
+#: html/melibu_welcome_page.php:20
+msgid "Ihr Melibu Team"
+msgstr ""
+
+#: html/melibu_welcome_page.php:28
+msgid "Theme"
+msgstr "Tema"
+
+#: html/download.php:91
+msgid "Hier haben Sie die möglichkeit die Option einzustellen."
+msgstr ""
+
+#: html/download.php:99
+msgid "Modal"
+msgstr ""
+
+#: html/download.php:101
+msgid "Hier können SIe Danke sagen, an den Downloader oder auch mehr."
+msgstr ""
+
+#: html/download.php:114
+msgid "Danke für das Vertrauen in"
+msgstr ""
+
+#: html/download.php:117
+msgid "Version"
+msgstr "Versão"
+
+#: html/download.php:44
+msgid "Hier haben Sie die möglichkeit die Farben einzustellen."
+msgstr ""
+
+#: html/download.php:79
+msgid "Downloader &copy; by"
+msgstr ""
+
+#: html/download.php:89
+msgid "Label"
+msgstr "Rótulo"
+
+#: functions/melibuWPaddshortcode.php:105
+msgid "Danke für Ihr Download, wir hoffen Sie sind mit unserer Software zufrieden."
+msgstr ""
+
+#: functions/melibuWPadminmenus.php:33
+msgid "Optionen"
+msgstr ""
+
+#: html/download/colors_form.php:34 html/download/colors_form.php:49
+#: html/download/layout_form.php:21 html/download/option_form.php:16
+#: html/download/text_form.php:12
+msgid "Speichern"
+msgstr ""
+
+#: html/download.php:3
+msgid "MeliBu Plugin > Download Counter Button"
+msgstr ""
+
+#: html/download.php:11
+msgid "Einstellungen gespeichert!"
+msgstr ""
+
+#: html/download.php:20 html/download.php:32
+msgid "Design"
+msgstr "Design"
+
+#: html/download.php:26 html/melibu_welcome_page.php:12
+msgid "Beschreibung"
+msgstr ""
+
+#: html/download.php:27
+msgid "Basic"
+msgstr "Básico "
+
+#: html/download.php:28
+msgid "+ Premium"
+msgstr ""
+
+#: html/download.php:34
+msgid "Hier haben Sie die möglichkeit das Layout einzustellen."
+msgstr ""
+
+#: html/download.php:42
+msgid "Color"
+msgstr "Côr"
